@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/battaries.pdf",
+    "file": "attachments/d3777e402c_battaries.pdf",
+    "bytes": 461129,
+    "sha256": "5b63cb9dc1d8092103421640ae6a4f7818543772d1c4cdcc6f6b9d41a72096fd",
+    "pages": 1,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/0726.pdf",
+    "file": "attachments/072572a393_0726.pdf",
+    "bytes": 388668,
+    "sha256": "cde272e7419a6b8f5d1bcf7b47043641cead9d8a3bb7174c4c05c210d097fbb1",
+    "pages": 2,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/1225-2.pdf",
+    "file": "attachments/f8c7b3c6a5_1225-2.pdf",
+    "bytes": 279036,
+    "sha256": "6989b2ab2b189223006547b7c3227abec4563520226d1a97a448f486f45aa6e9",
+    "pages": 2,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Forbidden_items_based_on_the_regulation_of_Russian_customs.pdf",
+    "file": "attachments/0a6e3bba62_Forbidden_items_based_on_the_regulation_of_Russian_customs.pdf",
+    "bytes": 625878,
+    "sha256": "d879258e3ff034034a886ba74cfa9d631ea85decfda21fe307fae817c26105f0",
+    "pages": 10,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/LIST_OF_PROHIBITED_GOODS_PLATFORM_CN_0826.pdf",
+    "file": "attachments/60fb37df0a_LIST_OF_PROHIBITED_GOODS_PLATFORM_CN_0826.pdf",
+    "bytes": 499477,
+    "sha256": "b03bbc333a53ac2cb1f2ecabf2170e8fe873709e33d4d435dce7d68d5e78f4b7",
+    "pages": 9,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/List_of_item_categories_for_personal_use_prohibited_for_import.pdf",
+    "file": "attachments/8d5aaf60c8_List_of_item_categories_for_personal_use_prohibited_for_import.pdf",
+    "bytes": 526890,
+    "sha256": "4f865c1615d9f0c5979e90f6af57d0c8ffc73b82cf168ba6fdf539c7e513b12f",
+    "pages": 6,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Restricted_Businesses_and_Activities_for_Sellers_from_China.pdf",
+    "file": "attachments/63839b9bd3_Restricted_Businesses_and_Activities_for_Sellers_from_China.pdf",
+    "bytes": 451638,
+    "sha256": "adc21da2ef2ca8c63aff33edf16d00856e2320b22fa105bef46d593f86bf54d9",
+    "pages": 6,
+    "status": "downloaded",
+    "discovery_depth": 1
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/1225.pdf",
+    "file": "attachments/a90a945635_1225.pdf",
+    "bytes": 294083,
+    "sha256": "4c4a70f344ed5095b8c7cb2669185d05ccd32e92368ee858be5d428b39818f0a",
+    "pages": 4,
+    "status": "downloaded",
+    "discovery_depth": 2
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/1125-2.pdf",
+    "file": "attachments/6b32eef230_1125-2.pdf",
+    "bytes": 372174,
+    "sha256": "283c6fbfa6d5fa47cd302e8120240ed5c9e8a00ae7cb79718b71f73e06267718",
+    "pages": 2,
+    "status": "downloaded",
+    "discovery_depth": 3
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/1125.pdf",
+    "file": "attachments/9afb6a587b_1125.pdf",
+    "bytes": 381648,
+    "sha256": "a2a947f35f1eb36e421d87a35c11f776bc214b567b40f7ed5692027706eeb069",
+    "pages": 3,
+    "status": "downloaded",
+    "discovery_depth": 4
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/1025.pdf",
+    "file": "attachments/ed27dd0c30_1025.pdf",
+    "bytes": 536534,
+    "sha256": "099303aaa73a40bcc084641e3baaac86adc0f1bb769accc718943a9b592b4556",
+    "pages": 12,
+    "status": "downloaded",
+    "discovery_depth": 5
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/0825.pdf",
+    "file": "attachments/f1d134f95d_0825.pdf",
+    "bytes": 562845,
+    "sha256": "7a32935ae478cf36a71fca7fa0d0b68a274ca240d166b84c98c476ab737c5a18",
+    "pages": 5,
+    "status": "downloaded",
+    "discovery_depth": 6
+  }
+]

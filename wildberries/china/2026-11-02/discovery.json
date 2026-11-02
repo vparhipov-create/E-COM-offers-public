@@ -1,0 +1,543 @@
+{
+  "root": "https://seller.wildberries.ru/instructions/ch/ch/categories",
+  "retrieved_on": "2026-11-02",
+  "pages": [
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/get-started-on-wildberries",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/introduction-to-sellers-portal",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/what-to-sell",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/what-you-can-sell-on-wildberries",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/products-requiring-certification",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/brands"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/actions-with-cards",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/card-specifics-by-category",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-place-product-to-the-right-section"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-marketplace-model-fbs-china",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/fbs-labeling",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/fbs-order-management",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-plus"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/large-scale-items",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/large-commodities",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/extra-large-commodities"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-get-more-sales",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/items-promotion",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/communication-with-customers",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/reviews",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/ratings",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/chat-with-customers"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/analytics",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/analytics-report",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/search-analytics",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/survey"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/store-balance-and-documents",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/store-balance",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/transfer-money-to-your-account",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/financial-reports",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/documents"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/account-settings",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-account-and-user-roles",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/change-seller-data",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/data-security"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/integration",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/category/problem-solutions",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/categories",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/contact-support-desk",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/technical-issues",
+        "https://seller.wildberries.ru/instructions/cn/ch/subcategory/rightsholders-info"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/get-started-on-wildberries",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/store-registration-china?categoryId=sign-up&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-receive-payment-invoice-china?categoryId=sign-up&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/pro-wildberries-for-china?categoryId=sign-up&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/profit-calculator-china?categoryId=sign-up&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/your-first-sale-on-wildberries-china?categoryId=sign-up&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/introduction-to-sellers-portal",
+      "links": [
+        "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+        "https://pro.wildberries.cn/zh/events-calendar",
+        "https://seller.wildberries.ru/?fromSellerLanding",
+        "https://seller.wildberries.ru/instructions/cn/ch/category/get-started-on-wildberries",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/sellers-site-main-page-china?categoryId=introduction-to-sellers-portal&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/website-personal-chineese-account-section?categoryId=introduction-to-sellers-portal&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/tariffs-blank-china?categoryId=introduction-to-sellers-portal&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/portal-notifications-introduction-to-sellers-portal-ch?categoryId=introduction-to-sellers-portal&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/terms-and-conditions",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/get-started-on-wildberries",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-use-offer-china?categoryId=terms-and-conditions&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/fines-retentions-and-other-penalties-for-china-sellers?categoryId=terms-and-conditions&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/what-you-can-sell-on-wildberries",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/what-to-sell",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/prohibited-smoking-goods-china?categoryId=what-you-can-sell-on-wildberries&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/prohibited-or-partially-restricted-goods-china?categoryId=what-you-can-sell-on-wildberries&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/products-requiring-certification",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/what-to-sell",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/certificated-items-for-china?categoryId=products-requiring-certification&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-sell-coffee-and-tea-china?categoryId=products-requiring-certification&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/brands",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/what-to-sell",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/original-mark-china?categoryId=brands&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-brand-for-china?categoryId=brands&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/logo-uploading-china?categoryId=brands&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "links": [
+        "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+        "https://pro.wildberries.cn/zh/events-calendar",
+        "https://seller.wildberries.ru/?fromSellerLanding",
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/card-quality-rating-china?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-add-item-cards-china?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-add-item-cards-in-bulk-china?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/product-cetegories-china?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/item-dimensions-measuring-china?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/card-creation-rules-china?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/faq-about-blocking-product-cards-ch?categoryId=about-item-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/item-photo-rules-and-common-mistakes-china?categoryId=about-item-card&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-manage-item-prices-china?categoryId=prices-and-discounts-on-your-goods&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-check-price-and-discount-updates-china?categoryId=prices-and-discounts-on-your-goods&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/window-for-price-management-china?categoryId=prices-and-discounts-on-your-goods&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-club-discount-china?categoryId=prices-and-discounts-on-your-goods&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/price-quarantine-china?categoryId=prices-and-discounts-on-your-goods&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/actions-with-cards",
+      "links": [
+        "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+        "https://pro.wildberries.cn/zh/events-calendar",
+        "https://seller.wildberries.ru/?fromSellerLanding",
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/merge-item-cards-china?categoryId=actions-with-cards&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/cards-statuses-limits-and-settings-for-china?categoryId=actions-with-cards&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/edit-cards-in-bulk-china?categoryId=actions-with-cards&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/card-specifics-by-category",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/adult-items-cards-blank?categoryId=card-specifics-by-category&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-lingerie-cards-for-china?categoryId=card-specifics-by-category&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-cards-for-bijouterie-china?categoryId=card-specifics-by-category&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/age-restriction-labeling-for-cosmetics?categoryId=card-specifics-by-category&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/rating-and-search-blank?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/card-analytics-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/size-chart-in-the-product-card-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/photo-editor-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/rich-content-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/product-tags-on-photos-in-the-product-card-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/a-b-testing-of-the-main-photo-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/photostudio-product-photo-generation-using-ai-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/seller-recommends-block-in-the-product-card-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/video-autoplay-in-product-card-and-catalog-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/search-results-and-ranking-blank-china?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/recommendations-for-model-shooting-ch?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/recommendations-for-product-photography-ch?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-optimize-the-product-profile-ch?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-place-product-to-the-right-section",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-add-items-in-your-store",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-card-gets-to-the-right-website-section-china?categoryId=how-to-place-product-to-the-right-section&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-marketplace-model-fbs-china",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/marketplace-model-fbs-china?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-a-sellers-warehouse?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/step-one-fbs-order-processing-china?categoryId=how-to-process-orders-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-manage-in-fbs-china?categoryId=how-to-process-orders-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/interactive-assembly-task-china?categoryId=how-to-process-orders-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-track-order-status-ch?categoryId=how-to-process-orders-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/first-mile-logistics-dpx?categoryId=how-to-process-orders-in-fbs&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/pack-items-in-fbs-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-electronics-and-household-appliances-in-fbs-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-fragile-and-adult-items-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-sport-and-baby-food-pet-and-health-items-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-toys-and-items-for-babies-in-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-cosmetics-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-chemicals-and-building-materials-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-books-stationery-and-handycraft-items-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-furniture-household-items-plumbing-dishes-musical-instruments-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-clothes-shoes-and-accessories-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-garden-and-summer-cottage-items-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-automotive-items-for-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/fbs-labeling",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/labeling-items-in-fbs-china?categoryId=fbs-labeling&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/fbs-order-management",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/balance-management?categoryId=fbs-order-management&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/item-returns-by-customer-china?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-track-returned-item-china?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/order-cancellation-china?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/return-of-goods-with-manufacturing-defects-china?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/return-to-pickup-point?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/returns-and-movement-of-items-report-china?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/item-returns-to-seller-from-china-warehouse?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-plus",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/orders-management-with-fbs-model",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-plus-model-in-china?categoryId=wb-plus&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/rets-warehouse-for-china?categoryId=wb-plus&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/cel-warehouse-in-china?categoryId=wb-plus&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/uni-warehouse?categoryId=wb-plus&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/large-commodities",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/large-scale-items",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/bulky-items-shipment-in-fbs-china?categoryId=large-commodities&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/extra-large-commodities",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/large-scale-items",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/return-oversized-items-china?categoryId=extra-large-commodities&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/oversized-items-return-china?categoryId=extra-large-commodities&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/how-to-get-more-sales",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/djem-subscription-options-ch?categoryId=jam&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/jam-tariffs-ch?categoryId=jam&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/replacement-articles-cn?categoryId=jam&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/is-jam-profitable-for-the-seller-china?categoryId=jam&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/history-of-payments-for-services-china?categoryId=jam&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-increase-limits-of-the-jam-services-cn?categoryId=jam&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-subscribe-to-jam?categoryId=jam&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/items-promotion",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promo-events-china?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/events-items-ranking-blank-china?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/events-calendar-blank-china?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/auto-promotion-ch?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-set-minimal-price-and-block-auto-promotions-ch?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/discount-depth-in-autopromotions-ch?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-add-all-suitable-products-to-an-autopromotion-with-one-button-ch?categoryId=events-and-discounts&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/seller-promocodes-ch?categoryId=events-and-discounts&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/items-promotion",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promotion-unified-prom-activities?categoryId=wb-promotion&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/search-clusters-china?categoryId=wb-promotion&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-start-promotion-on-wildberries?categoryId=wb-promotion&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-choose-a-rate-for-promotion?categoryId=wb-promotion&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promotion-account-replenishment-from-sellers-balance-in-china?categoryId=wb-promotion&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/frequently-asked-questions-about-product-search-and-promotion?categoryId=wb-promotion&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/statistics-and-promotion-management-china?categoryId=wb-promotion&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/reviews",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/communication-with-customers",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/customer-questions-china?categoryId=reviews&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/customer-reviews-china?categoryId=reviews&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/pinned-reviews-china?categoryId=reviews&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/questions-about-customer-reviews-ch?categoryId=reviews&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/ratings",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/communication-with-customers",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/china-sellers-rating?categoryId=ratings&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/items-rating-china?categoryId=ratings&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/item-ratings-report?categoryId=ratings&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/chat-with-customers",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/communication-with-customers",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/chat-china?categoryId=chat-with-customers&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/analytics",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/sellers-analytics-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/analytics-summary-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/daily-dynamics-and-sales-analysis-report-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/sales-funnel-report-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/order-feed-report-ch?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/report-buyer-portrait-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/history-of-remains-report-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/events-calendar-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/deliveries-by-region-report-ch?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/item-ratings-report?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/sales-funnel-part2-china?categoryId=seller-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/sales-funnel-report-part1-china?categoryId=seller-analytics&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/analytics-report",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/analytics",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/report-niche-analysis-ch?categoryId=analytics-report&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/report-comparison-of-cards-china?categoryId=analytics-report&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/search-analytics",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/analytics",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/report-search-queries-china?categoryId=search-analytics&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/search-analytics-report-china?categoryId=search-analytics&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/survey",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/analytics",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-wb-club-effects-on-sales-for-china?categoryId=survey&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/is-jam-profitable-for-the-seller-china?categoryId=survey&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/store-balance",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/store-balance-and-documents",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/store-balance-china?categoryId=store-balance&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promotion-account-replenishment-from-sellers-balance-in-china?categoryId=store-balance&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/transfer-money-to-your-account",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/store-balance-and-documents",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/infinia-hong-kong-blank?categoryId=transfer-money-to-your-account&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/financial-reports",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/store-balance-and-documents",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/financial-reports-china?categoryId=financial-reports&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/documents",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/store-balance-and-documents",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-receive-payment-invoice-china?categoryId=documents&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-account-and-user-roles",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/account-settings",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/china-users-and-accesses?categoryId=seller-account-and-user-roles&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/website-personal-chineese-account-section?categoryId=seller-account-and-user-roles&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/change-seller-data",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/account-settings",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-change-the-sellers-information-china?categoryId=change-seller-data&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/frequently-asked-questions-for-china?categoryId=change-seller-data&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/data-security",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/account-settings",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/two-factor-authentication-for-personal-account-china?categoryId=data-security&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-change-email-china?categoryId=data-security&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-protect-yourself-from-scammers-ch?categoryId=data-security&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/integration",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/what-is-wb-api-and-how-to-work-with-it-china?categoryId=api-integration&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-connect-via-api-with-token-china?categoryId=api-integration&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-connect-to-api-via-oauth-2-china?categoryId=api-integration&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-update-or-delete-a-wb-api-token-ch?categoryId=api-integration&goBackOption=prevRoute",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/wb-api-data-categories-china?categoryId=api-integration&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/contact-support-desk",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/problem-solutions",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/contact-support-desk-for-china-sellers?categoryId=contact-support-desk&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/technical-issues",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/problem-solutions",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/cache-and-cookies-clearing-china?categoryId=technical-issues&goBackOption=prevRoute"
+      ]
+    },
+    {
+      "url": "https://seller.wildberries.ru/instructions/cn/ch/subcategory/rightsholders-info",
+      "links": [
+        "https://seller.wildberries.ru/instructions/cn/ch/category/problem-solutions",
+        "https://seller.wildberries.ru/instructions/cn/ch/material/digital-arbitration-china?categoryId=rightsholders-info&goBackOption=prevRoute"
+      ]
+    }
+  ]
+}

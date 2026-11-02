@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Zapreshennye_tovary_0826.pdf",
+    "file": "originals/Zapreshennye_tovary_0826.pdf",
+    "bytes": 105154,
+    "sha256": "ea44e3081eeaea06be98fe49e88c6edc8ef58e28b5218fefb59d73c8b432d94a",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/license_agreement/0925.pdf",
+    "file": "originals/0925.pdf",
+    "bytes": 894895,
+    "sha256": "7640b3a297e5d2fda46f4aa28361985671294a341b49940b24c3b592a7753a66",
+    "pages": 19,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/china/range/range.pdf",
+    "file": "originals/range.pdf",
+    "bytes": 493626,
+    "sha256": "522aa362bdf52f7129bf22abcae4ed6f7ec24f3f5c4207e6d46fa75bc520cd00",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/products/correct_category/cn.pdf",
+    "file": "originals/cn.pdf",
+    "bytes": 362724,
+    "sha256": "458e15823ca8570c300fd9937bad246ab9243a15c98e35e5dfbedb5309c8f714",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/0826.pdf",
+    "file": "originals/warehouse_and_tarrifs_0826.pdf",
+    "bytes": 391937,
+    "pages": 2,
+    "sha256": "397d947fd2efc42b5f6b9452cddb26ef6a8d8af602344792493c90361345a42d",
+    "status": "downloaded",
+    "discovery": "printed_URL_in_offer_text"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/fines/crossborder/fines_list/0726.pdf",
+    "file": "originals/fines_list_0726.pdf",
+    "bytes": 333140,
+    "pages": 5,
+    "sha256": "9a70dda187c5284a50b00b2285962ecaaae74a41aa0184b154a82041a895ed2c",
+    "status": "downloaded",
+    "discovery": "printed_URL_in_offer_text"
+  }
+]

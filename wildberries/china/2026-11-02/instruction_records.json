@@ -1,0 +1,2429 @@
+[
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/store-registration-china",
+    "slug": "store-registration-china",
+    "file": "instructions/store-registration-china.md",
+    "title": "注册Wildberries账户",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up",
+      "https://seller.wildberries.cn/about-portal/zh/?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/infinia-hong-kong-blank",
+      "https://seller.wildberries.cn/supplier-settings/supplier-users",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/china-users-and-accesses?categoryId=seller-account-and-user-roles&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "11/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "a2c4e14e614b0310baeee42547cbc99d829391178a53d064fa88dadf44f8f36b"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/sellers-site-main-page-china",
+    "slug": "sellers-site-main-page-china",
+    "file": "instructions/sellers-site-main-page-china.md",
+    "title": "卖家后台首页",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/introduction-to-sellers-portal",
+      "https://seller.wildberries.cn/about-portal/zh/?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://seller.wildberries.cn/analytics-reports",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/contact-support-desk-for-china-sellers?categoryId=contact-support-desk&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/website-personal-chineese-account-section?categoryId=introduction-to-sellers-portal&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "8/27/2026",
+    "body_status": "full_text",
+    "body_sha256": "1ab8fc939653d96391d9d509631cd205c25288edf6282f5de2d56394c0c63c51"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/website-personal-chineese-account-section",
+    "slug": "website-personal-chineese-account-section",
+    "file": "instructions/website-personal-chineese-account-section.md",
+    "title": "卖家后台中的“个人资料”部分",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/introduction-to-sellers-portal",
+      "https://seller.wildberries.ru/supplier-settings/supplier-card",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/users-and-accesses"
+    ],
+    "status": "collected",
+    "updated_text": "11/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "f350b78b5750ff28782e66a9d087e882992dbdb9338b6e8a94dc11ff4cadb60c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/your-first-sale-on-wildberries-china",
+    "slug": "your-first-sale-on-wildberries-china",
+    "file": "instructions/your-first-sale-on-wildberries-china.md",
+    "title": "新卖家指南",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up",
+      "https://seller.wildberries.cn/about-portal/zh/?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://seller.wildberries.ru/instructions/ch/ch/categories",
+      "https://seller.wildberries.ru/confirm-offer-condition/product/view",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-444",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-400",
+      "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Zapreshennye_tovary_200923.pdf",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-303?categoryId=0194fe5f-6dbb-7702-b094-5be30b78f845",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-442?categoryId=0194fe5f-6dbb-7702-b094-5be30b78f845",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-292?categoryId=0194fe5f-6dbb-7710-a534-126e6e55db46",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-318?categoryId=0194fe5f-6dbb-771a-afa5-d76455c6f316",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-293?categoryId=0194fe5f-6dbb-7723-83b2-74cb57dedee",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/original-mark-china",
+      "https://seller.wildberries.ru/discount-and-prices",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-289?categoryId=0194fe5f-6e69-7bfe-aac9-400046e03352",
+      "https://seller.wildberries.ru/marketplace-pass/warehouses",
+      "https://seller.wildberries.ru/marketplace-stocks-management",
+      "https://seller.wildberries.ru/supplier-settings/access-to-api",
+      "https://seller.wildberries.ru/suppliers-product-verification/customer-claims/under-consideration",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-284?categoryId=0194fe5f-6fca-73e1-bdb3-37c38294dfe5",
+      "https://seller.wildberries.ru/dp-promo-calendar",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-332?categoryId=0194fe5f-7428-78b6-a7d5-912fb23647db",
+      "https://cmp.wildberries.ru/campaigns/finances",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-446?categoryId=0194fe5f-7377-75c9-96a8-88aee96c2f3c",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-450?categoryId=0194fe5f-7377-75c9-96a8-88aee96c2f3c",
+      "https://seller.wildberries.ru/supplier-settings/supplier-card",
+      "https://seller.wildberries.ru/supplier-settings/payment-systems",
+      "https://seller.wildberries.ru/instructions/ch/ch/subcategory/01950455-2018-7c23-b0a4-8b38a30ae0bf",
+      "https://seller.wildberries.ru/suppliers-mutual-settlements/reports-implementations/reports-weekly-new",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-280?categoryId=01950455-2018-7c2b-9306-ef4472200121",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-282?categoryId=01950455-2018-7c11-9a33-821c07d01a46",
+      "https://seller.wildberries.ru/content-analytics",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-402?categoryId=0194fe5f-6bf2-7e2f-ad0e-95eab97fac97",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-290?categoryId=0194fe5f-74ce-7a0d-a084-5d91990fee17",
+      "https://seller.wildberries.ru/platform-analytics/niche-analysis/main",
+      "https://seller.wildberries.ru/analytics-reports"
+    ],
+    "status": "collected",
+    "updated_text": "11/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "a59c3ab18633b7837d8c691a0a68af9865de8bac1f92d3e1df25d78ca4faae47"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/tariffs-blank-china",
+    "slug": "tariffs-blank-china",
+    "file": "instructions/tariffs-blank-china.md",
+    "title": "野莓收费标准(平台佣金、运费、仓储费)",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/introduction-to-sellers-portal",
+      "https://seller.wildberries.ru/discount-and-prices"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "51cc2ac83b674d06b8ddee3739f455a51edb7bca0a0af979d3f410e9d2a93fd3"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/pro-wildberries-for-china",
+    "slug": "pro-wildberries-for-china",
+    "file": "instructions/pro-wildberries-for-china.md",
+    "title": "企业发展与支持中心 PRO WB",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up",
+      "https://pro-cn.wildberries.ru/pro/cn/events-calendar",
+      "https://pro.wildberries.cn/past-events/videos/38yHYGyDSjdsM4IDkvCYtaakOTj",
+      "https://pro.wildberries.cn/past-events/videos/35gmAC57MMM8b0ruzCcQrx4bjkD",
+      "https://pro-cn.wildberries.ru/pro/cn/watch?videoId=2ylbuzIwfrOyyrjgD4hq2BSShku",
+      "https://pro.wildberries.cn/past-events/videos/37NPwbasYR6M422njungZyoI6Lc",
+      "https://pro-cn.wildberries.ru/pro/cn/watch?videoId=2v2cDh0le0rCm4IkPsY9dDZuMRq",
+      "https://pro.wildberries.cn/events-calendar",
+      "https://pro.wildberries.cn/?type=online"
+    ],
+    "status": "collected",
+    "updated_text": "9/14/2026",
+    "body_status": "full_text",
+    "body_sha256": "528bd842d2fab70b7c06a90a08ddce81757c58ca53bd855c9b92f8c3e66e25bb"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-receive-payment-invoice-china",
+    "slug": "how-to-receive-payment-invoice-china",
+    "file": "instructions/how-to-receive-payment-invoice-china.md",
+    "title": "如何获取入驻费发票",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "a7570a64358a4c1f74f596ad2ce81b3ee4b7b9e6191297dde9b365fd0dece16c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/profit-calculator-china",
+    "slug": "profit-calculator-china",
+    "file": "instructions/profit-calculator-china.md",
+    "title": "利润计算器",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/sign-up",
+      "https://seller.wildberries.ru/profit-calculator",
+      "https://seller.wildberries.ru/suppliers-mutual-settlements/reports-implementations/reports-weekly-new",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/marketplace-model-fbs-china?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/warehouse-addresses/marketplaces"
+    ],
+    "status": "collected",
+    "updated_text": "9/14/2026",
+    "body_status": "full_text",
+    "body_sha256": "5f9aa3572001a522e026231523e8313a11b56ff1ebe837380e36170b96015d5f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/portal-notifications-introduction-to-sellers-portal-ch",
+    "slug": "portal-notifications-introduction-to-sellers-portal-ch",
+    "file": "instructions/portal-notifications-introduction-to-sellers-portal-ch.md",
+    "title": "卖家平台通知操作指南",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/introduction-to-sellers-portal"
+    ],
+    "status": "collected",
+    "updated_text": "8/21/2026",
+    "body_status": "full_text",
+    "body_sha256": "9ed13da293162b10ba6282411970e1b00709ad407a8bd887eee79a01f3f40816"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/original-mark-china",
+    "slug": "original-mark-china",
+    "file": "instructions/original-mark-china.md",
+    "title": "正品标签",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/brands",
+      "https://seller.wildberries.ru/create-brands?tab=brands",
+      "https://seller.wildberries.ru/create-brands?tab=requests",
+      "https://branddb.wipo.int/en/",
+      "https://sbj.cnipa.gov.cn/sbj/sbcx/"
+    ],
+    "status": "collected",
+    "updated_text": "8/11/2026",
+    "body_status": "full_text",
+    "body_sha256": "ebf0db30ad17ed12a870ea9cb91bf6450151a3c677a8d4ac4818432931fee884"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-sell-coffee-and-tea-china",
+    "slug": "how-to-sell-coffee-and-tea-china",
+    "file": "instructions/how-to-sell-coffee-and-tea-china.md",
+    "title": "茶与咖啡的销售",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/products-requiring-certification",
+      "https://docs.cntd.ru/document/902320347",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-pack-sport-and-baby-food-pet-and-health-items-for-china?categoryId=0197e9de-d11b-705f-b099-e16d628c4286&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "d4d1b70f2c1af8e768dc4ff4a262c13ff2810e17b2256927fa6710bc4dbbb904"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/certificated-items-for-china",
+    "slug": "certificated-items-for-china",
+    "file": "instructions/certificated-items-for-china.md",
+    "title": "需要办理认证的商品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/products-requiring-certification",
+      "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Zapreshennye_tovary_200923.pdf",
+      "https://roszdravnadzor.gov.ru/services/misearch"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "912d874bfc2d27e56ac6f8b23cf2435560b2b31af943e9b89aa68801cbe93096"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/fines-retentions-and-other-penalties-for-china-sellers",
+    "slug": "fines-retentions-and-other-penalties-for-china-sellers",
+    "file": "instructions/fines-retentions-and-other-penalties-for-china-sellers.md",
+    "title": "卖家的罚款、扣款及其他处罚",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/terms-and-conditions",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/product-cetegories-china?categoryId=about-item-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/analytics-reports/banned-products/blocked",
+      "https://static-basket-03.wbbasket.ru/vol47/legalterms/ru/accessmode-rwb.html",
+      "https://seller.wildberries.ru/service-desk-v2/requests/history"
+    ],
+    "status": "collected",
+    "updated_text": "9/14/2026",
+    "body_status": "full_text",
+    "body_sha256": "f60a8f9d471cd52cf0c801294241ebb79d0a8eaa3e03665c4aad77e9cd796e38"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-brand-for-china",
+    "slug": "how-to-create-brand-for-china",
+    "file": "instructions/how-to-create-brand-for-china.md",
+    "title": "品牌创建",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/brands"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "8f7fae51e429b251c450b4b675148bc2e89a93eb09fca08349c95f628df7d3bd"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-use-offer-china",
+    "slug": "how-to-use-offer-china",
+    "file": "instructions/how-to-use-offer-china.md",
+    "title": "要约是如何工作的？",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/terms-and-conditions",
+      "https://seller.wildberries.ru/dynamic-product-categories/commission",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-444"
+    ],
+    "status": "collected",
+    "updated_text": "10/22/2026",
+    "body_status": "full_text",
+    "body_sha256": "6fd49aad5a0e655086ed6c3b91aaa04c4bfbb1cdf85bdc48206c95f85604a1b6"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/prohibited-smoking-goods-china",
+    "slug": "prohibited-smoking-goods-china",
+    "file": "instructions/prohibited-smoking-goods-china.md",
+    "title": "Wildberries 禁售的吸烟用品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/what-you-can-sell-on-wildberries",
+      "https://www.wildberries.ru/catalog/dom/dlya-kureniya",
+      "https://www.consultant.ru/document/cons_doc_LAW_142515/",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/prohibited-or-partially-restricted-goods-china",
+      "https://static-basket-02.wb.ru/vol20/portal/education/instruction/list_of_warehouses_and_tariffs.pdf"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "ab458f3f4f11ce193a3896884c6c1a98ffff8b5b6bedb36242555091bd3b41dd"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/prohibited-or-partially-restricted-goods-china",
+    "slug": "prohibited-or-partially-restricted-goods-china",
+    "file": "instructions/prohibited-or-partially-restricted-goods-china.md",
+    "title": "Wildberries 上禁止销售或部分限制的商品",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/what-you-can-sell-on-wildberries",
+      "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/LIST_OF_PROHIBITED_GOODS_PLATFORM_CN.pdf",
+      "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Zapreshennye_tovary_200923.pdf",
+      "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Strictly_forbidden_items_based_on_the_international_delivery_requirements.pdf",
+      "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Restricted_products_CEL.pdf",
+      "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Restricted_products_Unitrade.pdf",
+      "https://seller.wildberries.cn/confirm-offer-condition/view",
+      "https://static-basket-02.wbbasket.ru/vol20/fines/crossborder/fines_list.pdf"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "7bfc0e7168a7f6a3be7d0c77534303e2f2bf1a5acef75bfd78be15b67961751c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/logo-uploading-china",
+    "slug": "logo-uploading-china",
+    "file": "instructions/logo-uploading-china.md",
+    "title": "上传品牌标志",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/brands",
+      "https://seller.wildberries.cn/"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "61d47698e478af298b4f45bfb8dbaabc43824289a877a1d3314ca11d9b7d8b4f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/item-dimensions-measuring-china",
+    "slug": "item-dimensions-measuring-china",
+    "file": "instructions/item-dimensions-measuring-china.md",
+    "title": "商品包装尺寸测量",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "88e12149408256f0e8601fec84bd413c8cf0a0e09beb812ea1e24acb711f876c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/card-creation-rules-china",
+    "slug": "card-creation-rules-china",
+    "file": "instructions/card-creation-rules-china.md",
+    "title": "商品信息填写规则",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "c2eb86e7a75cda9bd41262b8240d360a4e149cc55fac9ea23dec3bee3f2c9859"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-add-item-cards-in-bulk-china",
+    "slug": "how-to-add-item-cards-in-bulk-china",
+    "file": "instructions/how-to-add-item-cards-in-bulk-china.md",
+    "title": "批量添加商品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/edit-cards-in-bulk-china?categoryId=howtolistitemsinbulk&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "9503a35cd01c0bc46ed08f60c2aad412d774c5bb5b0139366e500ad3be1b173c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/faq-about-blocking-product-cards-ch",
+    "slug": "faq-about-blocking-product-cards-ch",
+    "file": "instructions/faq-about-blocking-product-cards-ch.md",
+    "title": "商品详情页被封禁常见问题",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "https://seller.wildberries.ru/analytics-reports/banned-products/blocked",
+      "https://seller.wildberries.ru/service-desk-v2?isCreateDialogOpened=true&tab=all",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/prohibited-or-partially-restricted-goods-china?categoryId=what-you-can-sell-on-wildberries&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/suppliers-product-verification/customer-claims/under-consideration",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/prohibited-or-partially-restricted-items?goBackOption=prevRoute&categoryId=930de369-d0b5-478a-8db3-b0e7644fdb47",
+      "https://seller.wildberries.ru/marketplace-remains-of-goods-new/remains"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "37b9d9e4832ab58d3d867437e76ea2d7d807458e090e8b244e4611f2913aa300"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-add-item-cards-china",
+    "slug": "how-to-add-item-cards-china",
+    "file": "instructions/how-to-add-item-cards-china.md",
+    "title": "如何创建商品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "https://seller.wildberries.ru/new-goods/",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-add-item-cards-in-bulk-china?categoryId=how-to-add-cards-in-bulk&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/product-cetegories-china?categoryId=about-item-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/new-goods/card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-create-brand-for-china?categoryId=about-item-card",
+      "https://eec.eaeunion.org/comission/department/catr/ett/",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.cn/discount-and-prices/main-table",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-manage-item-prices-china?categoryId=prices-and-discounts&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/size-chart-in-the-product-card-china?categoryId=actions-with-cards&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/confirm-offer-condition/product/view",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/photo-editor-china?categoryId=actions-with-cards&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/item-photo-rules-and-common-mistakes-china?goBackOption=prevRoute&categoryId=0194fe5f-6dbb-7702-b094-5be30b78f845",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/video-background-in-the-product-profile-ru?categoryId=how-to-improve-item-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/foreign-agents-book-labeling",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/card-quality-rating-china?categoryId=about-item-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/product-tags-on-photos-in-the-product-card-china?goBackOption=prevRoute&categoryId=how-to-improve-cards",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/photostudio-product-photo-generation-using-ai-china?goBackOption=prevRoute&categoryId=how-to-improve-cards",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/rich-content-china?categoryId=how-to-improve-cards&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/a-b-testing-of-the-main-photo-china?goBackOption=prevRoute&categoryId=how-to-improve-cards",
+      "https://seller.wildberries.ru/instructions/ch/ch/subcategory/how-to-improve-the-product-card",
+      "https://pro.wildberries.cn/past-events/videos/3FAqsn0nKEEQiXm0aXCg0tf3ASa",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/faq-about-blocking-product-cards-ch"
+    ],
+    "status": "collected",
+    "updated_text": "8/11/2026",
+    "body_status": "full_text",
+    "body_sha256": "fa1299d68af4e12838fb0e8b940d9d3aa400ce8c9998cad16fa20924e573c17c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/card-quality-rating-china",
+    "slug": "card-quality-rating-china",
+    "file": "instructions/card-quality-rating-china.md",
+    "title": "商品详情页评分",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-438?categoryId=0194fe5f-7377-75bd-9969-f0de26765316"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "9b63bbfeaa3d9d361b093e300b37463b4642fbd8fdb6c96cc957d781b21b4b83"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/product-cetegories-china",
+    "slug": "product-cetegories-china",
+    "file": "instructions/product-cetegories-china.md",
+    "title": "商品类目",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "https://seller.wildberries.ru/confirm-offer-condition/view",
+      "https://base.garant.ru/12111066/",
+      "https://seller.wildberries.ru/new-goods/card"
+    ],
+    "status": "collected",
+    "updated_text": "6/26/2026",
+    "body_status": "full_text",
+    "body_sha256": "8431d1fe96ce7bb1e8c0903d0cb117bda42984eab7393e2794ce8753a3b3014d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/merge-item-cards-china",
+    "slug": "merge-item-cards-china",
+    "file": "instructions/merge-item-cards-china.md",
+    "title": "商品合并",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/actions-with-cards"
+    ],
+    "status": "collected",
+    "updated_text": "5/19/2026",
+    "body_status": "full_text",
+    "body_sha256": "bda3052bc68cbf995cd526386f05fa2e83b19a5180651c1014a606446195b01d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/price-quarantine-china",
+    "slug": "price-quarantine-china",
+    "file": "instructions/price-quarantine-china.md",
+    "title": "价格审查",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods",
+      "https://seller.wildberries.ru/discount-and-prices/quarantine",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-289?categoryId=0194fe5f-6e69-7bfe-aac9-400046e03352"
+    ],
+    "status": "collected",
+    "updated_text": "8/24/2026",
+    "body_status": "full_text",
+    "body_sha256": "c000a77b3b7ec4f482f84b4463ee141814b65875c1e4c0062253eb330e983fa8"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/edit-cards-in-bulk-china",
+    "slug": "edit-cards-in-bulk-china",
+    "file": "instructions/edit-cards-in-bulk-china.md",
+    "title": "批量编辑商品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/actions-with-cards"
+    ],
+    "status": "collected",
+    "updated_text": "6/5/2026",
+    "body_status": "full_text",
+    "body_sha256": "13b3b07467e79c693020b69e935ffec926b902a689c89bd516bca7e9bf07aa06"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/cards-statuses-limits-and-settings-for-china",
+    "slug": "cards-statuses-limits-and-settings-for-china",
+    "file": "instructions/cards-statuses-limits-and-settings-for-china.md",
+    "title": "商品的状态、限制与设置",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/actions-with-cards",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/card-quality-rating-china"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "930bbdee933e2cef4472961fe3af8168ddc130dd9fd3bdb906668dadb60a7b0f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/window-for-price-management-china",
+    "slug": "window-for-price-management-china",
+    "file": "instructions/window-for-price-management-china.md",
+    "title": "商品价格管理窗口",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "76f0e94e2cc97b2d4e2c49bb2beb5e8ed32b3386cc6b567dfb471de5bfae1fcb"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-manage-item-prices-china",
+    "slug": "how-to-manage-item-prices-china",
+    "file": "instructions/how-to-manage-item-prices-china.md",
+    "title": "如何管理价格与优惠",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods",
+      "https://seller.wildberries.ru/discount-and-prices",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-club-discount-china",
+      "https://seller.wildberries.ru/discount-and-prices/update-history",
+      "https://seller.wildberries.ru/dp-promo-calendar"
+    ],
+    "status": "collected",
+    "updated_text": "7/8/2026",
+    "body_status": "full_text",
+    "body_sha256": "a412f06e576a30a8fe663a9318e0a76fe7bc1357216314e8614264364ba1d0fe"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/wb-club-discount-china",
+    "slug": "wb-club-discount-china",
+    "file": "instructions/wb-club-discount-china.md",
+    "title": "WBClub买家折扣",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods",
+      "https://seller.wildberries.ru/discount-and-prices",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/labels-for-filtering-items?goBackOption=prevRoute&categoryId=bcbf9386-1316-4ad4-ab10-34ddb2857b54",
+      "https://dev.wildberries.ru/#tag/Ceny",
+      "https://seller.wildberries.ru/suppliers-mutual-settlements/reports-implementations/reports-weekly-new"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "4a641b584d52ac3f6891e235488132430d5cc9d8bf2dae154702054e9efb0fba"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-check-price-and-discount-updates-china",
+    "slug": "how-to-check-price-and-discount-updates-china",
+    "file": "instructions/how-to-check-price-and-discount-updates-china.md",
+    "title": "如何检查价格和折扣的更新",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/prices-and-discounts-on-your-goods",
+      "https://seller.wildberries.ru/dp-promo-calendar"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "a6d26eb2ddbd7c7ae2a8ba3932bc49f9e8c586ab402e2512b5c43bd0679fe9fd"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/item-photo-rules-and-common-mistakes-china",
+    "slug": "item-photo-rules-and-common-mistakes-china",
+    "file": "instructions/item-photo-rules-and-common-mistakes-china.md",
+    "title": "商品详情页中的图片与视频：规则、各类目实用建议及常见错误",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-item-card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-add-item-cards-china"
+    ],
+    "status": "collected",
+    "updated_text": "7/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "18d8a90aee822964c900bee20cbaf1228319d70fcabd146cb6aeb6fd43d0811f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-cards-for-bijouterie-china",
+    "slug": "how-to-create-cards-for-bijouterie-china",
+    "file": "instructions/how-to-create-cards-for-bijouterie-china.md",
+    "title": "如何正确设计饰品销售的商品详情页",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/card-specifics-by-category",
+      "https://base.garant.ru/12114068/#block_1000"
+    ],
+    "status": "collected",
+    "updated_text": "7/10/2026",
+    "body_status": "full_text",
+    "body_sha256": "4002027710f7f48ef00873b735ffadbf5f5b5495287755a6fe6cabb7e9196d06"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/card-analytics-china",
+    "slug": "card-analytics-china",
+    "file": "instructions/card-analytics-china.md",
+    "title": "商品分析",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "4f846d0b7e5492ce497507ce7737bacb2d360c1548e0b866488e88666c495515"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/rating-and-search-blank",
+    "slug": "rating-and-search-blank",
+    "file": "instructions/rating-and-search-blank.md",
+    "title": "Wildberries上的商品展示与排名",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/new-goods/all-goods"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "b418bdfbd51af6d288a7416a47cc44c0a06d6194c70c518b8275bb9cc0147f15"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/photo-editor-china",
+    "slug": "photo-editor-china",
+    "file": "instructions/photo-editor-china.md",
+    "title": "图片编辑器",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "49f3ccd9110ff7134e8d23016420295ccecb98e708db224488235906e59ea108"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-lingerie-cards-for-china",
+    "slug": "how-to-create-lingerie-cards-for-china",
+    "file": "instructions/how-to-create-lingerie-cards-for-china.md",
+    "title": "如何设置内衣类商品信息",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/card-specifics-by-category",
+      "https://seller.wildberries.ru/new-goods/card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "6c55a5828c0aca37db00516103c70af9fbd4470d937db7c62f6e1745e1bde466"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/age-restriction-labeling-for-cosmetics",
+    "slug": "age-restriction-labeling-for-cosmetics",
+    "file": "instructions/age-restriction-labeling-for-cosmetics.md",
+    "title": "化妆品“18+”标记",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/card-specifics-by-category",
+      "https://seller.wildberries.ru/confirm-offer-condition/view",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/prohibited-or-partially-restricted-goods-china?goBackOption=prevRoute&categoryId=0194fe5f-6cac-7a68-a70e-4145d3014259",
+      "https://seller.wildberries.ru/card-main/all-goods"
+    ],
+    "status": "collected",
+    "updated_text": "7/14/2026",
+    "body_status": "full_text",
+    "body_sha256": "1be14daf99c97f9da022532211ee4e39d1f6c97b6c45dbf6aad1a6ea277c33b5"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/size-chart-in-the-product-card-china",
+    "slug": "size-chart-in-the-product-card-china",
+    "file": "instructions/size-chart-in-the-product-card-china.md",
+    "title": "商品详情页中的尺码表",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "e082270784eeb123ce2583c863adeccdc8e54178fad3956e414dd758614eaec3"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/adult-items-cards-blank",
+    "slug": "adult-items-cards-blank",
+    "file": "instructions/adult-items-cards-blank.md",
+    "title": "成人用品商品详情页创建规则",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/card-specifics-by-category",
+      "https://seller.wildberries.ru/new-goods/card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "f6da030929751906b2aaf463c7041dc255d3e9935836377099f12991b5617c19"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/recommendations-for-model-shooting-ch",
+    "slug": "recommendations-for-model-shooting-ch",
+    "file": "instructions/recommendations-for-model-shooting-ch.md",
+    "title": "模特拍摄建议",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/item-photo-rules-and-common-mistakes-china"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "b5720eb76d9390ddce09dea05d004a43ce7bd702576ca01d675dedf6d73ae475"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/search-results-and-ranking-blank-china",
+    "slug": "search-results-and-ranking-blank-china",
+    "file": "instructions_retried/search-results-and-ranking-blank-china.md",
+    "title": "商品展示与排名",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/new-goods/all-goods"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "d48a90cc7f93e533fc819b35d8d922ce588041ee73e487061d6bd96a3639862d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/product-tags-on-photos-in-the-product-card-china",
+    "slug": "product-tags-on-photos-in-the-product-card-china",
+    "file": "instructions/product-tags-on-photos-in-the-product-card-china.md",
+    "title": "商品图片中的商品标记",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/monetization/paid-services"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "91feccd696f0ba9084513af681a8849ee009df601084326c73f1b0c4d8e27ae7"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/recommendations-for-product-photography-ch",
+    "slug": "recommendations-for-product-photography-ch",
+    "file": "instructions_retried/recommendations-for-product-photography-ch.md",
+    "title": "商品拍摄建议",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/item-photo-rules-and-common-mistakes-china"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "767a341be61aae32b5f3e891fe36fdc8c9b39c1e92d17ec3a8c06dca1fd486e1"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/seller-recommends-block-in-the-product-card-china",
+    "slug": "seller-recommends-block-in-the-product-card-china",
+    "file": "instructions/seller-recommends-block-in-the-product-card-china.md",
+    "title": "商品页面中 “卖家推荐” 模块",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/monetization/tariffs",
+      "https://seller.wildberries.ru/uploading-recommendations-v2/recommendations/choice-to-add",
+      "https://seller.wildberries.ru/uploading-recommendations-v2/recommendations/choice-to-combine",
+      "https://seller.wildberries.ru/uploading-recommendations-v2/recommendations/loading-template"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "0355397cca30c0d518d861fd3052206d791fa4b322a64c457ec143a27b2a356e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/a-b-testing-of-the-main-photo-china",
+    "slug": "a-b-testing-of-the-main-photo-china",
+    "file": "instructions/a-b-testing-of-the-main-photo-china.md",
+    "title": "商品详情页主图的 A/B 测试",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card"
+    ],
+    "status": "collected",
+    "updated_text": "6/8/2026",
+    "body_status": "full_text",
+    "body_sha256": "1a40f52cced12763e949a9d781f9a8b6c68a07097a236878a8ce75b1fb6e02ec"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/rich-content-china",
+    "slug": "rich-content-china",
+    "file": "instructions/rich-content-china.md",
+    "title": "富媒体内容",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/monetization/jam"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "43d4b64107575505a8ddeb4e10c74672da05f593bdc322ccd89b8c5db23cc97e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/photostudio-product-photo-generation-using-ai-china",
+    "slug": "photostudio-product-photo-generation-using-ai-china",
+    "file": "instructions/photostudio-product-photo-generation-using-ai-china.md",
+    "title": "“虚拟试衣照相馆”：通过神经网络生成商品图片",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/monetization/tariffs",
+      "https://seller.wildberries.ru/new-goods/all-goods",
+      "https://seller.wildberries.ru/monetization/jam"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "d9377bc22f982e84579a3189c46d891a6e2b29d165f6b96b8b6f04cdc6531976"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/video-autoplay-in-product-card-and-catalog-china",
+    "slug": "video-autoplay-in-product-card-and-catalog-china",
+    "file": "instructions/video-autoplay-in-product-card-and-catalog-china.md",
+    "title": "在商品详情页和目录中自动播放视频",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/new-goods/"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "d77b90a91d0f230e6e5b4a5aa6d14f6a04e8c67c3ac9cb58ec49f3e3a9e1a8cd"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/interactive-assembly-task-china",
+    "slug": "interactive-assembly-task-china",
+    "file": "instructions/interactive-assembly-task-china.md",
+    "title": "如何使用交互式配货清单",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/marketplace-model-fbs-china?categoryId=about-marketplace-model-fbs-china"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "f023e0921742e26d5a0191de19c1141bacac9af9ff1b0943922ba606a484a8a9"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-track-order-status-ch",
+    "slug": "how-to-track-order-status-ch",
+    "file": "instructions/how-to-track-order-status-ch.md",
+    "title": "如何跟踪订单状态",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+      "https://seller.wildberries.cn/marketplace-orders-fbs/on-assembly",
+      "https://seller.wildberries.cn/marketplace-orders-fbs/on-delivery",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/what-is-wb-api-and-how-to-work-with-it-china?categoryId=api-integration&goBackOption=prevRoute",
+      "https://dev.wildberries.ru/en/openapi/orders-fbs/#tag/FBS-Assembly-Orders/paths/~1api~1v3~1orders~1status/post",
+      "https://dev.wildberries.ru/en/openapi/orders-fbs/#tag/FBS-Assembly-Orders/paths/~1api~1v3~1orders~1status~1history/post"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "ac3bad0dd2921847f3e61421d979c2de5f81071203c4c742755f7467149ef108"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-a-sellers-warehouse",
+    "slug": "how-to-create-a-sellers-warehouse",
+    "file": "instructions/how-to-create-a-sellers-warehouse.md",
+    "title": "如何创建卖家仓库",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-marketplace-model-fbs-china",
+      "https://seller.wildberries.ru/marketplace-pass/warehouses/warehouse",
+      "https://seller.wildberries.ru/warehouse-addresses/marketplaces"
+    ],
+    "status": "collected",
+    "updated_text": "6/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "e1dcc026b0a70e2df1677591ceffd236e21d9a9914be21394bd66ff414adaf62"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-manage-in-fbs-china",
+    "slug": "how-to-manage-in-fbs-china",
+    "file": "instructions/how-to-manage-in-fbs-china.md",
+    "title": "阶段2: FBS模式订单标签和包装",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/step-one-fbs-order-processing-china?categoryId=basicprinciplesofmanagingordersusingthefbsmodel&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/subcategory/pack-items-in-fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/pack-items-in-fbs-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-oversized-items-china?categoryId=0194fe5f-6cac-7ab3-9af0-3d2b7e3a9399&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/interactive-assembly-task-china?categoryId=basicprinciplesofmanagingordersusingthefbsmodel&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "780f981ca1f62e1a34a7411657d012a0d08ff1d8ead5c8cf75a745054cefa05e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/step-one-fbs-order-processing-china",
+    "slug": "step-one-fbs-order-processing-china",
+    "file": "instructions/step-one-fbs-order-processing-china.md",
+    "title": "阶段 1：按FBS处理新订单",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+      "https://seller.wildberries.ru/marketplace-stocks-management",
+      "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Seller_penalty.pdf",
+      "https://seller.wildberries.ru/marketplace-settings/fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/interactive-assembly-task-china?categoryId=basicprinciplesofmanagingordersusingthefbsmodel&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "ddf797b17b45493f0df18d2f8a0e5e61f0753cfeb374dfc55725b434ff9fe104"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/first-mile-logistics-dpx",
+    "slug": "first-mile-logistics-dpx",
+    "file": "instructions/first-mile-logistics-dpx.md",
+    "title": "头程配送：通过 DPX 进行配送",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-process-orders-in-fbs",
+      "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/0226.pdf",
+      "https://seller.wildberries.ru/confirm-offer-condition/view",
+      "https://seller.wildberries.ru/warehouse-addresses/marketplaces",
+      "https://seller.wildberries.ru/marketplace-stocks-management",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/balance-management?categoryId=0194fe5f-6fca-73e1-bdb3-37c38294dfe5&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-manage-in-fbs-china?categoryId=basicprinciplesofmanagingordersusingthefbsmodel&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/confirm-offer-condition/product/view",
+      "https://seller.wildberries.ru/instructions/ch/ch/subcategory/orderreturns",
+      "https://seller.wildberries.ru/service-desk-v2?tab=all"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "8a8dd6566ce0ea8267dd3e4a1c65283f2ba9284d6c8f43de3fe5dbdfa56486b1"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-optimize-the-product-profile-ch",
+    "slug": "how-to-optimize-the-product-profile-ch",
+    "file": "instructions_retried/how-to-optimize-the-product-profile-ch.md",
+    "title": "如何优化商品详情页",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-improve-the-product-card",
+      "https://seller.wildberries.ru/search-analytics/popular-search-queries",
+      "https://seller.wildberries.ru/platform-analytics/cards-comparison",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/search-analytics-report-china?categoryId=search-analytics&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-subscribe-to-jam?categoryId=jam-subscription&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-add-item-cards-china?categoryId=how-to-add-card-manually&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/rich-content-china?categoryId=how-to-improve-cards&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/product-tags-on-photos-in-the-product-card-china?goBackOption=prevRoute&categoryId=how-to-improve-cards",
+      "https://seller.wildberries.ru/monetization/tariffs"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "8/13/2026",
+    "body_status": "full_text",
+    "body_sha256": "23ecc767e4d71282e46121bb6dfa0f3cbdc48857548e5ab036dded66b39d5e39"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-sport-and-baby-food-pet-and-health-items-for-china",
+    "slug": "how-to-pack-sport-and-baby-food-pet-and-health-items-for-china",
+    "file": "instructions/how-to-pack-sport-and-baby-food-pet-and-health-items-for-china.md",
+    "title": "如何正确包装食品、运动营养、婴儿食品、宠物用品及健康产品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "14d9643dac61e589de527c7e9625b9a7fd9329884ce78d461ad747d9d535bee5"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-fragile-and-adult-items-for-china",
+    "slug": "how-to-pack-fragile-and-adult-items-for-china",
+    "file": "instructions/how-to-pack-fragile-and-adult-items-for-china.md",
+    "title": "如何正确包装易碎商品及成人用品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-620?categoryId=0194fe5f-6fca-73e1-bdb3-37c38294dfe5",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-620#%E5%8D%95%E4%BB%B6%E5%8C%85%E8%A3%85%E7%9A%84%E6%9D%90%E6%96%99",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/adult-items-cards-blank"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "54e60ee3f6bf91e1afaec50ce464d9e5346c27066058b86ced7b624ea5d857fe"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/pack-items-in-fbs-china",
+    "slug": "pack-items-in-fbs-china",
+    "file": "instructions/pack-items-in-fbs-china.md",
+    "title": "FBS模式商品包装要求",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-manage-in-fbs-china?categoryId=basicprinciplesofmanagingordersusingthefbsmodel",
+      "https://static-basket-02.wb.ru/vol20/portal/education/instruction/list_of_warehouses_and_tariffs.pdf",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-oversized-items-china"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "dc333a47f29f0728ca01c4e844ca8158ca3c277a6d83254ae8da70263cda6c89"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-toys-and-items-for-babies-in-china",
+    "slug": "how-to-pack-toys-and-items-for-babies-in-china",
+    "file": "instructions/how-to-pack-toys-and-items-for-babies-in-china.md",
+    "title": "如何正确包装玩具及婴幼儿用品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "1394efb16291df4dbcb661622ac582c5335986d6cd0dec1f7e6baa6148e860f2"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-cosmetics-for-china",
+    "slug": "how-to-pack-cosmetics-for-china",
+    "file": "instructions/how-to-pack-cosmetics-for-china.md",
+    "title": "如何正确包装护理用品与化妆品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "537683cc9a3ef2acd796fc62b354666fbe35c088058134a465b42684c3222a09"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/how-card-gets-to-the-right-website-section-china",
+    "slug": "how-card-gets-to-the-right-website-section-china",
+    "file": "instructions_retried/how-card-gets-to-the-right-website-section-china.md",
+    "title": "商品如何进入客户网站的正确分类",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/how-to-place-product-to-the-right-section"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "d84f6def1d008f0680f4e5f3638b6b0530f2c60107e9daf64c74623bb279b0d1"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/marketplace-model-fbs-china",
+    "slug": "marketplace-model-fbs-china",
+    "file": "instructions_retried/marketplace-model-fbs-china.md",
+    "title": "FBS销售模式",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/about-marketplace-model-fbs-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/subcategory/basicprinciplesofmanagingordersusingthefbsmodel",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/prohibited-or-partially-restricted-goods-china?categoryId=0194fe5f-6cac-7a68-a70e-4145d3014259&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/category/howtolistitemsinyourstore",
+      "https://seller.wildberries.ru/instructions/ch/ch/subcategory/itempricesanddiscounts",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-create-a-sellers-warehouse?categoryId=basicprinciplesofmanagingordersusingthefbsmodel&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/balance-management?categoryId=basicprinciplesofmanagingordersusingthefbsmodel&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "1a3014b8e10eb405acda1f8a84bc4646abdbb955c4a06dc2d4b5f586eb44dee3"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-garden-and-summer-cottage-items-for-china",
+    "slug": "how-to-pack-garden-and-summer-cottage-items-for-china",
+    "file": "instructions/how-to-pack-garden-and-summer-cottage-items-for-china.md",
+    "title": "如何正确包装园艺及庭院用品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "74583f12a0dda9b20bc85f3b2b1788bcb2a29745c15f41163a2b6331f142c3d0"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-chemicals-and-building-materials-for-china",
+    "slug": "how-to-pack-chemicals-and-building-materials-for-china",
+    "file": "instructions/how-to-pack-chemicals-and-building-materials-for-china.md",
+    "title": "如何正确包装家用化学品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "a0b253c31ed6d73f20419cb9d0d9545f5d6e7620d6d453a57d12ba967543bef8"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-books-stationery-and-handycraft-items-for-china",
+    "slug": "how-to-pack-books-stationery-and-handycraft-items-for-china",
+    "file": "instructions/how-to-pack-books-stationery-and-handycraft-items-for-china.md",
+    "title": "如何正确包装图书产品、文具及手工用品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "1bbceb0ce141d4968ed6a0d5927a48daaecc1274e0d6dbf253602ab3f40e1a99"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-furniture-household-items-plumbing-dishes-musical-instruments-for-china",
+    "slug": "how-to-pack-furniture-household-items-plumbing-dishes-musical-instruments-for-china",
+    "file": "instructions/how-to-pack-furniture-household-items-plumbing-dishes-musical-instruments-for-china.md",
+    "title": "如何正确包装家具、家居用品、卫浴产品、餐具、乐器",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "7d8c47b30cf003784e9fe8c4510e27d867e4b9fe79e8db7609f0166a4010341b"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-clothes-shoes-and-accessories-for-china",
+    "slug": "how-to-pack-clothes-shoes-and-accessories-for-china",
+    "file": "instructions/how-to-pack-clothes-shoes-and-accessories-for-china.md",
+    "title": "如何正确包装服装、鞋类和配饰",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "565ae6f8306530e11a9562f2472bc9f51b9d10eda74a4e5fa0d16c50a7b08bc7"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/order-cancellation-china",
+    "slug": "order-cancellation-china",
+    "file": "instructions/order-cancellation-china.md",
+    "title": "订单取消",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+      "https://seller.wildberries.ru/marketplace-orders-fbs/canceled",
+      "https://seller.wildberries.ru/marketplace-stocks-management",
+      "https://seller.wildberries.ru/marketplace-orders-fbs/on-delivery",
+      "https://seller.wildberries.ru/warehouse-addresses/marketplaces"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "1a88d8630c01a7a46c398ac0939e875791caeb21d44d3caef1c181b1cc5bf64b"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-pack-automotive-items-for-china",
+    "slug": "how-to-pack-automotive-items-for-china",
+    "file": "instructions/how-to-pack-automotive-items-for-china.md",
+    "title": "如何正确包装汽车用品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "c1c3760d222b6cdc4c2f109d5a490028fb615caaa04bc27b21eb6bb8cef7bb7e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-pack-electronics-and-household-appliances-in-fbs-for-china",
+    "slug": "how-to-pack-electronics-and-household-appliances-in-fbs-for-china",
+    "file": "instructions_retried/how-to-pack-electronics-and-household-appliances-in-fbs-for-china.md",
+    "title": "FBS模式下如何包装电子产品和家用电器",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/pack-items-in-fbs",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-oversized-items-china"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "a2c8565cf9ddc04945d523549da32fa3dbbeb6ab0b1e8bc879bba13c45323b98"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-track-returned-item-china",
+    "slug": "how-to-track-returned-item-china",
+    "file": "instructions/how-to-track-returned-item-china.md",
+    "title": "退货商品的追踪和汇总",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "e57c36996dcd8ac1a1e4e45d3866b9cbe6b345160cb25fc352f1305cdd02a291"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/balance-management",
+    "slug": "balance-management",
+    "file": "instructions/balance-management.md",
+    "title": "按FBS模式管理库存",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/fbs-order-management",
+      "https://seller.wildberries.ru/new-goods/all-goods",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/prohibited-or-partially-restricted-goods-china",
+      "https://seller.wildberries.ru/marketplace-stocks-management"
+    ],
+    "status": "collected",
+    "updated_text": "8/5/2026",
+    "body_status": "full_text",
+    "body_sha256": "6789152ecc9902fb66bc8d2f05dd660e8dc0dfc93626db46f7fb9fd620a05d66"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/labeling-items-in-fbs-china",
+    "slug": "labeling-items-in-fbs-china",
+    "file": "instructions/labeling-items-in-fbs-china.md",
+    "title": "FBS模式商品标识规范",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/fbs-labeling",
+      "https://seller.wildberries.ru/marketplace-orders-fbs/on-assembly",
+      "https://seller.wildberries.ru/marketplace-orders-fbs/on-delivery",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/pack-items-in-fbs-china?categoryId=pack-items-in-fbs&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "7/7/2026",
+    "body_status": "full_text",
+    "body_sha256": "c5ea4a84c195911984a7264d39230b03d63f1e78c7483fb39fe428a9722de304"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/item-returns-by-customer-china",
+    "slug": "item-returns-by-customer-china",
+    "file": "instructions/item-returns-by-customer-china.md",
+    "title": "买家申请退货",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+      "https://seller.wildberries.cn/suppliers-product-verification/customer-claims/under-consideration",
+      "https://seller.wildberries.ru/suppliers-product-verification/customer-claims/under-consideration"
+    ],
+    "status": "collected",
+    "updated_text": "7/7/2026",
+    "body_status": "full_text",
+    "body_sha256": "e4d0aab392ca18d195b93b506d3a164a799e16623710d0edab34b536b9b6204b"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/return-of-goods-with-manufacturing-defects-china",
+    "slug": "return-of-goods-with-manufacturing-defects-china",
+    "file": "instructions_retried/return-of-goods-with-manufacturing-defects-china.md",
+    "title": "退回有生产缺陷的商品",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "e74974a387d2bf04f82b75b077a77b5cf98909bfa3c6533026b90157d4c7a4c4"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/return-to-pickup-point",
+    "slug": "return-to-pickup-point",
+    "file": "instructions_retried/return-to-pickup-point.md",
+    "title": "在自提点接收退货",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+      "https://seller.wildberries.ru/suppliers-product-verification/customer-claims/under-consideration",
+      "https://seller.wildberries.ru/return-transfer-reports/active",
+      "http://wildberries.ru/"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "10/21/2026",
+    "body_status": "full_text",
+    "body_sha256": "4ab117a340ab84188f89ea3a60571b9420a6009b0007d1538bad97f064c3c4e2"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/rets-warehouse-for-china",
+    "slug": "rets-warehouse-for-china",
+    "file": "instructions/rets-warehouse-for-china.md",
+    "title": "RETS仓库",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-plus",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-plus-model-in-china?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute",
+      "https://seller.wildberries.cn/marketplace-pass/warehouses",
+      "https://seller.wildberries.cn/api-integrations",
+      "https://seller.wildberries.ru/confirm-offer-condition/product/view"
+    ],
+    "status": "collected",
+    "updated_text": "7/13/2026",
+    "body_status": "full_text",
+    "body_sha256": "d8bdfda61ab54b58305a721348e76b147b29890addf5dd7fb9d3400f5ea306dc"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/bulky-items-shipment-in-fbs-china",
+    "slug": "bulky-items-shipment-in-fbs-china",
+    "file": "instructions/bulky-items-shipment-in-fbs-china.md",
+    "title": "通过FBS模式供应大型商品",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/large-commodities",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-oversized-items-china?categoryId=0194fe5f-6cac-7ab3-9af0-3d2b7e3a9399&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/marketplace-pass/warehouses",
+      "https://seller.wildberries.ru/suppliers-product-verification/customer-claims/under-consideration"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "514c2e6e6557f1457c6d6d16f4074d28594f66e7e8d3bea95b9d51351c2d148d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/uni-warehouse",
+    "slug": "uni-warehouse",
+    "file": "instructions/uni-warehouse.md",
+    "title": "UNI仓库",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-plus",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-plus-model-in-china?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute",
+      "mailto:tai.e@unitrade.work",
+      "https://seller.wildberries.cn/instructions/ch/ch/material/how-to-connect-via-api-with-token-china?categoryId=api-integration&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "9/8/2026",
+    "body_status": "full_text",
+    "body_sha256": "09bfa997e2fb1ef9ac0fc1c730caddfd31960d023f1d9cf9d85c01a5a450b33c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/item-returns-to-seller-from-china-warehouse",
+    "slug": "item-returns-to-seller-from-china-warehouse",
+    "file": "instructions/item-returns-to-seller-from-china-warehouse.md",
+    "title": "退货给卖家",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+      "https://seller.wildberries.ru/warehouse-addresses/marketplaces",
+      "https://seller.wildberries.ru/confirm-offer-condition/product/view",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-281?categoryId=0194fe5f-6fca-7413-9c14-0a17e1023672",
+      "https://seller.wildberries.ru/suppliers-product-verification/customer-claims/under-consideration",
+      "https://www.yuque.com/aimuleguojisuyuniml/yrgc0o/hpn44cpxr1mvtl8f#f6a8",
+      "https://static-basket-02.wbbasket.ru/vol20/crossborder/guides/returns/iml.pdf",
+      "https://flydarin.com/pricing",
+      "https://static-basket-02.wbbasket.ru/vol20/news/indigo.pdf",
+      "https://www.kdocs.cn/l/csskbG0qehuJ",
+      "https://static-basket-02.wbbasket.ru/vol20/news/anweilogistics.pdf",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-to-pickup-point?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+      "https://seller.wildberries.cn/marketplace-orders-fbs/archived",
+      "https://seller.wildberries.ru/return-transfer-reports/active",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/returns-and-movement-of-items-report-china?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "10/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "97eb37d620bf45d47bca22b873eb88557a535b3ecae8dd3642f3331a37f552c7"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/return-oversized-items-china",
+    "slug": "return-oversized-items-china",
+    "file": "instructions/return-oversized-items-china.md",
+    "title": "超大型商品的包装通则",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/extra-large-commodities",
+      "https://static-basket-02.wb.ru/vol20/portal/education/instruction/list_of_warehouses_and_tariffs.pdf",
+      "https://seller.wildberries.ru/confirm-offer-condition/product/view",
+      "https://seller.wildberries.ru/marketplace-pass/warehouses",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-oversized-items-china"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "1e543c759ce905e34f0eccd99d79d1e9105490cd83ce538273b4b5d5a9ea5a31"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/jam-tariffs-ch",
+    "slug": "jam-tariffs-ch",
+    "file": "instructions/jam-tariffs-ch.md",
+    "title": "Jam 套餐",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam"
+    ],
+    "status": "collected",
+    "updated_text": "8/24/2026",
+    "body_status": "full_text",
+    "body_sha256": "0dc55c8f1c2fe1f85559dc9c26074d368c937a559f424543834d163d13d17bbf"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/is-jam-profitable-for-the-seller-china",
+    "slug": "is-jam-profitable-for-the-seller-china",
+    "file": "instructions/is-jam-profitable-for-the-seller-china.md",
+    "title": "Jam订阅服务能为卖家带来显著收益吗?",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/survey"
+    ],
+    "status": "collected",
+    "updated_text": "8/24/2026",
+    "body_status": "full_text",
+    "body_sha256": "5f4b1b6b6f85241c6327beb0d7c687e200550464604584a17d1d43db5bfd4706"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/replacement-articles-cn",
+    "slug": "replacement-articles-cn",
+    "file": "instructions/replacement-articles-cn.md",
+    "title": "替换商品编号服务",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-subscribe-to-jam",
+      "https://seller.wildberries.ru/article-substitution",
+      "https://seller.wildberries.ru/tariff-constructor?modal=jamSubscription&utm_channel=help_center&utm_activity_id=1857",
+      "https://seller.wildberries.ru/tariff-constructor?modal=jamAdvancedSubscription&utm_channel=help_center&utm_activity_id=1858",
+      "https://seller.wildberries.ru/tariff-constructor?modal=articleSubstitution&utm_channel=help_center&utm_activity_id=1859"
+    ],
+    "status": "collected",
+    "updated_text": "10/15/2026",
+    "body_status": "full_text",
+    "body_sha256": "b20ec863ee30bbbd787edc627b8569a2a028f49dbfd7d29c7ad632d9a6aca8f1"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/djem-subscription-options-ch",
+    "slug": "djem-subscription-options-ch",
+    "file": "instructions/djem-subscription-options-ch.md",
+    "title": "Jam订阅包含哪些内容",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/report-buyer-portrait-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/report-search-queries-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/sales-funnel-report-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/report-niche-analysis-ch",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/report-comparison-of-cards-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/pinned-reviews-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/video-autoplay-in-product-card-and-catalog-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/product-tags-on-photos-in-the-product-card-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/a-b-testing-of-the-main-photo-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/photostudio-product-photo-generation-using-ai-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/photo-editor-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/seller-recommends-block-in-the-product-card-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/replacement-articles-cn"
+    ],
+    "status": "collected",
+    "updated_text": "8/24/2026",
+    "body_status": "full_text",
+    "body_sha256": "9733aa99d777356bf2507a9c01518d2329faf40d1542634c1120c36bb77d600c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/oversized-items-return-china",
+    "slug": "oversized-items-return-china",
+    "file": "instructions/oversized-items-return-china.md",
+    "title": "超大型商品退货",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/extra-large-commodities",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/return-to-pickup-point?categoryId=orders-cancel-and-returns-in-fbs&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/marketplace-pass/warehouses"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "dc95b9908cefaadd842d2a04911ff97cf791aa01e1bc6cc47a2ca195a95b5b15"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-increase-limits-of-the-jam-services-cn",
+    "slug": "how-to-increase-limits-of-the-jam-services-cn",
+    "file": "instructions/how-to-increase-limits-of-the-jam-services-cn.md",
+    "title": "如何提升 Jam 订阅套餐的服务限额",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam",
+      "https://seller.wildberries.ru/monetization/paid-services",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/china-users-and-accesses?categoryId=seller-account-and-user-roles&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/product-card-a-b",
+      "https://seller.wildberries.ru/pinned-feedbacks/products-list",
+      "https://seller.wildberries.ru/article-substitution?startDate=2026-03-07&endDate=2026-03-13",
+      "https://seller.wildberries.ru/platform-analytics/cards-comparison",
+      "https://seller.wildberries.ru/new-goods/"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "c8fd72ef5b1b528dc34fcc16342a91e036d767e7b8ae65cdbe2c7cea18619403"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promo-events-china",
+    "slug": "wb-promo-events-china",
+    "file": "instructions/wb-promo-events-china.md",
+    "title": "Wildberries 的促销活动",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/dp-promo-calendar",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/events-calendar-blank-china?categoryId=events-and-discounts&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/search-results-and-ranking-blank-china?categoryId=0194fe5f-7377-75c9-96a8-88aee96c2f3c&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/discount-and-prices",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/window-for-price-management-china?categoryId=0194fe5f-6e69-7bfe-aac9-400046e03352&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "a0a9436627586c7db784b2223eeb6cad14af363f2dca42acf705b134daa86854"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-subscribe-to-jam",
+    "slug": "how-to-subscribe-to-jam",
+    "file": "instructions/how-to-subscribe-to-jam.md",
+    "title": "Jam订阅：如何开通、管理和关闭",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/djem-subscription-options-ch?categoryId=jam-subscription&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/jam-tariffs-ch?categoryId=jam-subscription&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/china-users-and-accesses?categoryId=seller-account-and-user-roles&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-increase-limits-of-the-jam-services-cn",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/financial-reports-china?categoryId=financial-reports&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/monetization/tariffs"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "a78c4ffd0c33503e2c5f91d558f07738962aa542d141634ba07995ea0617d315"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/events-items-ranking-blank-china",
+    "slug": "events-items-ranking-blank-china",
+    "file": "instructions/events-items-ranking-blank-china.md",
+    "title": "促销活动中的商品排名",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/dp-promo-calendar"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "c0a81752e754f1ac37e187941c262420fbd3d45882af0b73a9cbbd33d227ff5d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/returns-and-movement-of-items-report-china",
+    "slug": "returns-and-movement-of-items-report-china",
+    "file": "instructions_retried/returns-and-movement-of-items-report-china.md",
+    "title": "退货与商品流转报告",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/orders-cancel-and-returns-in-fbs",
+      "https://seller.wildberries.ru/",
+      "https://seller.wildberries.ru/return-transfer-reports/active"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "9/21/2026",
+    "body_status": "full_text",
+    "body_sha256": "504d2b67646450360d1b68cca02bcd7e5e4d7211ba98040f09feba87ed086fd0"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/ch/ch/material/wb-plus-model-in-china",
+    "slug": "wb-plus-model-in-china",
+    "file": "instructions_retried/wb-plus-model-in-china.md",
+    "title": "WB Plus销售模式",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-plus",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/cel-warehouse-in-china?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/rets-warehouse-for-china?categoryId=about-marketplace-model-fbs-china&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/uni-warehouse"
+    ],
+    "status": "collected",
+    "has_body": true,
+    "updated_text": "9/21/2026",
+    "body_status": "full_text",
+    "body_sha256": "42baa20f9868913add1661d55a51c93fc176c992890b54804b454c643421e6f1"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/history-of-payments-for-services-china",
+    "slug": "history-of-payments-for-services-china",
+    "file": "instructions/history-of-payments-for-services-china.md",
+    "title": "服务付款记录",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/jam",
+      "https://seller.wildberries.ru/monetization/jam"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "6dace28c25af465617e1b12f910229a9333f24dbcad2c5514f1b92642fd43a67"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/cel-warehouse-in-china",
+    "slug": "cel-warehouse-in-china",
+    "file": "instructions/cel-warehouse-in-china.md",
+    "title": "CEL仓库",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-plus",
+      "mailto:%E9%82%AE%E7%AE%B1%EF%BC%9Ahuangwendi@szcel.com.cn",
+      "https://seller.wildberries.cn/api-integrations"
+    ],
+    "status": "collected",
+    "updated_text": "9/21/2026",
+    "body_status": "full_text",
+    "body_sha256": "158a3eaafd1c888e9552380984383b6a449b8e404fd7fdded07a3b5052a2de63"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-add-all-suitable-products-to-an-autopromotion-with-one-button-ch",
+    "slug": "how-to-add-all-suitable-products-to-an-autopromotion-with-one-button-ch",
+    "file": "instructions/how-to-add-all-suitable-products-to-an-autopromotion-with-one-button-ch.md",
+    "title": "如何一键将所有符合条件的商品加入自动促销活动",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/dp-promo-calendar",
+      "https://seller.wildberries.ru/discount-and-prices/update-history",
+      "https://seller.wildberries.ru/discount-and-prices"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "c93afb4995b5e7c6042e3cb5e35c21708c9533d28dedd018c8e3be63e2ad3569"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/auto-promotion-ch",
+    "slug": "auto-promotion-ch",
+    "file": "instructions/auto-promotion-ch.md",
+    "title": "自动促销活动",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/dp-promo-calendar"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "restricted",
+    "body_sha256": "f29320fe204f904c684c0079526a17656682197c077b1af8e65639e32da6e878"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/events-calendar-blank-china",
+    "slug": "events-calendar-blank-china",
+    "file": "instructions/events-calendar-blank-china.md",
+    "title": "活动日历",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/dp-promo-calendar"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "ef39086807fb463fb8af6f351021045b32806c1b3d20f87bc17f6967cc451db6"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-set-minimal-price-and-block-auto-promotions-ch",
+    "slug": "how-to-set-minimal-price-and-block-auto-promotions-ch",
+    "file": "instructions/how-to-set-minimal-price-and-block-auto-promotions-ch.md",
+    "title": "如何为自动促销活动设置最低价格和锁定",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-manage-item-prices-china?categoryId=prices-and-discounts&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "551b946b915e5fd9c4b7706077172b14292c57e2309ca004811cc2fd6f24c846"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/search-clusters-china",
+    "slug": "search-clusters-china",
+    "file": "instructions/search-clusters-china.md",
+    "title": "热门搜索词集群",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "54723fcce344128c2e1324527a44aef265115967e63dcd86cd1d11a051fcb11c"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promotion-unified-prom-activities",
+    "slug": "wb-promotion-unified-prom-activities",
+    "file": "instructions/wb-promotion-unified-prom-activities.md",
+    "title": "WB推广：付费模式与运作原理",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "https://cmp.wildberries.ru/campaigns/create",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-start-promotion-on-wildberries?categoryId=0194fe5f-7428-78cb-a97b-7e258be9abdf&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/card-creation-rules-china?categoryId=about-item-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/search-clusters-china",
+      "https://pro.wildberries.cn/past-events"
+    ],
+    "status": "collected",
+    "updated_text": "6/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "09ff6fbb4dc4fc9d6d52b0cc23ceeb7fff44dfaf8e0b8b92a3cf70dc0a4c394d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/seller-promocodes-ch",
+    "slug": "seller-promocodes-ch",
+    "file": "instructions/seller-promocodes-ch.md",
+    "title": "卖家促销折扣码",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/dp-promo-calendar"
+    ],
+    "status": "collected",
+    "updated_text": "10/29/2026",
+    "body_status": "full_text",
+    "body_sha256": "9e50709df7c331d491c4e46f3bea28e8676010ad27a36cafaa92b14fa2fae101"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/discount-depth-in-autopromotions-ch",
+    "slug": "discount-depth-in-autopromotions-ch",
+    "file": "instructions/discount-depth-in-autopromotions-ch.md",
+    "title": "自动促销活动中的折扣深度",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/events-and-discounts",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-promo-events-china?categoryId=events-and-discounts&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/rating-and-search-blank?categoryId=how-to-improve-the-product-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/events-items-ranking-blank-china?categoryId=events-and-discounts&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/frequently-asked-questions-about-product-search-and-promotion?categoryId=wb-promotion&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/dp-promo-calendar",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/events-calendar-blank-china?goBackOption=prevRoute&categoryId=0194fe5f-7428-78b6-a7d5-912fb23647db"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "4eb27bde07f6772176d39a3e07dab4400b66845c96554d7642bff498191dc9a4"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-choose-a-rate-for-promotion",
+    "slug": "how-to-choose-a-rate-for-promotion",
+    "file": "instructions/how-to-choose-a-rate-for-promotion.md",
+    "title": "如何选择推广出价",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-start-promotion-on-wildberries?categoryId=0194fe5f-7428-78cb-a97b-7e258be9abdf&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-promotion-unified-prom-activities?categoryId=wb-promotion&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "0ca8ed56caff6cb38c6753672f765379818f4ab1c7f3b2970bb74d09196bc17d"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-start-promotion-on-wildberries",
+    "slug": "how-to-start-promotion-on-wildberries",
+    "file": "instructions/how-to-start-promotion-on-wildberries.md",
+    "title": " 如何启动和编辑推广活动",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "https://cmp.wildberries.ru/campaigns/list",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/A-1380",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-promotion-account-replenishment-from-sellers-balance-in-china"
+    ],
+    "status": "collected",
+    "updated_text": "6/1/2026",
+    "body_status": "full_text",
+    "body_sha256": "10ee8d1b0721693f1eaa79f499f1dc69fb3a9e1b9aff9fcff337275ef7ed0385"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/customer-reviews-china",
+    "slug": "customer-reviews-china",
+    "file": "instructions/customer-reviews-china.md",
+    "title": "买家评论",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/reviews",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/A-447?categoryId=0194fe5f-7289-7199-b2cd-3ea467cdd632"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "264232846809226bfa8efd6def73e96303af002ad8bca2ba722b808978bafa44"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/frequently-asked-questions-about-product-search-and-promotion",
+    "slug": "frequently-asked-questions-about-product-search-and-promotion",
+    "file": "instructions/frequently-asked-questions-about-product-search-and-promotion.md",
+    "title": "搜索与推广常见问题解答",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "https://seller.wildberries.cn/search-analytics/my-search-queries",
+      "https://cmp.wildberries.cn/campaigns/statistics",
+      "https://cmp.wildberries.cn/campaigns/create",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-start-promotion-on-wildberries?categoryId=wb-promotion&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-choose-a-rate-for-promotion?categoryId=wb-promotion&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "6/11/2026",
+    "body_status": "full_text",
+    "body_sha256": "6d536e80955a318405b13e8ada222c29c9391add0a529f47472c60adbb0241e8"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/wb-promotion-account-replenishment-from-sellers-balance-in-china",
+    "slug": "wb-promotion-account-replenishment-from-sellers-balance-in-china",
+    "file": "instructions/wb-promotion-account-replenishment-from-sellers-balance-in-china.md",
+    "title": "推广活动的预算与支付",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "https://cmp.wildberries.ru/campaigns/finances",
+      "https://cmp.wildberries.ru/campaigns/create",
+      "https://cmp.wildberries.ru/campaigns/promotions/personal-promotions"
+    ],
+    "status": "collected",
+    "updated_text": "8/13/2026",
+    "body_status": "full_text",
+    "body_sha256": "45e75a5d9faf4a98fcf533e84ca68ff72345ee00104dd4caa0ddf2176fcdb030"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/statistics-and-promotion-management-china",
+    "slug": "statistics-and-promotion-management-china",
+    "file": "instructions/statistics-and-promotion-management-china.md",
+    "title": "推广统计与管理",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/wb-promotion",
+      "https://cmp.wildberries.ru/campaigns/statistics",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-start-promotion-on-wildberries?categoryId=0194fe5f-7428-78cb-a97b-7e258be9abdf&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/card-creation-rules-china?categoryId=about-item-card&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/analytics-reports/banned-products/blocked"
+    ],
+    "status": "collected",
+    "updated_text": "8/24/2026",
+    "body_status": "full_text",
+    "body_sha256": "e31c8363dd53ff4effb2af4037e81d01fd86fe0a51d08199d77ed86f1946e722"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/customer-questions-china",
+    "slug": "customer-questions-china",
+    "file": "instructions/customer-questions-china.md",
+    "title": "买家提问",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/reviews"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "9cf93d3d1d88111da53c8d01e3208ecea131c4f4fded8dedbee1152b129fbbd9"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/items-rating-china",
+    "slug": "items-rating-china",
+    "file": "instructions/items-rating-china.md",
+    "title": "商品的排名",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/ratings",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/china-sellers-rating?goBackOption=prevRoute&categoryId=0194fe5f-7289-71ab-8d88-1b08eba585f7"
+    ],
+    "status": "collected",
+    "updated_text": "10/30/2026",
+    "body_status": "full_text",
+    "body_sha256": "0ffb20309aa9d216becd3d373dc2d02300696f51be6372793197acdb0d2fbd38"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/item-ratings-report",
+    "slug": "item-ratings-report",
+    "file": "instructions/item-ratings-report.md",
+    "title": "商品评分报告",
+    "links": [
+      "https://seller.wildberries.ru/about-portal/zh?utm_source=prowb&utm_medium=webinar&utm_campaign=wbpro&utm_content=helpcenter",
+      "https://pro.wildberries.cn/zh/events-calendar",
+      "https://seller.wildberries.ru/?fromSellerLanding",
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/ratings",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/china-sellers-rating?categoryId=ratings&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "7/17/2026",
+    "body_status": "full_text",
+    "body_sha256": "8e9907b1576f1c11a36d0c4deb801b3005fa71dde518d750d46fbc158e0e3c22"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/sales-funnel-report-china",
+    "slug": "sales-funnel-report-china",
+    "file": "instructions/sales-funnel-report-china.md",
+    "title": "销售漏斗报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/instructions/material/A-1058"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "f027eafec4df71e107f114d9dd8c4d5aae48d428a80e31b9a74d4a3610a2e595"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/daily-dynamics-and-sales-analysis-report-china",
+    "slug": "daily-dynamics-and-sales-analysis-report-china",
+    "file": "instructions/daily-dynamics-and-sales-analysis-report-china.md",
+    "title": "报告“每周销售趋势与分析”",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.cn/analytics-reports/weekly-dynamics"
+    ],
+    "status": "collected",
+    "updated_text": "6/22/2026",
+    "body_status": "full_text",
+    "body_sha256": "5460c75e8676cbe039f21e6d6c4c79b9afca844b3e6df49f2e6a613fad238d92"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/questions-about-customer-reviews-ch",
+    "slug": "questions-about-customer-reviews-ch",
+    "file": "instructions/questions-about-customer-reviews-ch.md",
+    "title": "买家评价常见问题",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/reviews",
+      "https://seller.wildberries.ru/service-desk-v2?tab=all"
+    ],
+    "status": "collected",
+    "updated_text": "8/31/2026",
+    "body_status": "full_text",
+    "body_sha256": "55fe8a40405cfabd0b09e5f39143869b2593fa40b64183ff97d400f9dc217d16"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/pinned-reviews-china",
+    "slug": "pinned-reviews-china",
+    "file": "instructions/pinned-reviews-china.md",
+    "title": "置顶评论",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/reviews",
+      "https://seller.wildberries.ru/monetization/tariffs",
+      "https://seller.wildberries.ru/pinned-feedbacks/products-list",
+      "https://seller.wildberries.ru/feedbacks/feedbacks-tab/not-answered"
+    ],
+    "status": "collected",
+    "updated_text": "10/8/2026",
+    "body_status": "full_text",
+    "body_sha256": "59e5cdbf476a64c5cf9ad63d7810a56b2a1d112dd27fe289dbf758ea3e108cf8"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/china-sellers-rating",
+    "slug": "china-sellers-rating",
+    "file": "instructions/china-sellers-rating.md",
+    "title": "卖家评级",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/ratings"
+    ],
+    "status": "collected",
+    "updated_text": "10/30/2026",
+    "body_status": "full_text",
+    "body_sha256": "a027486041e429a1dd17c15626481690e1f6bebc3b196912175b9cbcec8a1335"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/chat-china",
+    "slug": "chat-china",
+    "file": "instructions/chat-china.md",
+    "title": "与买家聊天",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/chat-with-customers",
+      "https://seller.wildberries.ru/chat-with-clients"
+    ],
+    "status": "collected",
+    "updated_text": "6/30/2026",
+    "body_status": "full_text",
+    "body_sha256": "60fa98034d406d420cf18d8125b4974852bb36cbd498d06c0d2c13e51b2f26b8"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/sellers-analytics-china",
+    "slug": "sellers-analytics-china",
+    "file": "instructions/sellers-analytics-china.md",
+    "title": "卖家分析",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "86a133d4dba9be41cd22f30caa52acec7380825292d00ccb1ddf389090c19d3f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/analytics-summary-china",
+    "slug": "analytics-summary-china",
+    "file": "instructions/analytics-summary-china.md",
+    "title": "分析概览",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.cn/content-analytics",
+      "https://seller.wildberries.cn/content-analytics/interactive-report/main",
+      "https://seller.wildberries.cn/content-analytics/deliveries-by-region",
+      "https://seller.wildberries.ru/content-analytics/history-remains"
+    ],
+    "status": "collected",
+    "updated_text": "10/14/2026",
+    "body_status": "full_text",
+    "body_sha256": "0ecc7f821d9a02ddac9682789f08d79be76510823bd610ba53f7fb4c66d8db20"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/deliveries-by-region-report-ch",
+    "slug": "deliveries-by-region-report-ch",
+    "file": "instructions/deliveries-by-region-report-ch.md",
+    "title": "区域供货报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/content-analytics/deliveries-by-region"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "c262274b1a577334845163839e3e19b7a9ef05b70bc76e5cf52b0a30bd9b2304"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/order-feed-report-ch",
+    "slug": "order-feed-report-ch",
+    "file": "instructions/order-feed-report-ch.md",
+    "title": "“订单动态”报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/content-analytics/order-feed"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "5a82657fedb0af33a35828906e9689a989911626811645c658a52243da9e29e3"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/report-buyer-portrait-china",
+    "slug": "report-buyer-portrait-china",
+    "file": "instructions/report-buyer-portrait-china.md",
+    "title": "买家画像报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/platform-analytics/customer-profile",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/seller-recommends-block-in-the-product-card-china?goBackOption=prevRoute&categoryId=0194fe5f-7377-75bd-9969-f0de26765316",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/product-tags-on-photos-in-the-product-card-china?goBackOption=prevRoute&categoryId=how-to-improve-cards"
+    ],
+    "status": "collected",
+    "updated_text": "11/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "8466b51a0ba118abe0069ed445a385346ad7bd816580b48f549c318e5481065e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/sales-funnel-report-part1-china",
+    "slug": "sales-funnel-report-part1-china",
+    "file": "instructions/sales-funnel-report-part1-china.md",
+    "title": "“销售漏斗”报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/content-analytics/interactive-report/main",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/A-323",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/wb-club-discount-china?categoryId=prices-and-discounts&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "10/13/2026",
+    "body_status": "full_text",
+    "body_sha256": "2b39bfb65703ec007424335835a92e2e22c46afe1b6c19b097a549924638db9b"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/events-calendar-china",
+    "slug": "events-calendar-china",
+    "file": "instructions/events-calendar-china.md",
+    "title": "事件日历报告 ",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/content-analytics",
+      "https://seller.wildberries.ru/content-analytics/interactive-report/main",
+      "https://seller.wildberries.ru/new-goods/all-goods",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/card-quality-rating-china?categoryId=0194fe5f-6dbb-7702-b094-5be30b78f845&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "610a272bcfb8fa91a622204db82bb0de667c6261bcad821c48a2efc068210280"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/sales-funnel-part2-china",
+    "slug": "sales-funnel-part2-china",
+    "file": "instructions/sales-funnel-part2-china.md",
+    "title": "“WB销售漏斗”报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics",
+      "https://seller.wildberries.ru/content-analytics/interactive-report/compareWB",
+      "https://seller.wildberries.ru/platform-analytics/cards-comparison",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/cards-comparing-analytics"
+    ],
+    "status": "collected",
+    "updated_text": "10/13/2026",
+    "body_status": "full_text",
+    "body_sha256": "e4c7810d4ceaeb68d70a6a72731e7f2b4cdb2deaffd6d4d4596095648995e567"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/history-of-remains-report-china",
+    "slug": "history-of-remains-report-china",
+    "file": "instructions/history-of-remains-report-china.md",
+    "title": "《库存历史》报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-analytics"
+    ],
+    "status": "collected",
+    "updated_text": "9/24/2026",
+    "body_status": "full_text",
+    "body_sha256": "fee8f5a0bd10aa923f0f2f0ccd28c1c2385348da29a675ca2fc8eac975f2f250"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/report-comparison-of-cards-china",
+    "slug": "report-comparison-of-cards-china",
+    "file": "instructions/report-comparison-of-cards-china.md",
+    "title": "商品对比报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/analytics-report",
+      "https://seller.wildberries.ru/platform-analytics/cards-comparison",
+      "https://seller.wildberries.ru/monetization/paid-services",
+      "https://seller.wildberries.cn/platform-analytics/niche-analysis/main"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "84c780195263399643690a8705d8aad0935f6eccf2a90a615e8a82323eec6f4e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/report-niche-analysis-ch",
+    "slug": "report-niche-analysis-ch",
+    "file": "instructions/report-niche-analysis-ch.md",
+    "title": "市场分析报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/analytics-report",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/monetization/tariffs",
+      "https://seller.wildberries.ru/content-analytics/search-phrase"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "0bdf86b4adb59bdb6478b912d1932c0268e5f077cc7c01104b6992448c751eba"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/search-analytics-report-china",
+    "slug": "search-analytics-report-china",
+    "file": "instructions/search-analytics-report-china.md",
+    "title": "“WB搜索请求”报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/search-analytics",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/search-analytics/popular-search-queries",
+      "https://seller.wildberries.ru/platform-analytics/niche-analysis/main"
+    ],
+    "status": "collected",
+    "updated_text": "9/25/2026",
+    "body_status": "full_text",
+    "body_sha256": "6860109630ea1dc936dbdec8863c08511903a46265822b15a4f6ccbeb7188a19"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/report-search-queries-china",
+    "slug": "report-search-queries-china",
+    "file": "instructions/report-search-queries-china.md",
+    "title": "报告《搜索请求：您的商品》",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/search-analytics",
+      "https://seller.wildberries.ru/monetization/jam",
+      "https://seller.wildberries.ru/search-analytics/my-search-queries",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/replacement-articles-cn?categoryId=jam-subscription&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-subscribe-to-jam?categoryId=jam-subscription&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ru/ru/material/item-search-results-and-ranking",
+      "https://seller.wildberries.ru/content-analytics/interactive-report/main",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/china-sellers-rating?categoryId=ratings&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "11/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "a0335bffdb092ee9d25144971eae3deded7889a81ea2629e90ee5518d70a139f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/infinia-hong-kong-blank",
+    "slug": "infinia-hong-kong-blank",
+    "file": "instructions/infinia-hong-kong-blank.md",
+    "title": "支付系统绑定指南",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/transfer-money-to-your-account",
+      "https://seller.wildberries.ru/supplier-settings/supplier-card"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "restricted",
+    "body_sha256": "916d46687164fe4bd8957ee69377399a7c0df78d93b6ddc96bd0ea44ff86d1fb"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/financial-reports-china",
+    "slug": "financial-reports-china",
+    "file": "instructions/financial-reports-china.md",
+    "title": "财务报告",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/financial-reports",
+      "https://seller.wildberries.ru/"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "dfce62cfc69026f436c6aad5c7ea5db0b86886243d1b016ca3ed66858649fd99"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-wb-club-effects-on-sales-for-china",
+    "slug": "how-wb-club-effects-on-sales-for-china",
+    "file": "instructions/how-wb-club-effects-on-sales-for-china.md",
+    "title": "WB Club 折扣如何促进销量增长",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/survey",
+      "https://seller.wildberries.ru/discount-and-prices",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-wb-club-effects-on-sales-for-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/search-results-and-ranking-blank-china?categoryId=0194fe5f-7377-75c9-96a8-88aee96c2f3c&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "f7a981e36fcef9dfc6c4ed35cb232625e6951349cd9a009bffd77e64e030e9d3"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/store-balance-china",
+    "slug": "store-balance-china",
+    "file": "instructions/store-balance-china.md",
+    "title": "如何使用余额",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/store-balance",
+      "https://seller.wildberries.ru/payment-history/active",
+      "https://seller.wildberries.ru/suppliers-mutual-settlements/reports-implementations/reports-weekly-new",
+      "https://seller.wildberries.cn/instructions/ch/ch/material/wb-promotion-account-replenishment-from-sellers-balance-in-china?categoryId=01950455-2018-7c23-b0a4-8b38a30ae0bf&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "9/23/2026",
+    "body_status": "full_text",
+    "body_sha256": "1e55d6f4b5f1ea3bee54104549d32b9cd9a1ca34b4686d751e1e7bab26550d8e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/china-users-and-accesses",
+    "slug": "china-users-and-accesses",
+    "file": "instructions/china-users-and-accesses.md",
+    "title": "用户与访问权限",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/seller-account-and-user-roles",
+      "https://seller.wildberries.ru/supplier-settings/",
+      "https://seller.wildberries.ru/supplier-settings/supplier-users"
+    ],
+    "status": "collected",
+    "updated_text": "11/2/2026",
+    "body_status": "full_text",
+    "body_sha256": "74adbc9a918a10492c5d8f64255d65273033714d7a6e825c9deddbcceb7254f0"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/what-is-wb-api-and-how-to-work-with-it-china",
+    "slug": "what-is-wb-api-and-how-to-work-with-it-china",
+    "file": "instructions/what-is-wb-api-and-how-to-work-with-it-china.md",
+    "title": "什么是 WB API 以及如何使用",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration",
+      "https://seller.wildberries.cn/auth-services",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-connect-via-api-with-token-china",
+      "http://seller.wildberries.ru/instructions/ch/ch/material/A-1333"
+    ],
+    "status": "collected",
+    "updated_text": "7/28/2026",
+    "body_status": "full_text",
+    "body_sha256": "dbb55b07aecae76242760dd73d484518439aa17d7f9b49ffcfcbb4ae100df20a"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/frequently-asked-questions-for-china",
+    "slug": "frequently-asked-questions-for-china",
+    "file": "instructions/frequently-asked-questions-for-china.md",
+    "title": "常见问题解答",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/change-seller-data",
+      "https://www.wildberries.ru/seller/",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-change-the-sellers-information-china?goBackOption=prevRoute&categoryId=0194fe5f-7583-7acf-a01a-d2ba52766d00"
+    ],
+    "status": "collected",
+    "updated_text": "7/8/2026",
+    "body_status": "full_text",
+    "body_sha256": "90e68239942c072f9178260aee3569ad325097efc43efc894505c521ad3bcdb5"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/two-factor-authentication-for-personal-account-china",
+    "slug": "two-factor-authentication-for-personal-account-china",
+    "file": "instructions/two-factor-authentication-for-personal-account-china.md",
+    "title": "通过双重身份验证保护个人账户",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/data-security"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "b58d72e1ca7e711dca0a4fc5d483c32bbfb82730c173b89a6636e97267e3cd2b"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-change-the-sellers-information-china",
+    "slug": "how-to-change-the-sellers-information-china",
+    "file": "instructions/how-to-change-the-sellers-information-china.md",
+    "title": "如何更改卖家资料",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/change-seller-data",
+      "https://seller.wildberries.ru/supplier-settings/supplier-card",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/infinia-hong-kong-blank?goBackOption=prevRoute&categoryId=01950455-2018-7c23-b0a4-8b38a30ae0bf"
+    ],
+    "status": "collected",
+    "updated_text": "7/9/2026",
+    "body_status": "full_text",
+    "body_sha256": "80b10a688a0504688f0265616a000abd2f86adc63b828a343701438c49d49812"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-protect-yourself-from-scammers-ch",
+    "slug": "how-to-protect-yourself-from-scammers-ch",
+    "file": "instructions/how-to-protect-yourself-from-scammers-ch.md",
+    "title": "如何防范诈骗分子",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/data-security",
+      "https://seller.wildberries.ru/auth-services",
+      "https://seller.wildberries.ru/supplier-settings/supplier-security",
+      "https://www.wildberries.ru/lk/details"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "aceb1662272493d9ac4263968bf813a8edff7ba7db2f2d12ef1eb3be7e2265bd"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-connect-via-api-with-token-china",
+    "slug": "how-to-connect-via-api-with-token-china",
+    "file": "instructions/how-to-connect-via-api-with-token-china.md",
+    "title": "如何通过令牌连接API",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/what-is-wb-api-and-how-to-work-with-it-china",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-connect-to-api-via-oauth-2-china",
+      "https://dev.wildberries.cn/",
+      "https://seller.wildberries.cn/auth-services",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-create-update-or-delete-a-wb-api-token-ch",
+      "https://seller.wildberries.cn/service-desk-v2?tab=all"
+    ],
+    "status": "collected",
+    "updated_text": "7/28/2026",
+    "body_status": "full_text",
+    "body_sha256": "04f5d9706f4cc6391e08cc3f1bcdb42e187261b0f0f46fb6c5b43cc3b1110956"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-change-email-china",
+    "slug": "how-to-change-email-china",
+    "file": "instructions/how-to-change-email-china.md",
+    "title": "如何更改电子邮箱",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/data-security"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "bb61ab7442327db04761b2e6af0a8a8034b48d1ba9c4bfd7a4178274c4f296ae"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-create-update-or-delete-a-wb-api-token-ch",
+    "slug": "how-to-create-update-or-delete-a-wb-api-token-ch",
+    "file": "instructions/how-to-create-update-or-delete-a-wb-api-token-ch.md",
+    "title": "如何创建，更新或者删除WB API令牌",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-connect-via-api-with-token-china?categoryId=api-integration&goBackOption=prevRoute",
+      "https://seller.wildberries.cn/api-integrations",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-connect-to-api-via-oauth-2-china?categoryId=api-integration&goBackOption=prevRoute",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/what-is-wb-api-and-how-to-work-with-it-china?categoryId=api-integration&goBackOption=prevRoute"
+    ],
+    "status": "collected",
+    "updated_text": "7/31/2026",
+    "body_status": "full_text",
+    "body_sha256": "613d80f3a2e7c3f005118c1bb2491ca76889db7f31e0485dd4e2cdc9ed5d26e1"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/how-to-connect-to-api-via-oauth-2-china",
+    "slug": "how-to-connect-to-api-via-oauth-2-china",
+    "file": "instructions/how-to-connect-to-api-via-oauth-2-china.md",
+    "title": "如何通过 OAuth 2.0连接 API",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/what-is-wb-api-and-how-to-work-with-it-china",
+      "https://seller.wildberries.cn/auth-services",
+      "https://seller.wildberries.cn/api-integrations",
+      "https://dev.wildberries.cn/",
+      "https://seller.wildberries.cn/service-desk-v2?tab=all"
+    ],
+    "status": "collected",
+    "updated_text": "7/30/2026",
+    "body_status": "full_text",
+    "body_sha256": "e57dc0fd6cd1e852e2cae038ae1f634821ab24592a14546419b48985f5a2dc6e"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/wb-api-data-categories-china",
+    "slug": "wb-api-data-categories-china",
+    "file": "instructions/wb-api-data-categories-china.md",
+    "title": "WB API数据类别：如何选择适合您的集成数据",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/api-integration",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-create-update-or-delete-a-wb-api-token-ch",
+      "https://seller.wildberries.ru/instructions/ch/ch/material/how-to-connect-to-api-via-oauth-2-china?categoryId=api-integration&goBackOption=prevRoute",
+      "https://seller.wildberries.cn/news-v2/news-list",
+      "https://seller.wildberries.cn/dynamic-product-categories/delivery",
+      "https://dev.wildberries.cn/sandbox"
+    ],
+    "status": "collected",
+    "updated_text": "7/28/2026",
+    "body_status": "full_text",
+    "body_sha256": "e265b635c68ebd0a3eb58dc109f0fb784572a08dc3f90fdb57ddf275ecabd311"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/contact-support-desk-for-china-sellers",
+    "slug": "contact-support-desk-for-china-sellers",
+    "file": "instructions/contact-support-desk-for-china-sellers.md",
+    "title": "卖家客服",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/contact-support-desk",
+      "https://seller.wildberries.ru/instructions/ch/ch/categories"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "9c05966d1ce083d79d663475e9b5f7305bbf6661de38b79f241ceb49b6cca33f"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/cache-and-cookies-clearing-china",
+    "slug": "cache-and-cookies-clearing-china",
+    "file": "instructions/cache-and-cookies-clearing-china.md",
+    "title": "清除浏览器中的缓存和cookie",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/technical-issues"
+    ],
+    "status": "collected",
+    "updated_text": "5/18/2026",
+    "body_status": "full_text",
+    "body_sha256": "c4fb0a6c21854bd79f47650be67fc42ab4bce76390bcefa47faef9c0f1c72ab8"
+  },
+  {
+    "url": "https://seller.wildberries.ru/instructions/cn/ch/material/digital-arbitration-china",
+    "slug": "digital-arbitration-china",
+    "file": "instructions/digital-arbitration-china.md",
+    "title": "数字仲裁",
+    "links": [
+      "https://seller.wildberries.ru/instructions/cn/ch/subcategory/rightsholders-info",
+      "https://seller.wildberries.ru/copyright-owner?tab=in",
+      "https://www.consultant.ru/document/cons_doc_LAW_454093/"
+    ],
+    "status": "collected",
+    "updated_text": "9/14/2026",
+    "body_status": "full_text",
+    "body_sha256": "b9f7f2539497a13e5ed9f5d338a69e7f81aacb3eaf0e2e9aaa77daf32df895af"
+  }
+]

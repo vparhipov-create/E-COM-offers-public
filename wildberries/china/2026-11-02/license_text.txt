@@ -1,0 +1,1291 @@
+[PDF PAGE 1]
+第 1 页，共 19 页 Page 1 of 19  
+PLATFORM LICENSE 
+AGREEMENT 平台许可协议 
+ 
+This PLATFORM LICENSE AGREEMENT is 
+made and entered into on the License Effective 
+Date (as defined in Clause 1.1.12 hereof), 
+between the Licensor which details are 
+contained in Clause 1.1.17 hereof and Licensee 
+which is defined pursuant to Clause 1.1.14 
+hereof. 
+ 
+本《平台许可协议》（以下简称“本协议”）于许可
+生效日（定义见本协议第 1.1.12 条）由许可方（详细 
+信息见第  1.1.16 条）与被许可方（定义见第  1.1.13
+条）签订。 
+ 
+RECITALS 
+ 
+前言 
+A. Licensee wishes to conduct the Licensee 
+Business for which reason Licensee has 
+applied to the Platform Owner. 
+A. 被许可方希望开展被许可方业务，因此向平台所有
+者提出申请。 
+B. A pre-condition for commencing the Licensee 
+Business is entering into this Agreement 
+between Licensor and Licensee. 
+B. 开始被许可方业务的前提条件是许可方与被许可方
+签订本协议。 
+ 
+AGREEMENT 
+ 
+协议 
+NOW, THEREFORE, in consideration of the 
+foregoing and the mutual covenants and 
+agreements herein contained and for other 
+good and valuable consideration, the receipt  of 
+which is hereby acknowledged, the Parties  
+agree as follows: 
+为此，鉴于上述内容及本协议中双方共同约定的条款
+和条件，以及其他具有价值的对价（双方在此确认其
+已收到），双方达成如下协议： 
+ 
+Article 1. DEFINITIONS 
+ 
+第1条 定义 
+1.1. Definitions. The following terms shall have 
+the meanings set forth below: 
+1.1. 定义 下列术语应具有以下含义： 
+1.1.1. “Action” means any claim, action, suit, 
+inquiry, proceeding, audit or investigation by or 
+before any Governmental Authority, or any 
+other arbitration, mediation or similar 
+proceeding. 
+1.1.1. “诉讼” 指由任何政府机关提起或在其前进行
+的任何索赔、诉讼、案件、调查、程序、审计或调
+查，或任何其他仲裁、调解或类似程序。 
+1.1.2. “Affiliate” means, with respect to any 
+Person, any other Person that directly, or 
+indirectly through one or more intermediaries, 
+1.1.2. “关联方” 指就任何个人而言，任何直接或通
+过一个或多个中介机构间接控制、被控制或与该个人 
+[PDF PAGE 2]
+第 2 页，共 19 页 Page 2 of 19  
+controls, is controlled by, or is under common 
+control with, such first Person including without 
+limitation by means of being a shareholder of 
+more than fifty per cent (50%) of shares or 
+voting rights in such other Person. 
+处于共同控制下的其他个人，包括但不限于通过持有
+超过百分之五十（50%）的股份或投票权而成为该其
+他个人的股东。 
+1.1.3. “Agreement” means this Platform License 
+Agreement. 
+1.1.3. “协议” 指本《平台许可协议》。 
+1.1.4. “Business Day” means any day that is not 
+a Saturday, a Sunday or other day on which 
+banks are required or authorized by Law to be 
+closed in Shenzhen, PRC. 
+1.1.4. “工作日” 指非周六、周日或法律规定中国深
+圳银行关闭的任何其他日期。 
+1.1.5. “Components” means all of the existing 
+proprietary and third -party components to the 
+Platform, including software or other information 
+and technology that is embodied in the Platform, 
+as may be described in Schedule A hereto. 
+1.1.5. “组件”是指平台中现有的所有专有组件和第三
+方组件，包括嵌入于平台中的软件或其他信息与技
+术，具体内容可参见本协议附表 A 所述。 
+1.1.6. “Confidential Information” means all non- 
+public information or material disclosed or 
+provided by one Party to the other Party, either 
+orally or in writing, or obtained by the recipient 
+party from a third party or any other source, 
+concerning any aspect of the business or affairs 
+of the other  Party or its Affiliates, including 
+without limitation, any information or material 
+pertaining to products, formulae, specifications, 
+designs, processes, plans, policies, 
+procedures, employees, work conditions, legal 
+and regulatory affairs, assets, inventory, 
+discoveries, trademarks, patents, 
+manufacturing, packaging, distribution, sales, 
+marketing, expenses, financial st atements and 
+data, customer and supplier lists, raw materials, 
+costs of goods and relationships with third 
+parties. Confidential Information also includes 
+any notes, analyses, compilations, studies or 
+other material or documents prepared by the 
+recipient p arty which contain, reflect or are 
+based, in whole or in part, on the Confidential 
+Information. For the avoidance of doubt: the text 
+of the Agreement does not constitute 
+Confidential Information. 
+1.1.6. “保密信息” 指一方向另一方披露或提供的所
+有非公开信息或材料，无论是口头还是书面形式，或
+接收方从第三方或其他来源获得的信息，涉及另一方
+或其关联方的业务或事务的任何方面，包括但不限于
+与以下内容相关的信息或材料：产品、配方、规格、
+设计、流程、计划、政策、程序、员工、工作条件、
+法律和监管事务、资产、库存、发现、商标、专利、
+制造、包装、分销、销售、营销、费用、财务报表与
+数据、客户和供应商名单、原材料、商品成本以及与
+第三方的关系。保密信息还包括接收方基于保密信息
+编制的任何笔记、分析、汇编、研究或其他材料或文
+件。为避免歧义，本协议的文本不构成保密信息。 
+1.1.7. “Documentation” means any written, 
+printed or otherwise recorded, or stored 
+(including without limitation available on the 
+Platform) material that relates to the Platform, 
+including without limitations technical 
+specifications, training and support materials, 
+descriptions of the principles of operation, other 
+instructions. 
+1.1.7. “文档” 指与平台相关的任何书面、打印或其
+他记录材料，或存储的（包括但不限于可在平台上获
+取的）材料，包括但不限于技术规范、培训和支持材
+料、操作原理描述及其他使用说明。 
+[PDF PAGE 3]
+第 3 页，共 19 页 Page 3 of 19  
+1.1.8. “Governmental Authority ” means any 
+PRC or non -PRC federal, national, 
+supranational, state, provincial, local or similar 
+government, governmental, regulatory or 
+administrative authority, branch, agency or 
+commission or any court, tribunal or arbitral or 
+judicial body (including any grand jury). 
+1.1.8. “政府机关” 指任何中国或非中国的联邦、国
+家、超国家、省级、地方或类似的政府、政府机关、
+监管或行政机关、分支机构、代理机构或委员会，或
+任何法院、仲裁庭或司法机关 （ 包括任何大陪审
+团）。 
+1.1.9. “Improvement” means any invention, 
+modification, addition, derivative work, 
+enhancement, revision, translation, abridgment, 
+or expansion to, or arising from, a work, or any 
+other form in which a work or any part thereof, 
+may be recast, transformed, or adapted. 
+1.1.9. “改进” 指对现有作品的任何发明、修改、补
+充、衍生作品、增强、修订、翻译、删节或扩展，或
+作品的任何部分以任何形式被重塑、转换或改编。 
+1.1.10. “Intellectual Property ” means all 
+intellectual property rights arising from or 
+associated with the following, wh ether 
+protected, created or arising under the Laws of 
+any jurisdiction: (a) trade names, trademarks 
+and service marks (registered and 
+unregistered), domain names and other Internet 
+addresses or identifiers, trade dress and similar 
+rights and applications ( including intent to use 
+applications and similar reservation of marks 
+and all goodwill associated therewith) to register 
+any of the foregoing (collectively, “ Marks”); (b) 
+patents and patent applications (collectively, 
+“Patents”); (c) copyrights (registered  and 
+unregistered) and applications for registration 
+(collectively, “ Copyrights”); (d) trade secrets 
+rights under the Laws of any jurisdiction (“Trade 
+Secrets”), (e) know -how, inventions, methods, 
+processes and processing instruments, 
+technical data, speci fications, research and 
+development information, technology, including 
+rights and licenses, product roadmaps, 
+customer lists and any other information, in 
+each case to the extent any of the foregoing 
+derives significant economic value (actual or 
+potential) from not being generally known to 
+other Persons who can obtain economic value 
+from its disclosure or use, excluding any 
+Copyrights, Patents, or Trade Secrets that may 
+cover or protect any of the foregoing 
+(collectively, “Proprietary Information”); and (f)  
+moral rights, publicity rights, database rights 
+and any other proprietary or intellectual property 
+rights of any kind or nature that do not comprise 
+or are not protected by Marks, Patents, 
+Copyrights, Trade Secrets or Proprietary 
+Information. 
+1.1.10. “知识产权” 指与以下内容相关或由其产生的
+所有知识产权，无论其是否受到保护、在任何司法管
+辖区的法律下创立或产生：(a) 商号、商标和服务标志
+（注册或未注册）、域名及其他互联网地址或标
+识、商业外观以及类似的权利和申请（包括意图使用
+申请和商标保留及相关商誉）（统称为“商标”）； 
+(b) 专利和专利申请 （统称为 “专利”）；(c) 版权  
+（ 注册或未注册 ） 及其注册申请 （ 统称为 “ 版
+权”）；(d) 根据任何司法管辖区的法律享有的商业秘
+密权利（“商业秘密”）；(e) 专有技术、发明、方
+法、工艺、处理工具、技术数据、规格、研发信息、
+技术，包括相关权利和许可、产品路线图、客户名单
+以及其他信息，凡此类信息因不为其他能够从披露或
+使用中获得经济价值的人所知而具有重大的经济价值 
+（无论是实际的还是潜在的），但不包括覆盖或保护
+上述任何内容的版权、专利或商业秘密（统称为“专
+有信息”）；以及(f) 道德权利、宣传权、数据库权以
+及任何其他不属于或未受到商标、专利、版权、商业
+秘密或专有信息保护的知识产权。 
+[PDF PAGE 4]
+第 4 页，共 19 页 Page 4 of 19  
+1.1.11. “Law” means any statute , law, 
+ordinance, regulation, rule, code, executive 
+order, injunction, judgment, decree, or order of 
+any Governmental Authority. 
+1.1.11. “ 法律” 指任何政府机关制定的法律、法
+规、条例、规则、法典、行政命令、禁令、判决、法
+令或命令。 
+1.1.12. “License Effective Date ” means a date 
+when the Agreement is deemed to be effective 
+as between the Licensor and the Licensee 
+pursuant to the terms hereof. 
+1.1.12. “许可生效日” 指根据本协议条款，协议对
+许可方与被许可方之间生效的日期。 
+1.1.13. “License Fee ” means the amount 
+defined in Section 5 payable by Licensee to 
+Licensor in consideration for the  license grant, 
+as defined in Clause 2.1. 
+1.1.13. “许可费” 指第 5 条中定义的，由被许可方 
+向许可方支付的费用，以换取许可方根据第 2.1 条授
+予的许可。 
+1.1.14. “Licensee” means a Person who 
+accepts this Agreement pursuant to its 
+provisions and applied for an enrolment with the 
+Website pursuant to its provisions of the 
+Website Definitive Agreements. 
+1.1.14. “被许可方 ”是指依据本协议条款接受本协
+议，  并根据网站最终协议的规定申请注册至网站
+的·人。 
+1.1.15. “Licensee Business ” means the 
+business of selling consumer goods at the 
+Website. 
+1.1.15. “被许可方业务” 指在网站上销售消费品的业
+务。 
+1.1.16. “Licensee Improvements” means 
+Improvements to the Platform conceived, 
+crafted, acquired or made by, or on behalf of, 
+Licensee after the date hereof, including all 
+intellectual property rights therein or thereto. For 
+the avoidance of doubt: the use of the Platform 
+by Licensee (by a way of example only: creating 
+product cards, uploading images, crating goods 
+descriptions etc) does not constitute the 
+Licensee Improvements. 
+1.1.16. “被许可方改进” 指被许可方在本协议签署后
+构思、制作、获得或由被许可方或代表其所做的对平
+台的改进，包括所有与其相关的知识产权。为避免歧
+义：被许可方使用平台（仅举例：创建产品卡片、上
+传图片、编写商品描述等）不构成被许可方改进。 
+1.1.17. “Licensor” means Wildberries E - 
+Commerce (Shenzhen) Limited, a company 
+incorporated and operating under the Laws of 
+the People’s Republic of China, with Company 
+ID 91440300MACX92LT4K and Registration 
+No. 440300280543438, registered address: 
+431 North, 23rd Building, Keyuan West, No.1 
+Kezhi West Road, Science and Technology 
+Park Community, Yuehai Street, Nanshan 
+District, Shenzhen, PRC. 
+1.1.17. “许可方” 指在中国依法注册成立并运营的
+野 莓 电 子 商 务 （ 深 圳） 有限  公司，  注册  号：  
+91440300MACX92LT4K，注册地址：深圳市南山区
+科技园社区科学路 1 号科智西路 23 栋 431 北，中华
+人民共和国。 
+1.1.18. “Parties” means jointly the Licensor and 
+the Licensee. 
+1.1.18. “双方” 指许可方与被许可方。 
+1.1.19. “Party” means either of the Parties.” 1.1.19. “一方” 指双方中的任何一方。 
+[PDF PAGE 5]
+第 5 页，共 19 页 Page 5 of 19  
+1.1.20. “Person” means an individual, 
+corporation, partnership, limited liability 
+company, limited liability partnership, syndicate, 
+trust, association, organization, or other entity, 
+including any Governmental Authority, and 
+including any successor, by merger or 
+otherwise, of any of the foregoing. 
+1.1.20. “个人” 指个人、公司、合伙企业、有限责
+任公司、有限合伙企业、联合体、信托、协会、组织
+或其他实体，包括任何政府机关，及上述任何实体的
+继任者（无论通过合并或其他方式）。 
+1.1.21. “Platform” means (a) the Licensor’s 
+software platform (only in object code form), as 
+it exists on the License Effective Date, as more 
+fully described on Schedule A, (b) the 
+Components, (c) the Documentation, (d) 
+Platform Improvements, the Components or the 
+Documentation, as each were made by or on 
+behalf of Platform Owner or Licensor prior to the 
+License Effective Date, and  (e) any Platform 
+Improvements, the Components or the 
+Documentation that were made by Licensee 
+and belong to Licensor pursuant to Section 2.5 
+below. 
+1.1.21. “平台” 指：(a) 许可方的软件平台（仅为目
+标代码形式），在许可生效日时存在，并在附表 A 中
+更详细描述；(b) 组件；(c) 文档；(d) 平台改进，组件
+或文档，均为平台所有者或许可方在许可生效日前制
+作的；(e) 任何平台改进、组件或文档，均由被许可方
+制作并根据第 2.5 条归许可方所有。 
+1.1.22. “Platform Improvements” means 
+Improvements to the Platform conceived, 
+crafted, acquired or made by, or on behalf of, 
+Platform Owner after the date hereof, including 
+all intellectual property rights therein or thereto 
+and made available to Licensor. 
+1.1.22. “平台改进” 指平台所有者在本协议签署后
+构思、制作、获得或由平台所有者或代表其制作的对
+平台的改进，包括所有与其相关的知识产权，并提供
+给许可方。 
+1.1.23. “Platform Owner” means RWB Limited 
+Liability Company, a Russia -incorporated 
+company that owns the Platform and has 
+licensed Licensor to sub-license the Platform to 
+Licensee, with registered address at Russian 
+Federation, 142181 Moscow region, Urban 
+district Podolsk, village Koledino, territory of the 
+Industrial Park Koledino, house 6, building 1. 
+1.1.23. “平台所有者”是指 RWB 有限责任公司，一
+家在俄罗斯注册成立的公司，拥有平台所有权，并已
+授权许可方将该平台再许可给被许可方，其注册地址
+为俄罗斯联邦，142181，莫斯科州，波多利斯克市
+区，科列季诺村，科列季诺工业园区，6 号楼 1 栋。 
+1.1.24. “PRC” means the People’s Republic of 
+China. 
+1.1.24. “中华人民共和国” 指中华人民共和国。 
+1.1.25. “Representatives” means, with  respect 
+to any Party, the officers, directors, principals, 
+employees, agents, auditors, advisors, bankers, 
+and other representatives of such Person. 
+1.1.25. “代表” 指与任何一方相关的官员、董事、
+主管、员工、代理人、审计师、顾问、银行家和其他
+代表。 
+1.1.26. “Term” means a period of time which is 
+equal to ten (10) calendar years and 
+commencing on the License Effective Date. 
+1.1.26. “ 期限” 指自许可生效日起为期十 （ 10 ）
+年。 
+1.1.27. “Website” means the Platform Owner’s 
+or Platform Owner’s associates’ website(s) 
+(which    includes    without    limitation 
+1.1.27. “网站”是指平台所有者或其关联方在其运营
+的 国 家 内 运 营 的 网 站 （ 包 括 但 不 限 于 
+www.wildberries.ru）。 
+[PDF PAGE 6]
+第 6 页，共 19 页 Page 6 of 19  
+www.wildberries.ru) in the countries where such 
+website(s) operate. 
+ 
+1.1.28. “Website Definitive Agreements” means 
+any agreement or a set of agreements entered 
+into by and between Platform Owner and 
+Licensee with regard to the Licensee Business. 
+1.1.28. “网站最终协议” 指平台所有者与被许可方就
+被许可方业务达成的任何协议或一套协议。 
+ 
+Article 2. LICENSE 
+ 
+第2条 许可 
+2.1. License Grant . Subject to the terms and 
+conditions of this Agreement, Licensor hereby 
+grants to Licensee a non-exclusive, irrevocable, 
+time-limited, non -sublicensable, fee -based, 
+non-transferable, territory -limited (only those 
+countries where License e can conduct the 
+Licensee Business according to the Website 
+Definitive Agreements) license to use the 
+Platform solely and exclusively in connection 
+with the operation of the Licensee Business, 
+and Licensee shall not disclose to, or provide, 
+any third party access to, use of, or rights in or 
+to, the Platform, except as Representatives of 
+Licensee may access or use the Platform in 
+relation to the Licensee Business in the ordinary 
+course of business. For the avoidance of doubt: 
+the license grant with regard to the Platform 
+does not include (i) any rights to any (a) Patent, 
+and (or) (b) Marks of any Person, and (or) 
+source code of the Platform, and (or) (ii) (a) any 
+rights to receive the objective code of the 
+Platform, and (or) (b) any right to decompile, 
+reverse-engineer, disassemble, or otherwise 
+analyse the code of the Platform. 
+ 
+Licensor at his own discretion may offer to issue 
+multiple licenses (or access the Platform) to the 
+Licensee at his request , herewith the number of 
+such licenses granted to License e may not 
+exceed ten (10). Each license granted to the 
+Licensee provides similar terms and scope of 
+rights, restrictions and obligations under the 
+Agreement. 
+ 
+2.1. 许可授予。根据本协议的条款和条件，许可方在
+此授予被许可方一项非独占的、不可撤销的、有期限
+的、不可再许可的、基于费用的、不可转让的、地域
+限制的（仅限于根据网站最终协议允许被许可方开展
+被许可方业务的国家）许可，以便被许可方仅用于与
+被许可方业务运营相关的目的使用平台。被许可方不
+得向任何第三方披露、提供或允许其访问、使用或享
+有平台的任何权利，但被许可方的代表可在正常业务
+过程中与被许可方业务相关地访问或使用平台。为避
+免疑义：有关平台的许可授予不包括(i)任何(a)专利，
+和/或(b)任何个人的商标，和/或平台的源代码，以及 
+/或(ii)(a)接收平台目标代码的任何权利，和/或(b)对平
+台代码进行反编译、反向工程、拆解或以其他方式分
+析的任何权利。 
+ 
+许可方可自行决定应被许可方的请求向其提供多个许
+可证（或平台访问权限），但授予被许可方的此类许
+可证数量不得超过十（10）个。授予被许可方的每个
+许可证均规定了与本协议相似的条款、权利范围、限
+制和义务。 
+ 
+[PDF PAGE 7]
+第 7 页，共 19 页 Page 7 of 19  
+2.2. Sublicensing and Third Parties . Licensee 
+shall have no right to grant to any Person any 
+license to the Platform. Licensor may at its 
+unrestricted disc retion licen se the Platform to 
+any Person without Licensee’s consent and 
+without any notice to Licensee. Licensee shall 
+establish, maintain, and enforce policies and 
+procedures to safeguard and protect the 
+Platform which are no less rigorous than 
+reasonable standards of Licensee. Licensee will 
+be responsible for all acts and omissions of its 
+employees, Representatives, Affiliates, and 
+other third parties (including their employees 
+and representatives) who have access to the 
+Platform as if such acts or omiss ions were 
+Licensee’s acts or omissions. 
+2.2. 分许可与第三方。被许可方无权向任何人授予平
+台的许可。许可方可根据其不受限制的裁量权，未经
+被许可方同意且不另行通知被许可方，向任何人授予
+平台的许可。被许可方应建立、维护并执行保护平台
+的政策和程序，其标准不低于被许可方合理的标准。
+被许可方应对其员工、代表、关联方及其他第三方  
+（包括其员工和代表）访问平台所造成的所有行为与
+遗漏负责，就如同这些行为或遗漏是被许可方的行为
+或遗漏。 
+2.3. Delivery. On or as soon as practicable 
+following the License Effective Date, Licensor 
+shall ensure that Licensee has access to all 
+functions of the Platform (as these functions are 
+listed in Schedule A). This is without prejudice 
+to the provisions of Article 6 hereof. 
+2.3. 交付。在许可生效日后尽早或尽可能及时，许可
+方应确保被许可方能够访问平台的所有功能（具体功
+能详见附表 A）。本条款不影响第 6 条的规定。 
+2.4. Updates. Platform Owner may, but not 
+obliged to, update and (or) modify the Platform, 
+or any part thereof, at Platform Owner’s 
+discretion at any intervals. Unless provided for 
+to the contrary in the update documentation, 
+such updated and (or) modified Platform will, 
+without a notice to Licensee, be made available 
+to the Licensee at no cost and will be governed 
+by the terms of the Agreement without 
+amending it. 
+2.4. 更新。平台所有者可自行决定更新和（或）修改
+平台或其任何部分，但不负有义务按规定时间进行。
+除非在更新文档中另有说明，更新和（或）修改后的
+平台将免费提供给被许可方，且将按照本协议的条款
+继续执行，不作修改。 
+2.5. Ownership. Subject to the terms hereof and 
+the licenses granted hereunder, Platform 
+Owner will have and retain sole and exclusive 
+ownership of, and all right, title and interest in, 
+the Platform and the Platform Improvements, 
+and Licensee shall have no right, license, or 
+interest therein. Licensor has a non -exclusive 
+right to sub-license the Platform to any Person. 
+Licensor will have and retain sole and exclusive 
+ownership of, and all right, title and interest in, 
+the Licensee Improvements, and Licensee shall 
+have no right, license, or interest therein. 
+2.5. 所有权。根据本协议的条款和所授予的许可，平
+台所有者将拥有并保持对平台及平台改进的唯一和独
+占所有权、权利、标题和利益，且被许可方不得对此
+拥有任何权利、许可或利益。许可方有权将平台再许
+可给任何人。许可方将拥有并保持对被许可方改进的
+唯一和独占所有权、权利、标题和利益，且被许可方
+不得对此拥有任何权利、许可或利益。 
+2.6. Disclosure of Improvements and  
+Developments. Platform Owner and Licensor 
+will have no obligation to disclose to Licensee 
+any Platform Improvements. 
+2.6. 改进与开发的披露。平台所有者和许可方没有义
+务向被许可方披露任何平台改进。 
+[PDF PAGE 8]
+第 8 页，共 19 页 Page 8 of 19  
+2.7. Acknowledgements. Licensee 
+acknowledges and agrees the Licensor is not a 
+developer of the Platform and that the Platform 
+may contain errors. LICENSOR SHALL NOT 
+HAVE ANY DUTIES OR RESPONSIBILITIES 
+UNDER THIS AGREEM ENT OTHER THAN 
+THOSE SPECIFICALLY SET FORTH IN THIS 
+AGREEMENT AND NO IMPLIED 
+OBLIGATIONS SHALL BE READ INTO THIS 
+AGREEMENT. LICENSOR RETAINS ALL 
+RIGHT, TITLE, AND INTEREST IN AND TO 
+THE PLATFORM NOT EXPRESSLY 
+LICENSED UNDER THIS AGREEMENT. 
+2.7. 承认。被许可方承认并同意许可方不是平台的开
+发者，且平台可能包含错误。许可方在本协议项下不
+承担任何除本协议明确规定的义务外的责任，且不应
+解读为有任何隐含的义务。许可方保留对平台中未明
+确授予许可的所有权、标题和利益。 
+Article 3. REPRESENTATIONS AND 
+WARRANTIES 第3条 陈述与保证 
+3.1. Licensor Representation and Warranties. 
+Licensor: 
+3.1. 许可方的陈述与保证 许可方： 
+3.1.1. Represents to Licensee that Licensor has 
+the full right, power and authority, including the 
+necessary Intellectual Property rights to the 
+Platform, to enter into this Agreement, to 
+undertake the transactions contemplated 
+hereby and to grant the licenses granted herein; 
+3.1.1. 向被许可方陈述，许可方具有完整的权利、权
+力和授权，包括对平台的必要知识产权，以签署本协
+议，进行本协议所述交易，并授予本协议中授予的许
+可； 
+3.1.2. Represents and warrants to Licensee 
+that Licensor’s grant of the license and rights to 
+Licensee hereunder does not, and will not, 
+infringe or misappropriate any third party’s 
+tangible property rights, Intellectual Property 
+rights existing on the License Effective Date, or 
+personal rights, and Licensor has not received 
+any notice or claim on or before the License 
+Effective Date asserting that the Platform 
+infringes or misappropriates, suggesting that 
+the Licensor, due to its use or exploitation of the 
+Platform, consider licensing, or demanding that 
+the Licensor license, from any Person, or refrain 
+from using, any Intellectual Property of a third 
+party, nor to th e knowledge of the Licensor is 
+there reasonable basis therefor; 
+3.1.2. 向被许可方陈述并保证，许可方授予的许可和
+权利不会侵犯或盗用任何第三方在许可生效日存在的
+有形财产权、知识产权或个人权利，且许可方在许可
+生效日之前未收到任何通知或索赔，声称平台侵犯或
+盗用了第三方的知识产权，或要求许可方考虑许可或
+停止使用第三方知识产权，亦未发现有此合理依据； 
+3.1.3. Represents to Licensee that the rights 
+granted under Section  2.1 hereof constitute all 
+of the rights necessary to use the Platform 
+(including rights with respect to software 
+licensed from third parties); 
+3.1.3. 向被许可方陈述，依据第2.1 条授予的权利包含
+使用平台所需的所有权利（包括对第三方许可的软件
+的权利）； 
+[PDF PAGE 9]
+第 9 页，共 19 页 Page 9 of 19  
+3.1.4. Warrants to Licensee that Licensor has 
+used commercially reasonable efforts to 
+prevent the introduction of, and to the 
+knowledge of Licensor the Platform does not 
+contain any, software viruses, time or logic 
+bombs, trojan horses, worms, timers or clocks, 
+trap doors or other malicious computer 
+instructions, devices or techniques in the 
+Platform as delivered to Licensee pursuant to 
+Section 2.3. 
+3.1.4. 向被许可方保证，许可方已采取商业上合理的
+努力防止平台中出现任何病毒、时间炸弹、逻辑炸
+弹、特洛伊木马、蠕虫、定时器或时钟、陷阱门或其
+他恶意计算机指令、设备或技术 ，且根据许可方所
+知，平台在交付给被许可方时未包含任何此类恶意内
+容 
+3.2. Licensee Representation and Warranties. 
+Licensee: 
+3.2. 被许可方的陈述与保证 被许可方： 
+3.2.1. Represents to Licensor that Licensee has 
+the full right, power and authority to enter into 
+this Agreement, to undertake the transactions 
+contemplated hereby and to grant the licenses 
+granted herein; 
+3.2.1. 向许可方陈述，被许可方具有完整的权利、权
+力和授权，签署本协议，进行本协议所述交易，并授
+予本协议中的许可； 
+3.2.2. Represents to Licensor that Licensee will 
+use the Platform in good faith and under no 
+circumstances will use Platform for any illegal 
+purpose. 
+3.2.2. 向许可方陈述，被许可方将以诚信使用平台，
+并且在任何情况下都不会将平台用于任何非法目的。 
+3.2.3. Represents to Licensor that Licensee has 
+complied with and will comply with all applicable 
+Laws of PRC in the performance of this 
+Agreement. Licensee’s failure to comply with 
+applicable Laws will constitute a breach of this 
+Agreement. 
+3.2.3. 向许可方声明，被许可方在履行本协议过
+并将继续遵守中华人民共和国的所有适用法律。
+未能遵守适用法律的行为将构成对本协议的违约 
+ 
+Article 4. INDEMNIFICATION 
+ 
+第4条 赔偿 
+[PDF PAGE 10]
+第 10 页，共 19 页 Page 10 of 19  
+4.1. By Licensee . Licensee shall defend, 
+indemnify, and hold harmless Licensor and the 
+Representatives of Licensor from and against 
+any and all losses, damages, liabilities, 
+deficiencies, claims, interest, awards, 
+judgments, penalties, costs and expenses 
+(including reasonable attorneys’ fees, costs and 
+other out -of-pocket expenses incurred in 
+investigating, preparing or defending the 
+foregoing), including any consequential 
+damages asserted against, incurred, sustained 
+or suffered by Licensor and/or the 
+Representatives of Licensor as a result of, 
+arising out of or relating to Licensee’s breach of 
+this Agreement (including without limitation a 
+breach of Section  2.1 or 2.2) and (or) 
+infringement, misappropr iation, unauthorized 
+use, or unauthorized disclosure of the Platform 
+by Licensee and (or) its Affiliates or 
+Representatives. 
+4.1. 被许可方的赔偿。被许可方应为许可方及许可方
+的代表辩护、赔偿并使其免受任何和所有损失、损
+害、责任、缺陷、索赔、利息、判决、奖项、费用和
+支出（包括合理的律师费、调查、准备或辩护上述事
+项所产生的费用及其他直接费用）的影响，特别是因
+被许可方违反本协议（包括但不限于违反第 2.1 条或 
+2.2 条）和（或）未经授权使用或披露平台所造成的
+任何后果损失。 
+4.2. Procedures. Licensor shall promptly notify 
+Licensee in writing of any claim, action, demand 
+or lawsuit for which Licensor intends to claim 
+indemnification hereunder (provided, however, 
+that the failure to  give such notice shall not 
+relieve Licensee from its obligations hereunder, 
+except to the extent that Licensor is prejudiced 
+by such delay). Licensor and Licensee and their 
+Representatives shall cooperate in good faith 
+with each other in the investigation and defence 
+of any action covered by this indemnification. 
+4.2. 程序。许可方应立即以书面形式通知被许可方其
+打算根据本协议寻求赔偿的任何索赔、诉讼、要求或
+诉讼（但未能及时通知不应解除被许可方的责任，除
+非许可方因此受到了损害）。许可方和被许可方及其
+代表应本着诚信合作，共同调查和辩护任何由此赔偿
+所涵盖的行动。 
+Article 5. LICENSE FEE 第5条 许可费 
+5.1. In consideration for the license grant, as 
+defined in Clause 2.1, Licensee shall pay to 
+Licensor the License Fee  for each license 
+granted. The license and all relevant rights 
+granted to Licensee by Licensor in accordance 
+with this Agreement are conditional upon 
+Licensee's timely payment of the License Fee. 
+The License grant under this Agreement  shall 
+not come into effective until the License Fee 
+has been paid. 
+5.1. 作为第2.1条所定义许可授予的对价，被许可方应
+就每项授予的许可向许可方支付许可费。许可方根据
+本协议授予被许可方的许可及所有相关权利，均以被
+许可方按时支付许可费为前提条件。在本协议下的许
+可授予，直到许可费支付完成方可生效。 
+ 
+5.2. The License Fee is payable once during the 
+Term. The License Fee is to be paid for each 
+license granted to Licensee. 
+5.2. 许可费应在合同期限内支付一次。被许可方获授
+的每项许可均需支付许可费。 
+[PDF PAGE 11]
+第 11 页，共 19 页 Page 11 of 19  
+  
+5.3. The amount of the License Fee is defined 
+on the Platform. 
+5.3. 许可费金额在平台上定义； 
+5.4. Licensee is entitled to request from 
+Licensor an invoice for the License Fee paid by 
+Licensee. Licensee agrees to pay any value - 
+added or other similar taxes imposed by 
+applicable Laws that Licensor must pay based 
+on the License grant, except for taxes based on 
+Licensor’s income. 
+5.4. 被许可方有权要求许可方开具已支付许可费用的
+发票。被许可方同意支付根据适用法律要求许可方基
+于许可授予必须支付的任何增值税或其他类似税费，
+但不包括基于许可方收入的税费 
+5.5. The License Fee is non-refundable. 5.5. 许可费不可退还。 
+ 
+Article 6. TERM AND TERMINATION 
+ 
+第6条 期限与终止 
+6.1. Term. The term of this Agreement shall be 
+equal to Term. 
+6.1. 本协议的期限应等于“期限”。 
+6.2. No Termination . The license granted 
+hereunder shall be irrevocable, shall not be 
+terminable by Licensor and shall continue in full 
+force and effect during Term, provided, 
+however, if Licensee breaches its obligations 
+under this Agreement, then Licensor may 
+unilaterally at its unrestricted discretion 
+terminate the Agreement (or – in case 
+Licensee was  granted more than one (1) 
+license – withdraw license(s), under which 
+Licensee committed violations) with an 
+immediate effect by giving a written notice 
+(including by e-mail) to Licensee. 
+ 
+6.2. 不得终止。本协议下授予的许可应是不可撤销
+的，许可方不得终止，且在合同期限内完全有效。但
+如果被许可方违反其在本协议下的义务，许可方可单
+方面自行决定，通过向被许可方发出书面通知（包括
+通过电子邮件）立即终止本协议（或者，若被许可方
+被授予超过一（1）项许可，则撤销被许可方实施违
+规行为的相关许可）。 
+ 
+6.3. Termination. Licensor shall have the 
+absolute right to terminate this Agreement at 
+any time in the event of a breach or non - 
+performance by Licensee in any of the following 
+circumstances: 
+6.3. 终止。如果被许可方在以下任何情况下违反或未 
+履行本协议，许可方有绝对权利在任何时候终止本协
+议 
+6.3.1. Licensee does not conduct the Licensee 
+Business (i.e., zero (0) recorded sales) for one 
+hundred and eighty (180) consecutive calendar 
+days; 
+6.3.1. 被许可方连续 180 个日历日未进行被许可方业
+务（即零销售）； 
+6.3.2. Licensee is prohibited to conduct 
+Licensee Business by Platform Owner 
+according to the terms of the Website Definitive 
+Agreements. 
+6.3.2. 根据网站最终协议，平台所有者禁止被许可方
+开展被许可方业务。 
+[PDF PAGE 12]
+第 12 页，共 19 页 Page 12 of 19  
+6.3.3. The Website Definitive Agreements 
+between Platform Owner and Licensee that 
+permit Licensee to carry out trading or other 
+forms of Licensee Business operation on the 
+Website, are terminated for any reason. 
+However, access to the Website, o r any part 
+thereof, blocked due to technical issues or 
+reasons other than the termination 
+circumstances as stipulated in Section 6.3.1, 
+6.3.2 and 6.3.3, shall not be considered as any 
+form of termination of the Agreement. 
+6.3.3. 平台所有者与被许可方之间的《网站最终协
+议》因任何原因终止，该协议允许被许可方在网站上
+进行交易或其他形式的被许可方业务运营。 然而，因
+技术问题或其他非第 6.3.1 条、第 6.3.2 条和第 6.3.3
+条所规定的终止情况导致的网站访问或其部分访问被
+阻止，不应视为本协议的任何形式的终止。 
+6.4. Any termination of the Agreement does not 
+entitle Licensee to a refund of the License Fee. 
+6.4. 本协议的任何终止都不赋予被许可方退还许可费
+的权利。 
+ 
+Article 7. BREACH OF AGREEMENT AND 
+LIABILITY 
+ 
+ 
+第7条 违约与责任 
+Failure by either Party to perform any duties or 
+obligations set forth under the Agreement 
+(including its Schedule A) shall be considered 
+as breach of Agreement, and the breaching 
+Party should compensate the other Party 
+against losses and damages so incurred by its 
+acts of breach of Agreement, including but not 
+limited to reasonable attorney’s fee and other 
+legal cost and expense. 
+任何一方未能履行本协议（包括其附表 A）中规
+义务或责任，应视为违约，违约方应赔偿因其违
+另一方造成的损失和损害，包括但不限于合理的
+其他法律费用和支出。 
+ 
+Article 8. LIMITATION ON LIABILITY 第8条 责任限制 
+8.1. DAMAGE DISCLAIMER . EXCEPT AS 
+PROVIDED BELOW IN THIS ARTICLE 6, IN 
+NO EVENT SHALL LICENSOR BE LIABLE 
+FOR ANY CONSEQUENTIAL, INDIRECT, 
+INCIDENTAL, PUNITIVE, OR SPECIAL 
+DAMAGES WHATSOEVER, INCLUDING 
+WITHOUT L IMITATION, DAMAGES FOR 
+LOSS OF BUSINESS PROFITS, BUSINESS 
+INTERRUPTION, LOSS OF BUSINESS 
+INFORMATION, AND THE LIKE, ARISING 
+8.1. 损害免责声明。除本条款 6 所述外，许可方在任
+何情况下均不对任何间接、附带、惩罚性或特殊损害
+负责，包括但不限于因本协议引起的或与本协议有关
+的商业利润损失、业务中断、商业信息丧失等，即使
+被许可方已被告知此类损害的可能性。 
+OUT OF THIS AGREEMENT, EVEN IF 
+LICENSEE HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. 
+ 
+[PDF PAGE 13]
+第 13 页，共 19 页 Page 13 of 19  
+8.2. GENERAL DAMAGE CAP. IN NO EVENT 
+SHALL LICENSOR BE LIABLE IN THE 
+AGGREGATE UNDER THIS AGREEMENT OR 
+WITH RESPECT TO THE PLATFORM OR 
+LICENSOR INTELLECTUAL PROPERTY FOR 
+ANY DAMAGES OR LOSSES IN EXCESS OF 
+THE LICENSE FEE AS PAID BY LICENSEE 
+TO LICENSOR. LICENSEE SHALL NOT BE 
+PERMITTED TO BRING ANY CLAIM AGAINST 
+THE PLATFORM OWNER FOR THE SAME 
+CAUSE OF ACTION OR EVENT GIVING RISE 
+TO LIABILITY AND LIABILITIES SUBJECT TO 
+THE DAMAGES CAP SET FORTH IN CLAUSE 
+8.2 IF LICENSEE COULD HAVE BROUGHT 
+SUCH CAUSE OF ACTION UNDER THIS 
+AGREEMENT. 
+8.2. 一般损害上限。许可方在本协议项下或涉及平台
+或许可方知识产权的任何损害或损失的赔偿责任总额
+不应超过被许可方向许可方支付的许可费。 
+8.3. Licensee shall be fully liable to Licensor 
+with respect to damages or losses of Licensor 
+arising from, or related to, (a) infringement, 
+misappropriation, unauthorized use, or 
+unauthorized disclosure of the Platform by 
+Licensee and (or) its Affiliates or 
+Representatives, (b) a breach of Section 2.1 or 
+2.2. 
+8.3. 被许可方应对因其及（或）其关联方或代表未经 
+授权使用或披露平台，或违反第2.1 条或2.2 条所导致
+的所有损害或损失承担全部责任。 
+ 
+Article 9. CONFIDENTIAL INFORMATION 
+ 
+第9条 保密信息 
+9.1. Each of the Parties shall hold, and shall 
+cause its Representatives to hold, in confidence 
+all Confidential Information furnished to it by or 
+on behalf of the other Party in connection with 
+the transactions contemplated hereby, which 
+shall continue in full force and effect fo llowing 
+the License Effective Date. 
+9.1. 双方应对由另一方或其代表提供的所有保密信息
+予以保密，并确保其代表也予以保密，这些保密信息
+涉及双方为执行本协议所涉及的交易，并应在许可生
+效日后继续有效。 
+9.2. Licensee further acknowledges and agrees 
+that the Platform are Confidential Information of 
+Licensor and may not be used or disclosed, 
+except as expressly authorized or licensed by 
+Licensor. 
+9.2. 被许可方进一步承认并同意，平台为许可方的保
+密信息，未经许可方明确授权或许可，不得使用或披
+露 
+Article 10. MISCELLANEOUS 第10条其他条款 
+[PDF PAGE 14]
+第 14 页，共 19 页 Page 14 of 19  
+10.1. Amendment and Modification . This 
+Agreement may not be amended, modified or 
+supplemented in any manner, whether by 
+course of conduct or otherwise, except by an 
+instrument in writing specifically designated as 
+an amendment hereto, signed on behalf of each 
+Party. Notwithstanding anything to the contrary 
+in the previous sentence, the Licensor may 
+unilaterally amend the Agreement upon its 
+unrestricted discretion by publishing the 
+amended and (or) restated version of the 
+Agreement at the Platform. 
+10.1. 修订和修改。本协议不得以任何方式修订、修
+改或补充，除非通过书面文书进行，且该文书明确指
+定为本协议的修订，并由双方授权代表签署。尽管前
+述有相反规定，许可方可通过在平台上发布修订或重
+述版本的协议，单方面不受限制地修改本协议。 
+10.2. Waiver. No failure or delay of either Party 
+in exercising any right or remedy hereunder 
+shall operate as a waiver thereof, nor shall any 
+single or partial exe rcise of any such right or 
+power, or any abandonment or discontinuance 
+of steps to enforce such right or power, or any 
+course of conduct, preclude any other or further 
+exercise thereof or the exercise of any other 
+right or power. The rights and remedies of  the 
+parties hereunder are cumulative and are not 
+exclusive of any rights or remedies which they 
+would otherwise have hereunder. Any 
+agreement on the part of either Party to any 
+such waiver shall be valid only if set forth in a 
+written instrument executed and delivered by a 
+duly authorized officer on behalf of such Party. 
+10.2. 放弃。任何一方未能或延迟行使本协议下的任何
+权利或救济，不应视为放弃该权利；任何一次或部分
+行使该权利，或放弃或中止执行该权利或采取任何行
+动，也不应阻止该权利的进一步行使或其他权利的行
+使。双方的权利和救济是累积的，并不排斥任何其他
+本协议下本应享有的权利或救济。任何一方关于放弃
+的协议，只有通过由该方正式授权的代表签署并交付
+的书面文书，才有效。 
+10.3. Notices. All notices and other 
+communications hereunder shall be in writing 
+and shall be deemed duly given (a) on the date 
+of delivery if delivered personally, or, if by e - 
+mail, upon written confirmation of receipt by e - 
+mail or otherwise; (b) on the first Bus iness Day 
+following the date of dispatch if delivered 
+utilizing a next -day service by a recognized 
+next-day courier; or (c) on the earlier of 
+confirmed receipt or the fifth Business Day 
+following the date of mailing if delivered by 
+registered or certified mail, return receipt 
+requested, postage prepaid. All notices 
+hereunder shall be delivered to the addresses 
+set forth below, or pursuant to such other 
+instructions as may be designated in writing by 
+the   party   to   receive   such   notice: 
+10.3. 通知。 所有通知和其他通信应以书面形式进
+行，并应视为有效送达： （a）如果是亲自送达，则
+在送达之日；如果是通过电子邮件，则在收到电子邮
+件的书面确认或其他确认后； （b）如果是通过公认
+的次日快递服务送达，则在发出的工作日后的第一个
+工作日；或者（c）如果是通过挂号或认证邮件送达，
+则在收到确认或邮件发出后的第五个工作日，且应通
+过邮费已付的方式送达。所有通知应送达以下地址，
+或按照接受方书面指定的其他地址进行： 
+10.3.1. if to Licensor, to: 10.3.1. 若通知送达许可方，地址为： 
+[PDF PAGE 15]
+第 15 页，共 19 页 Page 15 of 19  
+Wildberries E-Commerce (Shenzhen) Limited 野果电子商务（深圳）有限公司 
+431 North, 23rd Building, Keyuan West 深圳市南山区粤海街道科技园社区科智西路 1 号科苑 
+西 23 栋北 431 
+No.1 Kezhi West Road  
+Science and Technology Park Community 
+ 
+Yuehai Street, Nanshan District, Shenzhen 
+ 
+PRC 
+ 
+Attention: Legal representative of Wildberries E- 
+Commerce (Shenzhen) Limited 
+收件人：野果电子商务（深圳）有限公司 
+E-mail: support@wildberries.cn 电子邮件：support@wildberries.cn 
+10.3.2. if to Licensee, pursuant to the details 
+provided by Licensee when enrolling with the 
+Platform. Licensor may enquire with Platform 
+Owner any relevant contact details of Licensee 
+any number of times, and Platform Owner has 
+full authority to disclose such details to Licensor 
+upon its request. Licensee confirms that such 
+disclosure will not amount to a breach of the 
+Website Definitive Agreements by Platform 
+Owner. 
+10.3.2. 若通知送达被许可方，应按照被许可方在平台
+注册时提供的详细信息进行。许可方可随时向平台所
+有者查询被许可方的相关联系信息，且平台所有者有
+权在许可方请求时向其披露该信息。被许可方确认，
+该披露不会构成平台所有者违反网站最终协议的行为 
+10.4. Interpretation. When a reference is made 
+in this Agreement to a Section, Article, 
+Schedule, or Exhibit, such reference shall be to 
+a Section, Article, Sched ule, or Exhibit of this 
+Agreement unless otherwise indicated. Any 
+table of contents or headings contained in this 
+Agreement or in any Schedule are for 
+convenience of reference purposes only and 
+shall not affect in any way the meaning or 
+interpretation of this Agreement. All words used 
+in this Agreement will be construed to be of such 
+gender or number as the circumstances require. 
+Any capitalized terms used in any Schedule but 
+not otherwise defined therein shall have the 
+meaning as defined in this Agreement.  All 
+Schedules annexed hereto or referred to herein 
+are hereby incorporated in and made a part of 
+this Agreement as if set forth herein. The word 
+“including” and words of similar import when 
+used in this Agreement will mean “including, 
+without limitation,” unless otherwise specified. 
+10.4. 解释。本协议中提到的任何条款、章节、附表
+或附件，除非另有说明，否则应指本协议中的条款、
+章节、附表或附件。本协议中或任何附表中的目录或
+标题仅供方便参考，不影响本协议的含义或解释。本
+协议中的所有词语应根据具体情况解释为相应的性别
+或数量。任何附表中使用但未定义的专有名词应按照
+本协议中的定义理解。所有附表均构成本协议的一部
+分，视为已经列出。词语“包括”及类似用语应理解
+为“包括但不限于”，除非另有规定。 
+[PDF PAGE 16]
+第 16 页，共 19 页 Page 16 of 19  
+10.5. Entire Agreement . This Agreement 
+(including the Schedules hereto) constitutes the 
+entire agreement, and supersedes all prior 
+written agreements, arrangements, 
+communications and understandings and all 
+prior and contemporaneous oral agreements, 
+arrangements, communications and 
+understandings between the Parties with 
+respect to the subject matter hereof. 
+10.5. 完整协议。本协议（包括附表）构成双方之间
+关于本协议主题的完整协议，并取代所有之前的书面
+协议、安排、沟通和理解以及所有之前及同时期的口
+头协议、安排、沟通和理解。 
+10.6. No Third -Party Beneficiaries . Nothing in 
+this Agreement, express or implied, is intended 
+to or shall confer upon any Person other than 
+the parties and their respective successors and 
+permitted assigns any legal or equitable right, 
+benefit or remedy of any nature under or by 
+reason of this Agreement. 
+10.6. 无第三方受益人。本协议无论是明示或暗示，
+都不意图授予任何除双方及其各自继任者和允许的受
+让人以外的任何人任何法律或公平上的权利、利益或
+救济。 
+10.7. Governing Law. This Agreement and all 
+disputes or controversies arising out of or 
+relating to this Agreement or the transactions 
+contemplated hereby shall be governed by, and 
+construed in accordance with, the Laws of the 
+PRC, without regard to the Laws of any other 
+jurisdiction that might be applied because of the 
+conflicts of Laws principles of the PRC. 
+10.7. 适用法律。 本协议及由本协议或本协议所涉及
+的交易引起的所有争议或争论，应受中华人民共和国
+法律的管辖，并根据中华人民共和国法律进行解释，
+而不考虑因中华人民共和国的法律冲突原则可能适用
+的其他司法管辖区的法律。 
+10.8. Submission to Jurisdiction . Each of the 
+Parties irrevocably agrees that any Action 
+arising out of or relating to this Agreement 
+brought by the other Party or its successors or 
+assigns shall be brought and determined in the 
+Shenzhen Court of International Arbitration(the 
+“SCIA”), and each of the Parties hereby 
+irrevocably submits to the exclusive jurisdiction 
+of the aforesaid SCIA for itself and with respect 
+to its property, generally and unconditionally, 
+with regard to any such Action arising out of or 
+relating to this Agreement and the transactions 
+contemplated hereby. The place of the 
+arbitration shall be Shenzhen. The number of 
+the arbitrators shall be three (3). Each of the 
+Parties agrees not to commence any Acti on 
+relating thereto except in the SCIA, except to 
+enforce any arbitration award rendered by the 
+SCIA in any court of competent jurisdiction. 
+Each of the Parties further agrees that notice as 
+provided herein shall constitute sufficient 
+service of process and the Parties further waive 
+any argument that such service is insufficient. 
+10.9. 提交管辖。各方不可撤销地同意，由另一方或其
+继承人或受让人提起的与本协议有关或由本协议引起
+的 任 何 诉 讼 应 在 深 圳 国 际 仲 裁 院（ 以下简称  
+“SCIA”）提起并由其裁决，各方在此不可撤销地同
+意向上述SCIA 的专属管辖提交，且对于与本协议及本
+协议所涉及的交易相关的任何诉讼，均无条件地提交
+该仲裁机构的管辖。仲裁地点为深圳。仲裁员人数为
+三（3）人。各方同意，除非执行 SCIA 作出的仲裁裁
+决，任何与本协议相关的诉讼均不得在SCIA 以外的法
+院提起。各方进一步同意，本协议中所规定的通知即
+构成足够的送达，并且各方放弃任何关于该送达不足
+的抗辩。 
+10.10. Assignment; Successors. Neither this 
+Agreement nor any of the rights, interests or 
+obligations under this Agreement may be 
+assigned or delegated, in whole or in part, by 
+10.8. 转让；继承。本协议或本协议下的任何权利、
+利益或义务不得在未经另一方事先书面同意的情况下 
+由任何一方转让或委托，任何未经事先书面同意的转 
+[PDF PAGE 17]
+第 17 页，共 19 页 Page 17 of 19  
+operation of Law or otherwise, by either Party 
+without the prior written consent of the other 
+Party, and any such assignment without such 
+prior w ritten consent shall be null and void; 
+provided, however, that the Licensor may, 
+without any consent of the Licensee, freely and 
+at its unrestricted discretion assign this 
+Agreement in full to any Person who (a) has a 
+valid license from the Platform Owner and (b) 
+can license the Platform pursuant to such 
+license. Following any such assignment, 
+Licensor shall cease to be a party to this 
+Agreement and provide Licensor notice of such 
+assignment by publishing it at the Platform. 
+Subject to the preceding sentence, this 
+Agreement will be binding upon, inure to the 
+benefit of, and be enforceable by, the parties 
+and their respective successors and assigns. 
+让应视为无效；然而，许可方可在未获得被许可方同
+意的情况下，将本协议全部转让给任何 （a）持有平
+台所有者有效许可并且 （b）能够根据该许可对平台
+进行许可的任何人。此类转让后，许可方将不再是本
+协议的当事方，并通过在平台上发布转让通知，向许
+可方通知该转让。此条款遵循前述句子的内容，本协
+议将对双方及其继任者和受让人具有约束力、并使其
+受益。 
+10.11. Force Majeure.  Neither of the Parties 
+shall be responsible for failure or delay of 
+performance if caused by: an act of war, 
+hostility, or sabotage; act of God; pandemic, 
+electrical, internet, or telecommunication 
+outage that is not caused by the obligated party; 
+government restrictions (including, without 
+limitation, an embargo, economic sanction or 
+the denial or cancellation of any export, import 
+or other license); other event outside the 
+reasonable control of the obligated party. Each 
+of the Licensor and the Licensee both shall use 
+reasonable efforts to mitigate the effect of a 
+force majeure event. This Section does neither 
+excuse either Party’s obligation to take 
+reasonable steps to follow its normal disaster 
+recovery procedures nor the Licensee‘s 
+obligation to pay for License Fee. 
+10.9. 不可抗力因素。任何一方因以下原因导致履行失
+败或延迟的，均不承担责任：战争、敌对行为或破坏
+行为；天灾；非义务方原因引起的疫情、电力、互联
+网或电信中断；政府限制（包括但不限于禁运、经济
+制裁或任何出口、进口或其他许可的拒绝或取
+消）；其他超出义务方合理控制范围的事件。许可方
+和被许可方应尽合理努力减轻不可抗力事件的影响。
+本条款并不免除任何一方采取合理措施遵循正常灾难
+恢复程序的义务，也不免除被许可方支付许可费用的
+义务。 
+10.12. Severability. Wheneve r possible, each 
+provision or portion of any provision of this 
+Agreement shall be interpreted in such manner 
+as to be effective and valid under applicable 
+Law, but if any provision or portion of any 
+provision of this Agreement is held to be invalid, 
+illegal or unenforceable in any respect under 
+any applicable Law or rule in any jurisdiction, 
+such invalidity, illegality or unenforceability shall 
+not affect any other provision or portion of any 
+provision in such jurisdiction, and this 
+Agreement shall be refor med, construed and 
+enforced in such jurisdiction as if such invalid, 
+illegal or unenforceable provision or portion of 
+any provision had never been contained herein. 
+10.10. 可分割性。每当可能时，本协议的每一条款或 
+条款的部分应根据适用法律有效有效地解释，但若本
+协议的任何条款或部分条款在任何适用法律或规则下
+被认定为无效、非法或不可执行，则该无效、非法或
+不可执行性不应影响在该司法管辖区内的其他条款或
+部分条款，并且本协议应在该司法管辖区进行修订、
+解释和执行，如同该无效、非法或不可执行的条款或
+部分条款从未包含在内。 
+10.13. Enforcement. The parties agree that 
+irreparable damage would occur in the event 
+that any of the provisions of this Agreement 
+10.11. 执行。各方同意，如果本协议的任何条款未按
+照其具体条款履行或以其他方式违反，将会造成无法 
+[PDF PAGE 18]
+第 18 页，共 19 页 Page 18 of 19  
+were not performed in accordance with their 
+specific terms or were otherwise breached. 
+Each of the Parties shall be entitled to specific 
+performance of the terms hereof, including an 
+injunction or injunctions to prevent breaches of 
+this Agreement and to enforc e specifically the 
+terms and provisions of this Agreement, this 
+being in addition to any other remedy to which 
+such Party is entitled at Law. Each of the Parties 
+hereby further waives (a)  any defence in any 
+Action for specific performance that a remedy at 
+Law would be adequate and (b) any 
+requirement under any Law to post security as 
+a prerequisite to obtaining equitable relief. 
+弥补的损害。每一方均有权要求特定履行本协议的条
+款，包括颁布禁令或禁制令以防止本协议的违约，并
+具体执行本协议的条款和规定，这将作为该方依据法
+律享有的任何其他救济的补充。每一方在此进一步放
+弃：（ a）在任何特定履行诉讼中，主张法律救济足
+以弥补的抗辩； （b）依据任何法律要求提供担保作
+为获得衡平法救济的前提条件。 
+10.14. Counterparts; Electronic Signatures. 
+This Agreement is entered into electronically 
+without execution on a paper or any other 
+tangible medium and without attaching any 
+signatures of the Parties, and such electronic 
+version is deemed to be an original. The 
+Agreement is deemed to be entered into by, and 
+becomes binding on, the Parties from a later of: 
+(a) the date when Licensor has accepted 
+Licensee’s offer to enter into the Agreement by 
+granting to Licensee access to all functions of 
+the Platform (as these functions are listed in 
+Schedule A), or (b) the date when Licensor has 
+received the License Fee from Licensor. 
+10.12. 副本；电子签名 本协议以电子形式签署，无需
+在纸质或任何其他有形介质上执行，也无需附上任何
+签名，并且该电子版本视为原件。协议自许可方通过
+授予被许可方访问平台所有功能（如附表 A 中列明的
+功能）或许可方收到许可费的日期后的较晚日期起，
+视为已签订并对双方具有约束力。 
+10.15. No Presumption Against Drafting Party . 
+Each of the Licensor and the Licensee 
+acknowledges that each party to this 
+Agreement has been represented by legal 
+counsel in connection with this Agreement and 
+the transactions contemplated by this 
+Agreement. Accordingly, any rule of Law or any 
+legal decision that would require interpretation 
+of any claimed ambiguities in this Agreement 
+against the drafting party has no application and 
+is expressly waived. 
+10.13. 无对草拟方的推定。 许可方和被许可方均承
+认，双方在签署本协议及与本协议相关的交易过程中
+已获得法律顾问的意见。因此，任何法律规定或法律
+裁决要求解释本协议中的任何含糊之处时，不能针对
+草拟方进行解释，且此类解释权利被明确放弃。 
+10.16. No offer. This Agreement is an invitation 
+to treat and not an offer. Upon the receipt of a 
+payment from Licensee, Licensor has an 
+unrestricted disc retion to accept or decline 
+Licensee’s offer. 
+10.14. 非要约。本协议是邀请缔结协议，而非要约。
+许可方在收到被许可方付款后，拥有完全自由裁量权
+接受或拒绝被许可方的要约。 
+[The remainder of this page is intentionally left 
+blank.] 
+[本页故意留空。] 
+[PDF PAGE 19]
+第 19 页，共 19 页 Page 19 of 19  
+SCHEDULE A 附表 A 
+to the Platform License Agreement 平台许可协议 
+ 
+The Platform 
+ 
+平台 
+ 
+DESCRIPTION: a software product, as may be 
+accessible at either seller.wildberries.ru, or 
+seller.wildberries.cn, or any other Internet site 
+that is managed by either the Platform Owner or 
+its associate, which [software product] is 
+designed for automation of various activities 
+which activities are conducted by merchants 
+registered with, and selling their products at, the 
+Website. The software product procures 
+interactions between the merchants and retail 
+customers (buyers) by means of the Website. 
+ 
+描  述  ：  一  款  软  件  产  品  ，  可  能  通  过 
+seller.wildberries.ru、seller.wildberries.cn  或
+任何其他由平台所有者或其关联方管理的互联
+网网站进行访问，该软件产品旨在自动化商户
+在网站上注册并销售其产品时进行的各种活
+动。该软件产品通过网站促成商户与零售客户  
+（买家）之间的互动。 
+ 
+FUNCTIONS: creating and editing product 
+cards, managing the assortment of offered 
+goods; making shipments; interacting with the 
+retail customers. 
+ 
+功能： 创建和编辑产品卡片，管理所提供商品
+的品种；进行发货；与零售客户互动。 
+ 
+SUPPORTED OPEARITING SYSTEMS: 
+Windows 7 and higher, Mac OS X 10.15 and 
+higher. 
+ 
+支持的操作系统：  Windows 7 及以上版本， 
+Mac OS X 10.15 及以上版本。 
+[The remainder of this page is intentionally left 
+blank.] 
+[本页故意留空。] 
+ 

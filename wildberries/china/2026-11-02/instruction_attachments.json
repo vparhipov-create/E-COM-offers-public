@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Zapreshennye_tovary_200923.pdf",
+    "file": "attachments/2b5628cfe8_Zapreshennye_tovary_200923.pdf",
+    "bytes": 369376,
+    "sha256": "d8544f354b30326c18e1e4e2964af745eb40385cb45f46f92c4a7cf3419c8e7b",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wb.ru/vol20/portal/education/instruction/list_of_warehouses_and_tariffs.pdf",
+    "file": "attachments/9fa9a9b51e_list_of_warehouses_and_tariffs.pdf",
+    "bytes": 340662,
+    "sha256": "fdb13a171e621fadbca9c2286b4c7ba444596022213129e43ecf1967cbfe96a7",
+    "pages": 8,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/0226.pdf",
+    "file": "attachments/eb61402d25_0226.pdf",
+    "bytes": 280589,
+    "sha256": "d8aa78e5196b718c536304e5e5ff5bb94e8d4d20cb397d0a8257f5d4c4ae8996",
+    "pages": 2,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/crossborder/guides/returns/iml.pdf",
+    "file": "attachments/43ec785489_iml.pdf",
+    "bytes": 1447444,
+    "sha256": "f0cb8e20454f7eb74eea9de393a689e56779989c18f099844cc9c95cf4423f73",
+    "pages": 33,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/fines/crossborder/fines_list.pdf",
+    "file": "attachments/48ee2e6062_fines_list.pdf",
+    "bytes": 728598,
+    "sha256": "9f15bfc1c59d46fa1b68ba8a4f78c6a7f806d3566e8e839e6476183c7dfc9e89",
+    "pages": 5,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/news/anweilogistics.pdf",
+    "file": "attachments/acf196d626_anweilogistics.pdf",
+    "bytes": 3023872,
+    "sha256": "3d076d6bc74d856b49c4f7a7b85760370e225e850d01e2536e997c1e96f3606b",
+    "pages": 15,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/news/indigo.pdf",
+    "file": "attachments/cf33f29511_indigo.pdf",
+    "bytes": 5585837,
+    "sha256": "1bb9b828137e6c760958e4b2a0aa175318b224f4633d43fb5ed306bbed6dbdfb",
+    "pages": 35,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/LIST_OF_PROHIBITED_GOODS_PLATFORM_CN.pdf",
+    "file": "attachments/6d3edc0792_LIST_OF_PROHIBITED_GOODS_PLATFORM_CN.pdf",
+    "bytes": 484224,
+    "sha256": "fb891a4790199839f375f83ae3054a45d46638b8aedabe8367f6c3a2854861ce",
+    "pages": 8,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Restricted_products_CEL.pdf",
+    "file": "attachments/5dfcef788f_Restricted_products_CEL.pdf",
+    "bytes": 640636,
+    "sha256": "eacc97b41eef4e70821729cacc62104028f03c44f4e0c6800c8a6948295687f9",
+    "pages": 7,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Restricted_products_Unitrade.pdf",
+    "file": "attachments/cc738fd972_Restricted_products_Unitrade.pdf",
+    "bytes": 429632,
+    "sha256": "c542c658eaec669e69f641d01dd3921317ef4ace5fabfdf5c6024185c7d61f90",
+    "pages": 4,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Seller_penalty.pdf",
+    "file": "attachments/99af1e9993_Seller_penalty.pdf",
+    "bytes": 301130,
+    "sha256": "da5379bc03a21196042cbe324525f3e36b38669b5a601f0beee2dc00da94ffd2",
+    "pages": 2,
+    "status": "downloaded"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Strictly_forbidden_items_based_on_the_international_delivery_requirements.pdf",
+    "file": "attachments/5cf6e01ca5_Strictly_forbidden_items_based_on_the_international_delivery_requirements.pdf",
+    "bytes": 346688,
+    "sha256": "c305a102603ee4341f4fda4ca5dff03b724b70ddf4674677cf3d1bae5a18acc5",
+    "pages": 1,
+    "status": "downloaded"
+  }
+]
