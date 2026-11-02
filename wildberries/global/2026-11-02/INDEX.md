@@ -1,8 +1,8 @@
-# Реестр WB China — 02.11.2026
+# Реестр WB Global — 02.11.2026
 
 ## Исходные договоры
 
-- [Оферта №29, 75 страниц](originals/WB_China_offer_29_2026-10-01.pdf) — [официальная страница](https://seller.wildberries.cn/terms?locale=zh&country=zh)
+- [Оферта №29, 75 страниц](originals/WB_Global_offer_29_2026-10-01.pdf) — [официальная страница](https://seller.wildberries.cn/terms?locale=zh&country=zh)
 
 ## PDF по ссылкам
 

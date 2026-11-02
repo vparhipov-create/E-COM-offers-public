@@ -15,7 +15,7 @@
     },
     {
       "repository": "vparhipov-create/wb-offers-monitors",
-      "commit": "6d68c037d6fce7fa9e7226e3da219fb9e9fd3d7c",
+      "commit": "fc8013701b01321bfac78e9b91c4178196cda349",
       "publication_mode": "reviewed_documents"
     },
     {
@@ -37,9 +37,14 @@
       "sha256": "a9d0ce7a16096b2c4a25fdb9435c198f626b85299b5e497acb6cfe6b02777735"
     },
     {
+      "path": "AI_START_HERE.md",
+      "bytes": 5719,
+      "sha256": "215c2f84bc5767e3b578701e48740b79507bd68d2bb367cd47fcf90ab5b62c3a"
+    },
+    {
       "path": "CHANGELOG.md",
-      "bytes": 2687,
-      "sha256": "c202d5400bf0c06bb3c3f2910baa4c03b9052e9f0f7436213d437ea2c49e7606"
+      "bytes": 3271,
+      "sha256": "6dba92d398e2014af91173e953eb29a0bb945ac495fd7aa83878d72bd3555eb0"
     },
     {
       "path": "PUBLICATION_POLICY.md",
@@ -48,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5238,
-      "sha256": "efd48281f59ac558448ee7435f5bcdddba4ec63bdaf9e79d0975f9a7cf6b9c44"
+      "bytes": 4764,
+      "sha256": "0e9cdb9022eb9fd172937ebb2499527d59ae8249cb284d5c11736c05669329d2"
     },
     {
       "path": "categories.txt",
@@ -58,8 +63,8 @@
     },
     {
       "path": "ozon/README.md",
-      "bytes": 4229,
-      "sha256": "bffdf961472899391c808a5128f28a183e7a35d23e69b78f99df826a0034b100"
+      "bytes": 4537,
+      "sha256": "6474c43fb538327779e38d5ae31d0b7b8e2dc8374a808a27eb5677ffba647597"
     },
     {
       "path": "platform-law/README.md",
@@ -823,13 +828,13 @@
     },
     {
       "path": "wildberries/CHANGELOG.md",
-      "bytes": 3161,
-      "sha256": "66d5225f659c17e428a0d1a99a0faae858be321c0535b16f4e978f6d07ee169f"
+      "bytes": 3162,
+      "sha256": "5fc26ff097f6db4d9570e9836b88dd9bda15402f0e2fed63762c1088c1071c7c"
     },
     {
       "path": "wildberries/README.md",
-      "bytes": 3487,
-      "sha256": "b570d808a995fd6513ed625fdb21bdd0817c924f682ec5ae83a90b9bb24ffcd6"
+      "bytes": 3860,
+      "sha256": "d485bf65d9f3bb9289334c966834c0f06ec97452935337f55dc59b313cf6ab13"
     },
     {
       "path": "wildberries/archive/2026-10-01/WB_offer_102_searchable_text.txt",
@@ -1127,1101 +1132,6 @@
       "sha256": "e1fa9f55f56f5b81871952941272c3fe93a2477279869c63e4b0bbb80024324f"
     },
     {
-      "path": "wildberries/china/2026-11-02/COVERAGE.md",
-      "bytes": 3129,
-      "sha256": "0cd96df1b6c4ee99492c32c8a7ddf230c7375ac3eaa50ca525327df9997723d3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/INDEX.md",
-      "bytes": 38296,
-      "sha256": "207ce86329a1547aae2ea1b05eaf225b11f07f1afdcf5f12d18f6ca01d0c4b18"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/README.md",
-      "bytes": 3624,
-      "sha256": "fd36fb3a2bd96605bca658127eb158cf38a09c72ac22b40f3eb6a9a446dc894e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/REPORT.md",
-      "bytes": 13889,
-      "sha256": "81a5fa697b64788f54369e367fe1caf2901737123418339bfdda744dbf9b3141"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/072572a393_0726.pdf",
-      "bytes": 388668,
-      "sha256": "cde272e7419a6b8f5d1bcf7b47043641cead9d8a3bb7174c4c05c210d097fbb1"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/0a6e3bba62_Forbidden_items_based_on_the_regulation_of_Russian_customs.pdf",
-      "bytes": 625878,
-      "sha256": "d879258e3ff034034a886ba74cfa9d631ea85decfda21fe307fae817c26105f0"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/2b5628cfe8_Zapreshennye_tovary_200923.pdf",
-      "bytes": 369376,
-      "sha256": "d8544f354b30326c18e1e4e2964af745eb40385cb45f46f92c4a7cf3419c8e7b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/43ec785489_iml.pdf",
-      "bytes": 1447444,
-      "sha256": "f0cb8e20454f7eb74eea9de393a689e56779989c18f099844cc9c95cf4423f73"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/48ee2e6062_fines_list.pdf",
-      "bytes": 728598,
-      "sha256": "9f15bfc1c59d46fa1b68ba8a4f78c6a7f806d3566e8e839e6476183c7dfc9e89"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/5cf6e01ca5_Strictly_forbidden_items_based_on_the_international_delivery_requirements.pdf",
-      "bytes": 346688,
-      "sha256": "c305a102603ee4341f4fda4ca5dff03b724b70ddf4674677cf3d1bae5a18acc5"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/5dfcef788f_Restricted_products_CEL.pdf",
-      "bytes": 640636,
-      "sha256": "eacc97b41eef4e70821729cacc62104028f03c44f4e0c6800c8a6948295687f9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/60fb37df0a_LIST_OF_PROHIBITED_GOODS_PLATFORM_CN_0826.pdf",
-      "bytes": 499477,
-      "sha256": "b03bbc333a53ac2cb1f2ecabf2170e8fe873709e33d4d435dce7d68d5e78f4b7"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/63839b9bd3_Restricted_Businesses_and_Activities_for_Sellers_from_China.pdf",
-      "bytes": 451638,
-      "sha256": "adc21da2ef2ca8c63aff33edf16d00856e2320b22fa105bef46d593f86bf54d9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/6b32eef230_1125-2.pdf",
-      "bytes": 372174,
-      "sha256": "283c6fbfa6d5fa47cd302e8120240ed5c9e8a00ae7cb79718b71f73e06267718"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/6d3edc0792_LIST_OF_PROHIBITED_GOODS_PLATFORM_CN.pdf",
-      "bytes": 484224,
-      "sha256": "fb891a4790199839f375f83ae3054a45d46638b8aedabe8367f6c3a2854861ce"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/8d5aaf60c8_List_of_item_categories_for_personal_use_prohibited_for_import.pdf",
-      "bytes": 526890,
-      "sha256": "4f865c1615d9f0c5979e90f6af57d0c8ffc73b82cf168ba6fdf539c7e513b12f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/99af1e9993_Seller_penalty.pdf",
-      "bytes": 301130,
-      "sha256": "da5379bc03a21196042cbe324525f3e36b38669b5a601f0beee2dc00da94ffd2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/9afb6a587b_1125.pdf",
-      "bytes": 381648,
-      "sha256": "a2a947f35f1eb36e421d87a35c11f776bc214b567b40f7ed5692027706eeb069"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/9fa9a9b51e_list_of_warehouses_and_tariffs.pdf",
-      "bytes": 340662,
-      "sha256": "fdb13a171e621fadbca9c2286b4c7ba444596022213129e43ecf1967cbfe96a7"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/a90a945635_1225.pdf",
-      "bytes": 294083,
-      "sha256": "4c4a70f344ed5095b8c7cb2669185d05ccd32e92368ee858be5d428b39818f0a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/acf196d626_anweilogistics.pdf",
-      "bytes": 3023872,
-      "sha256": "3d076d6bc74d856b49c4f7a7b85760370e225e850d01e2536e997c1e96f3606b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/cc738fd972_Restricted_products_Unitrade.pdf",
-      "bytes": 429632,
-      "sha256": "c542c658eaec669e69f641d01dd3921317ef4ace5fabfdf5c6024185c7d61f90"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/cf33f29511_indigo.pdf",
-      "bytes": 5585837,
-      "sha256": "1bb9b828137e6c760958e4b2a0aa175318b224f4633d43fb5ed306bbed6dbdfb"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/d3777e402c_battaries.pdf",
-      "bytes": 461129,
-      "sha256": "5b63cb9dc1d8092103421640ae6a4f7818543772d1c4cdcc6f6b9d41a72096fd"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/eb61402d25_0226.pdf",
-      "bytes": 280589,
-      "sha256": "d8aa78e5196b718c536304e5e5ff5bb94e8d4d20cb397d0a8257f5d4c4ae8996"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/ed27dd0c30_1025.pdf",
-      "bytes": 536534,
-      "sha256": "099303aaa73a40bcc084641e3baaac86adc0f1bb769accc718943a9b592b4556"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/f1d134f95d_0825.pdf",
-      "bytes": 562845,
-      "sha256": "7a32935ae478cf36a71fca7fa0d0b68a274ca240d166b84c98c476ab737c5a18"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/attachments/f8c7b3c6a5_1225-2.pdf",
-      "bytes": 279036,
-      "sha256": "6989b2ab2b189223006547b7c3227abec4563520226d1a97a448f486f45aa6e9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/context/source_0.md",
-      "bytes": 4831,
-      "sha256": "5b21b2d183f47486598daba045b17102d84273699e63b5135a51cd3aafbd042d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/context/source_1.md",
-      "bytes": 53547,
-      "sha256": "603b3b1b103d14bc88f4a7c954f14c2d4946f9f01505b35bd0a475c3f5c55199"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/context/source_2.md",
-      "bytes": 52105,
-      "sha256": "5298c1028deb0af83575bde0849c4e9d629d2a7aff91b12adb3bd70a6ff52264"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/discovery.json",
-      "bytes": 41431,
-      "sha256": "318597aa36b4123bc73dc57e21b98ba8951dae4ae0b25814983b5383d2036fed"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/help_index.md",
-      "bytes": 7086,
-      "sha256": "7e9f4ff0577cd6e385efb5ba6cef79220e7028792e33ae67e6e1934931f4f94f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instruction_attachments.json",
-      "bytes": 3936,
-      "sha256": "94991522f223a2a98f8a10e24f9d46d60a84269e21ae1e4c1ee3278501079c88"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instruction_records.json",
-      "bytes": 128727,
-      "sha256": "a2c4502fef8ad3ff5272c6960609a8cca5dd685d83d25c5c9f6ee9a0bb6b27e5"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/a-b-testing-of-the-main-photo-china.md",
-      "bytes": 16994,
-      "sha256": "87f25323512c569e0dee6f19ecc351a30782c34d9d06ea640c738c6863f8dec2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/adult-items-cards-blank.md",
-      "bytes": 6465,
-      "sha256": "9fc082864dd38a084cece625ebd5a156d82105b19fa6f178ea5c63b52f0dde72"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/age-restriction-labeling-for-cosmetics.md",
-      "bytes": 10428,
-      "sha256": "19b4396fd6376f0869b5393e529e41473eba837a84e18052f6ab3adbc5678d3d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/analytics-summary-china.md",
-      "bytes": 9657,
-      "sha256": "b95997e67583fb1a251da6f7f9af7c816a9118acf0006ebf73588594334f0861"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/auto-promotion-ch.md",
-      "bytes": 6447,
-      "sha256": "2414c8f24bf2326d1b470f6a3f7f8bc491b6a8e9b2816ea9b7a4b3471c4cdce2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/balance-management.md",
-      "bytes": 11445,
-      "sha256": "ff30d875a11b75d893476a13d9e3592b57393cdb11333cb49ca8ea15306dc7da"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/bulky-items-shipment-in-fbs-china.md",
-      "bytes": 21603,
-      "sha256": "d378b5c855153920ee4b54efd0b1e81e19367e203a70c523b89ffde97cada886"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/cache-and-cookies-clearing-china.md",
-      "bytes": 9796,
-      "sha256": "568aaf28b24ca47c79ed564fb2a1efabdc04157bc83cb8ea2af5a537e2ded32d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/card-analytics-china.md",
-      "bytes": 8613,
-      "sha256": "72487aabf82327165f409527884122bc4c39523772dcfbd5389986c55a505b09"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/card-creation-rules-china.md",
-      "bytes": 15265,
-      "sha256": "5f4031aa97e6830abd081940806ef731bc18d7d2f54e2d64bf37acaea18c1397"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/card-quality-rating-china.md",
-      "bytes": 13596,
-      "sha256": "a5239155778078388058d4dcddfe3d2741ed4ada6f518e1972da25890af0ca5e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/cards-statuses-limits-and-settings-for-china.md",
-      "bytes": 10972,
-      "sha256": "afc59287c6e67fab2d4488fa0e20e7ae1ba4ebde49808cc5d9933fe57f3a6169"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/cel-warehouse-in-china.md",
-      "bytes": 19733,
-      "sha256": "e9728421e05cef5881a099c2fa0451c08476c885ded4ac191fc98621a58ecfea"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/certificated-items-for-china.md",
-      "bytes": 7059,
-      "sha256": "7228ad8bbe3f40c66e495233f93e65c72bfb11769bd5722d32edce2c4884f1a3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/chat-china.md",
-      "bytes": 8893,
-      "sha256": "7ba338b80ae08e40c401086c7a7d9d889d7d174232f3a85d169c3118517857e0"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/china-sellers-rating.md",
-      "bytes": 12516,
-      "sha256": "3521f0b56ab49460165e4c43476d4bddb1c14e9a2fdb6bb6210d41b5098ec4d2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/china-users-and-accesses.md",
-      "bytes": 11679,
-      "sha256": "5b67c1f6686f67000073b6d3660f77f209be3ec10aaeb0809bfff9a7d8a3c65e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/contact-support-desk-for-china-sellers.md",
-      "bytes": 13045,
-      "sha256": "daaacfa8db0c216b754f29955fab9b53f1c3b06d91573678a672688257ddeab9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/customer-questions-china.md",
-      "bytes": 15634,
-      "sha256": "dda36365a54e337cfc3e67c273fd52ab151d9930ffedec3a5078ffd39394e39a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/customer-reviews-china.md",
-      "bytes": 22230,
-      "sha256": "53ce1182b124d0402670212d5d0c25acdc92a1ee250e6e07b2ebda10ec7baa5c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/daily-dynamics-and-sales-analysis-report-china.md",
-      "bytes": 7415,
-      "sha256": "b7c97c4e9f26db22cb5fea6af883268916108a0cc76de0f405aa9061db2aafa3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/deliveries-by-region-report-ch.md",
-      "bytes": 12934,
-      "sha256": "5a1e96dace745ac905dbdf5a374f25984520c5f6fdcbae7b96e925f555a63eb7"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/digital-arbitration-china.md",
-      "bytes": 24292,
-      "sha256": "fe3dc126531554c3ee560cb2c0da939147d0ea173ace3f32f08bc9a294d501bb"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/discount-depth-in-autopromotions-ch.md",
-      "bytes": 12635,
-      "sha256": "18744a85d1a34a649865f9b5dd28a3ba01bbc0d0c4089f5a294bd20567efae07"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/djem-subscription-options-ch.md",
-      "bytes": 12106,
-      "sha256": "a0fe98f4ecf30daf5ce9f2378ab350c0ae6aae899c464a3c55bb32578dd1a7f2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/edit-cards-in-bulk-china.md",
-      "bytes": 7759,
-      "sha256": "55f74bc80d6b3225b8163b2c33eae898c221f487dd4da27b7ef66f9fb53d9393"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/events-calendar-blank-china.md",
-      "bytes": 6445,
-      "sha256": "92196480d4500c59d9d2f935259a3a7100eae48a6e86b060e20e5f999be14f86"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/events-calendar-china.md",
-      "bytes": 17391,
-      "sha256": "a84c24dbb6c19f28c9462db499e7d44db90e6ac751c154d19c1d1111ec5cbc48"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/events-items-ranking-blank-china.md",
-      "bytes": 6486,
-      "sha256": "5f93692187b6df195f80ed3ddcd692b255ea3e748fa82a0a24a3f1b9d41559ab"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/faq-about-blocking-product-cards-ch.md",
-      "bytes": 12045,
-      "sha256": "65f48de61a8868052522903fb729b3a7db7ad69f7e033c5558b811a95240bf86"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/financial-reports-china.md",
-      "bytes": 23524,
-      "sha256": "21828544421b80e7656245ceef629a1045541eecf8287b6a08d8827532962f31"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/fines-retentions-and-other-penalties-for-china-sellers.md",
-      "bytes": 20561,
-      "sha256": "38a9fccf850ff58c3d0c10e9f6f2af15e6f2017c7cde19a6bc2ee2a356a5a7f0"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/first-mile-logistics-dpx.md",
-      "bytes": 13725,
-      "sha256": "dbbce570cfdf8221aa9124d9209e9e94c460e9379e6d2adb0b3636fda1704f85"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/frequently-asked-questions-about-product-search-and-promotion.md",
-      "bytes": 13679,
-      "sha256": "478f53114674a25710902583ff0d23b14c62b3bae872ea84294732608d99a064"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/frequently-asked-questions-for-china.md",
-      "bytes": 7479,
-      "sha256": "f03e2197eb18db4fff552d1eba967ca6c153945a1f20fa411f1509e6ff66ce1c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/history-of-payments-for-services-china.md",
-      "bytes": 8510,
-      "sha256": "6aec08dd7fd1f4a55b4e27584dfbc90707184ac0e3fd503d4863f9d6b5c8bcc5"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/history-of-remains-report-china.md",
-      "bytes": 16371,
-      "sha256": "626ab5efb7d32472308ad964b6be387c5d2d5c40d016d82cf3e4877e92700c94"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-card-gets-to-the-right-website-section-china.md",
-      "bytes": 6086,
-      "sha256": "b83b3b605b955451e850354883641a7d29b1d88a27e3286b29f0992d61e8b328"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-add-all-suitable-products-to-an-autopromotion-with-one-button-ch.md",
-      "bytes": 10495,
-      "sha256": "d382d2e2b81d12165e0312978f38a59fa1736b3fa536ddffb1bf2ab4afeba6b9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-add-item-cards-china.md",
-      "bytes": 32314,
-      "sha256": "81464ce9856dc911526b058de42d009f656673a0a9235763a428c6a461d49b27"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-add-item-cards-in-bulk-china.md",
-      "bytes": 8444,
-      "sha256": "d09d90a03dd625f3c5bcb5b59e6bcb9987af568bbe18666cf0c198d40f02780f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-change-email-china.md",
-      "bytes": 8378,
-      "sha256": "6384ff0fbaf35ce18b8c3eb811884845f7f03e6e8dbbf081e2fc4c1dd7d9d609"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-change-the-sellers-information-china.md",
-      "bytes": 10344,
-      "sha256": "66f0475ee643328c62db7d421eb8031167073eae86c20f267f8f5ab6b944be03"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-check-price-and-discount-updates-china.md",
-      "bytes": 7416,
-      "sha256": "f218dc4914bf1688ade880cd12fa7042ae2bedddf6597ebfa7b9299f604c4db5"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-choose-a-rate-for-promotion.md",
-      "bytes": 12492,
-      "sha256": "935131c79333b8355797ca2959ef7773fd034e45122c554a704ab32ce2ca8853"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-connect-to-api-via-oauth-2-china.md",
-      "bytes": 10638,
-      "sha256": "b84356e8455c542bd7068b5393fb32880b7dd3bffbdde92488757683a22ae6a4"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-connect-via-api-with-token-china.md",
-      "bytes": 13400,
-      "sha256": "9a222250733eca801af3b39bac1dcec79570742cbc813cd2dba7457b3fc7a62f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-create-a-sellers-warehouse.md",
-      "bytes": 8836,
-      "sha256": "892d599fdc15ea8cb3c5eaf1995c6123c6dc0c09b44042795aedf4a15a4029ff"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-create-brand-for-china.md",
-      "bytes": 8346,
-      "sha256": "c59e71a2ec4d5ac1a63c47f0cad88856522be016113252ebd45e88aca3369cfa"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-create-cards-for-bijouterie-china.md",
-      "bytes": 12636,
-      "sha256": "46210cb6ad58793473ffa6067b5223feff1ea02c1806be011c9e744d9c1e6f2c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-create-lingerie-cards-for-china.md",
-      "bytes": 6468,
-      "sha256": "b5ed2c70f6821c24acec05f475f6fe9b9bf222b09df6e86e962a2abc11f78ee6"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-create-update-or-delete-a-wb-api-token-ch.md",
-      "bytes": 19714,
-      "sha256": "8f8840ba02c06742a63f8c659defb7a64a125f804d2055b21adf41f72745ce85"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-increase-limits-of-the-jam-services-cn.md",
-      "bytes": 14678,
-      "sha256": "a30632d6b0232b4c3b4820292e231d6a3bbfc30db0948b83e77304966b5beb1b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-manage-in-fbs-china.md",
-      "bytes": 14258,
-      "sha256": "0ad553aad7110ff9c6eafbce23d4860f0c40b6b1a98c250a5c7a4f57764b8de3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-manage-item-prices-china.md",
-      "bytes": 11348,
-      "sha256": "facd3aee7e12376ca73433744bc4d05edb7ad958ca2bbf3f06dc9d432a2d1304"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-optimize-the-product-profile-ch.md",
-      "bytes": 6048,
-      "sha256": "9d7f7fc211cc4f9d7f95535260b58e5abf16ad86960073bbe23535c7ac0a6b08"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-automotive-items-for-china.md",
-      "bytes": 7922,
-      "sha256": "8d45e2ac6be5af50741756f7ab768b17c6283cf3178e5c2fda5f3ad93d730e1c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-books-stationery-and-handycraft-items-for-china.md",
-      "bytes": 8475,
-      "sha256": "804c73afa76fb4fbe76ad4f93628ee6a3e09124d60f5cb32ff46386b61cd91dd"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-chemicals-and-building-materials-for-china.md",
-      "bytes": 9348,
-      "sha256": "4fa19e576680e2e1d3146db8975d6ed81b29269b2e7b5d5a61eae7e87fe4f77a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-clothes-shoes-and-accessories-for-china.md",
-      "bytes": 8156,
-      "sha256": "1eac1b93647a8e6ca0a1cc8e131c24c0b66a6d8bdb17ee7ae1d19076173a2c86"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-cosmetics-for-china.md",
-      "bytes": 9157,
-      "sha256": "918f8a9291ef4d851f519e7fc19f1fb722a2298747cd7a4c368902eb8440cd8b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-electronics-and-household-appliances-in-fbs-for-china.md",
-      "bytes": 6085,
-      "sha256": "3a29420a1006f72a7370c92e25e5eb6dfbaaf720f9f3a0763f2a0504cb3173eb"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-fragile-and-adult-items-for-china.md",
-      "bytes": 8527,
-      "sha256": "90dd21fbf6efa7310ffa2b3f72c137e3cfa55209343fc496c3bc6885000c2119"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-furniture-household-items-plumbing-dishes-musical-instruments-for-china.md",
-      "bytes": 9688,
-      "sha256": "10e026fd54da3075ae25db3dd6648d1ffd752b7f8d7631cfe9b60396a544b0c5"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-garden-and-summer-cottage-items-for-china.md",
-      "bytes": 10234,
-      "sha256": "7adda5b768f3d01ad63a12b05f2a71fbd99185aaf87cac6ee0f2e52de90b710e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-sport-and-baby-food-pet-and-health-items-for-china.md",
-      "bytes": 11325,
-      "sha256": "4f1a043fdfc6212f88d68d3f44d4e81b34bddd570440cf245eaedca318fb0ee9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-pack-toys-and-items-for-babies-in-china.md",
-      "bytes": 10113,
-      "sha256": "926ad7ed190c3987c4b4b0acaf9f40ee3f4b54239516a381aa87f2f8166ea9ea"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-protect-yourself-from-scammers-ch.md",
-      "bytes": 10749,
-      "sha256": "15948e84c34aa76f1496b4b6c504a31f611f52ca6b280dcae94a88a3bd9e5b04"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-receive-payment-invoice-china.md",
-      "bytes": 10147,
-      "sha256": "fea724b6569782d02fc45ac787966dd544b5280423168b99a1842edaa99addbe"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-sell-coffee-and-tea-china.md",
-      "bytes": 10231,
-      "sha256": "0d1a699b112187b082c29fef43358399c4582c67492203b7b13763ff71cffc77"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-set-minimal-price-and-block-auto-promotions-ch.md",
-      "bytes": 12896,
-      "sha256": "9627c1d4040b9e018df0edb0051f081a8c34ac4bc44435e3e72137670c6e3130"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-start-promotion-on-wildberries.md",
-      "bytes": 12487,
-      "sha256": "f62be43f74fd799ee1aadf078a9f37c35f1dab7c3e5339541e65d44e8f0164be"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-subscribe-to-jam.md",
-      "bytes": 12426,
-      "sha256": "beffb9feeab22c1d8ed886ba26fbb7c535db6bc6ec9fad062a8177f11687faff"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-track-order-status-ch.md",
-      "bytes": 8374,
-      "sha256": "df51da91321317d96d4eb7a9092b6b2040ae667e17986475883d32ae1964c3ca"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-track-returned-item-china.md",
-      "bytes": 7760,
-      "sha256": "7258fc6e7c1c556ef3befc0ab64d3883b7956cb92c0eebd16c8da030e56932e8"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-to-use-offer-china.md",
-      "bytes": 8154,
-      "sha256": "592922a791cfd3021778951c9626e5bb4e5c5d890a6ab0903420efaeb1a17d14"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/how-wb-club-effects-on-sales-for-china.md",
-      "bytes": 13898,
-      "sha256": "ad3baff87712c5c62b7898e912228c8537e96f5022d24d4fde13226c1c06a98c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/infinia-hong-kong-blank.md",
-      "bytes": 6476,
-      "sha256": "0876e4be5c66f35fc5bf7ba766d309c2c8e75b0d6932463351e09585e486049a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/interactive-assembly-task-china.md",
-      "bytes": 14663,
-      "sha256": "13de46de6c5d300eb2e9da4ffa6f483072a50e6763d906d7b792223c357e5341"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/is-jam-profitable-for-the-seller-china.md",
-      "bytes": 8775,
-      "sha256": "9be25ba128575e7fe417e8db0e6d06c06800eb5a6d5328be73fef0284762b14b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/item-dimensions-measuring-china.md",
-      "bytes": 8773,
-      "sha256": "9e8866457be51547111cd8f1f80603d53c1336e3fc4fb805ec4e4450850210df"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/item-photo-rules-and-common-mistakes-china.md",
-      "bytes": 36299,
-      "sha256": "c5f55b226adb26f10ce40d062c72eee6e37a8524082e18b09adcc56ad464c316"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/item-ratings-report.md",
-      "bytes": 14093,
-      "sha256": "83f7ba3ad7ddc6fc1f935d6504f9168f1b6edef1b0242ebd2fe66e925993c4dd"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/item-returns-by-customer-china.md",
-      "bytes": 15666,
-      "sha256": "db2f2c135a7dd3e6bfcfd481572ca973d5a302b6f6c84199a99d6b1c1f7d2a77"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/item-returns-to-seller-from-china-warehouse.md",
-      "bytes": 12078,
-      "sha256": "79365f48ab159bf681ab0365ff7853b7dfccabf1d7234642f88569f8fd28d58a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/items-rating-china.md",
-      "bytes": 9751,
-      "sha256": "4439bc2559f3394459773d78f728f22359c3702cc0e0dd843edf29ce14e541ef"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/jam-tariffs-ch.md",
-      "bytes": 6748,
-      "sha256": "fb73da487d8a4b4924817035ffe7537fe6d502dbe046918ec745806b5370aec9"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/labeling-items-in-fbs-china.md",
-      "bytes": 10020,
-      "sha256": "551d04a8b8e30c36ff4c5d2fada362df2756a722dbaa9e5c1e6edbe90c444d99"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/logo-uploading-china.md",
-      "bytes": 7355,
-      "sha256": "77c0e76858ae099639f3f1e70452cc1c773d8806699dfab3dc1a0696630aa8df"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/marketplace-model-fbs-china.md",
-      "bytes": 6027,
-      "sha256": "7de267860809279b44442b1e31f721c447920035479ea054cfdee49b2253fc52"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/merge-item-cards-china.md",
-      "bytes": 11899,
-      "sha256": "f985d83fe6345a4de0a05611d75d98fbb8d1710215b8a902391802f6ffc96c73"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/order-cancellation-china.md",
-      "bytes": 10231,
-      "sha256": "12d1c3f6b05e27d684ea93f7ee48013c7f8fd75ad9d269e05c15e932acd3c049"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/order-feed-report-ch.md",
-      "bytes": 11467,
-      "sha256": "3a671bd22013a8f0304f109aa31b438fd2e53b9acb54e6d50ff5b05a2de91436"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/original-mark-china.md",
-      "bytes": 14706,
-      "sha256": "7e4d09f1d89124e1354bae5f4ba60885f32f57111eb97ad7455a9efe21084bab"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/oversized-items-return-china.md",
-      "bytes": 8939,
-      "sha256": "facc6c878249340ce3aa4fff258001fa16a64110ad206de486ecb4cc84e37dbc"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/pack-items-in-fbs-china.md",
-      "bytes": 13069,
-      "sha256": "a256e8d2291cda0bb74f69bce3ec7b0b172c06fb362952d52db89e29d7159d99"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/photo-editor-china.md",
-      "bytes": 11150,
-      "sha256": "4c6a8bf4ff8468845805cb7aecbe7c14efc4aa0695a76cf4917533705513af63"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/photostudio-product-photo-generation-using-ai-china.md",
-      "bytes": 16292,
-      "sha256": "f7287f7bd4152dbff87673e9b51a38cf38fc97ff4bdc2db2c7ec5523b42150d7"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/pinned-reviews-china.md",
-      "bytes": 16975,
-      "sha256": "8a9b7e4193f4ceb20a2ac7afa7cd7c530a71857ebb8f242cd31bd6eb18f38352"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/portal-notifications-introduction-to-sellers-portal-ch.md",
-      "bytes": 8337,
-      "sha256": "13c0ddfeff5d974160e5870f684841de0c79968cfb86fc3eb1503e921a53d3f8"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/price-quarantine-china.md",
-      "bytes": 11216,
-      "sha256": "d2142a938ccd2dd9859a920be66af9762e2700ab7a4fc14432c6612ebb9bb3ed"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/pro-wildberries-for-china.md",
-      "bytes": 9413,
-      "sha256": "0eae6a89a1a71e86e244c9ba850727caf7a6297e0ce2011e9a5cbab7c66e4080"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/product-cetegories-china.md",
-      "bytes": 14769,
-      "sha256": "04020ba30993104b7699aec8fae9e8de95ef729829a869ecc8a5672dff9db075"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/product-tags-on-photos-in-the-product-card-china.md",
-      "bytes": 11303,
-      "sha256": "fcd416a0a299b08f7242df739a4013224188618cda6041e069503437c1c550c8"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/profit-calculator-china.md",
-      "bytes": 10077,
-      "sha256": "7c4b3785febbf51fdac72c42aed6e618d2349f4d9a6517d9a5f124982b71a51f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/prohibited-or-partially-restricted-goods-china.md",
-      "bytes": 10620,
-      "sha256": "371a960cf8095a9ce766dbc53f2ecec7efc9877b1b1530fee56c032443c4d987"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/prohibited-smoking-goods-china.md",
-      "bytes": 11844,
-      "sha256": "79d6790878559410b40b1a16116bf9a489a6551e63688cdfcf710462098aefbd"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/questions-about-customer-reviews-ch.md",
-      "bytes": 10173,
-      "sha256": "39a1c2651e6a653c0874002def2d2e71ae64125339d35d9b02558ca8c7d88c9f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/rating-and-search-blank.md",
-      "bytes": 6506,
-      "sha256": "e662a6834c5063d93b34296e7a02f64e7862bdbca45fcf0d5115fdf27e4e80c4"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/recommendations-for-model-shooting-ch.md",
-      "bytes": 9751,
-      "sha256": "3cbd11640ddcbcf5d7ce2309ccb1070a2d1a8ebe02841213a5f94ba32b6f9c00"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/recommendations-for-product-photography-ch.md",
-      "bytes": 6043,
-      "sha256": "dcea21094fa32ecc62a356632f2815dffa51d97435c3a5f61a2a270b6c983391"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/replacement-articles-cn.md",
-      "bytes": 17994,
-      "sha256": "10cba962229918bd817827c3128dc502532c1426d0fa23bbc401d34cbbeeffdb"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/report-buyer-portrait-china.md",
-      "bytes": 18999,
-      "sha256": "f817a1c920d39094c00e77f89b9f851148a1a83a23aa5efb99d40ecd8832b9a6"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/report-comparison-of-cards-china.md",
-      "bytes": 24977,
-      "sha256": "0abc2477758d3ab42a2cbac718506ead9144d329e4b3249f7f3f3a4c7db6da63"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/report-niche-analysis-ch.md",
-      "bytes": 22130,
-      "sha256": "16136a9746b544924b5855d01988f4862a4aa4effe69aa9e4eb499b464e73e8d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/report-search-queries-china.md",
-      "bytes": 27639,
-      "sha256": "eac6512d99f4e42d3276a225b875233c91e2c5e644ca75a7e7ebf86bc9b9cb22"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/rets-warehouse-for-china.md",
-      "bytes": 16843,
-      "sha256": "ad48f0a0e004fb19fa069083386c3cc301ef8f63bbf84e3d6b6f91b9bddc83c6"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/return-of-goods-with-manufacturing-defects-china.md",
-      "bytes": 6062,
-      "sha256": "f98a8cf11c214ebe8c9d03fee682ac18ab21efa7bd26f0abb965427010095803"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/return-oversized-items-china.md",
-      "bytes": 21893,
-      "sha256": "62b698927c6471b1b4a65b1feb8b61c6ffc0be2a681213eaefb49c6f1c63f5fe"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/return-to-pickup-point.md",
-      "bytes": 6030,
-      "sha256": "743e0d9c53db3ecb0e3894cc6109099c2afa81b088777020674ba1799426c1f3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/returns-and-movement-of-items-report-china.md",
-      "bytes": 6053,
-      "sha256": "6a7f2c391a89fc29c9b4a9bb4ce6ba75a23a39ad25b872143b2d33aa2d118e7f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/rich-content-china.md",
-      "bytes": 12044,
-      "sha256": "59dc763478ce9a09d78bcb6758840acd5e60ace48e51cb63f18f39f3a944a8ce"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/sales-funnel-part2-china.md",
-      "bytes": 12376,
-      "sha256": "db3cee608ed77f1d83e631b59a9e66bb8a84bda548055e3dfc80915f8bc64ea2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/sales-funnel-report-china.md",
-      "bytes": 15496,
-      "sha256": "ae2e9018e5ff111445cf9516616fed24399b9ca8513586e67acef77a9220c821"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/sales-funnel-report-part1-china.md",
-      "bytes": 12930,
-      "sha256": "959649b1cd0d2baa9ee50820f6e97a27d338b5d55d13a775f28f2b58bb3d2fcf"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/search-analytics-report-china.md",
-      "bytes": 15922,
-      "sha256": "10d71817fcffe6dee7bc034776e9c34af69cfa9abae8aee630fe31ae181385e3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/search-clusters-china.md",
-      "bytes": 11184,
-      "sha256": "27bc1043692ddb8d114134c31c2bc18a14626e9f4cfd9e001027a74875cd231f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/search-results-and-ranking-blank-china.md",
-      "bytes": 6042,
-      "sha256": "4ed09bee70c6503d4a93bdd47b3faf4f2f56a79525947e8e7045f51aeecc9133"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/seller-promocodes-ch.md",
-      "bytes": 15234,
-      "sha256": "bc963bb883c9e4a6e14e2ee30d7c195f8083fa1379bafbc76b7ecb4c9e53d24e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/seller-recommends-block-in-the-product-card-china.md",
-      "bytes": 13086,
-      "sha256": "218237d5ffdc3ed8c20d58d68eaea96adda24789853a628c5d6e723a425bad06"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/sellers-analytics-china.md",
-      "bytes": 8128,
-      "sha256": "117158139aba43c796e1dc80680003c9e15cd6502e5a71b04a96bffc1d562447"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/sellers-site-main-page-china.md",
-      "bytes": 13298,
-      "sha256": "ec745c3c7c69ae434bbfdfa3cceb513bc20b5cdc0edd78b21edb81f5164d52f3"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/size-chart-in-the-product-card-china.md",
-      "bytes": 14377,
-      "sha256": "7d6271cf3b6b827e3233d66de4cb66809fafe098244e5ae8a76c3203e15212d8"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/statistics-and-promotion-management-china.md",
-      "bytes": 16258,
-      "sha256": "eb4ce4f5cd0dfb12962aaf084744eeabdf605784f9768aa9f1f99198da4af2a7"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/step-one-fbs-order-processing-china.md",
-      "bytes": 13861,
-      "sha256": "7f0700bf66efb993ea5f058aa2ef414dd2cbfdab1b95b7758848523ff6b81f8d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/store-balance-china.md",
-      "bytes": 13225,
-      "sha256": "2499761363ae4f3b15d99a5073df4846da8c0c5daf3512500235e4d9028d3551"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/store-registration-china.md",
-      "bytes": 14807,
-      "sha256": "b7bd6fcc537037dd8ab3d13fb1c1f8bd408bcc425d8e0ac2618e82af4802c43c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/tariffs-blank-china.md",
-      "bytes": 6534,
-      "sha256": "4fa3b3235d949136fa14ac44f55a21668dc770c883995d2a6dd7c5d46828759e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/two-factor-authentication-for-personal-account-china.md",
-      "bytes": 7809,
-      "sha256": "5c33abf0a37fbfbc783e4defb5811a0ed179232474e6c6555cc07082b535dc3f"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/uni-warehouse.md",
-      "bytes": 19030,
-      "sha256": "4e9eaf940caf465f9862adba36e536c9475dcdf9f215559089730c0df16372a4"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/video-autoplay-in-product-card-and-catalog-china.md",
-      "bytes": 8505,
-      "sha256": "5630a0638e2d4d2357a2629b6e140ce07b33f17f1bd9a507a8aff4996c3037fc"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/wb-api-data-categories-china.md",
-      "bytes": 22297,
-      "sha256": "2a3541131050b81217d8d5219d058a971d32d5d5ed38b8a0691e373dc9a25751"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/wb-club-discount-china.md",
-      "bytes": 13122,
-      "sha256": "87e00b9046b456b758a6691467684924dafeb4aaa01463f06d5e17076b8eb7fb"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/wb-plus-model-in-china.md",
-      "bytes": 6000,
-      "sha256": "45fecb9b27bc2c58e461a1a8f4c2594a0c5aceb2ba8611234fc20a378c0bfad0"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/wb-promo-events-china.md",
-      "bytes": 12348,
-      "sha256": "ffbd21c709ccff068ae9edbb1878bb56bd44feb7603b72637614c7c962cdd604"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/wb-promotion-account-replenishment-from-sellers-balance-in-china.md",
-      "bytes": 9841,
-      "sha256": "470991d1543d6b46ef85d4d8eca9f84b979b6d34cce1c495579d4cd08e289b68"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/wb-promotion-unified-prom-activities.md",
-      "bytes": 13639,
-      "sha256": "3a0a165c98e70ba471177287f34e5ae3268e7e5ccb700ac65dd0cd6ed32c120c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/website-personal-chineese-account-section.md",
-      "bytes": 11347,
-      "sha256": "b93b75e65c8b19240679231a7a8563ffeb16a18c0e75493a511cb902b8506b14"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/what-is-wb-api-and-how-to-work-with-it-china.md",
-      "bytes": 8723,
-      "sha256": "de7f9715852d156e5738efb8d6865719339381b3a5a3c836c1456f9223adf6e2"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/window-for-price-management-china.md",
-      "bytes": 8720,
-      "sha256": "abab7ae1da848e00644c9ca3dd289266599477f0f099ed30552c919803e93ef5"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions/your-first-sale-on-wildberries-china.md",
-      "bytes": 14873,
-      "sha256": "452d12fa1db289652fe567f212b3d82d51ac564e448aabf8381218d1aad8d101"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/how-card-gets-to-the-right-website-section-china.md",
-      "bytes": 8086,
-      "sha256": "609cdd32851637478d916583db0d6ba7d91947086398558cd0d61690c49f9398"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/how-to-optimize-the-product-profile-ch.md",
-      "bytes": 10419,
-      "sha256": "9ffac777db9ee89c7d5f090fe535c3423198501f6002f76232da0b958adc91f1"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/how-to-pack-electronics-and-household-appliances-in-fbs-for-china.md",
-      "bytes": 9549,
-      "sha256": "e0df6491e992e7f3c0ce476f75e67e2a1c66ace7496dc5fd23f57ebbf8bea669"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/marketplace-model-fbs-china.md",
-      "bytes": 9037,
-      "sha256": "766e8412784fac7ce1b12a6567074a987cc08b7daf9595b242a854dd1dc6b022"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/recommendations-for-product-photography-ch.md",
-      "bytes": 9274,
-      "sha256": "1cc37f1b4fd609481a87520cce91b5b265c58a300aec24dd232c0ed816332f46"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/return-of-goods-with-manufacturing-defects-china.md",
-      "bytes": 11186,
-      "sha256": "8a96de51c5e85431a201eb8423370ba343d43852ea21dae945f71725936ead9b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/return-to-pickup-point.md",
-      "bytes": 11768,
-      "sha256": "2d7c6fc32e4325ad7c48505d38ead8476f2f8801aff8fd7285b8ac0bb12b6add"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/returns-and-movement-of-items-report-china.md",
-      "bytes": 9606,
-      "sha256": "8e197125fba95e3c18b51c374993d7d41046db8de3600fe49119aedc257822bf"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/search-results-and-ranking-blank-china.md",
-      "bytes": 7578,
-      "sha256": "874ea97dd4af75296794e70645cf4376c3b6f44b4b1f60e4cf332fb1c0d0df0e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/instructions_retried/wb-plus-model-in-china.md",
-      "bytes": 7575,
-      "sha256": "527f9442dde9ed91c23383a548f30275efe082321ee424344f6febba58d4378d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/license_text.txt",
-      "bytes": 60987,
-      "sha256": "a6bce8673578db0e377bdf5642d24ae71ec99d3d61e733bb2a42222dfbe40893"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/linked_documents.json",
-      "bytes": 1838,
-      "sha256": "5ac8a44055bc5c3625584e8a61139e1a1459de4d80d633857539b0c38217e72e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/manifest.json",
-      "bytes": 61078,
-      "sha256": "c4b3a32d3914b9e714b563f842219361f61caf6c8138614e142d0d9398f51379"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/offer_links.json",
-      "bytes": 2375,
-      "sha256": "dc0472b23c1c2c03e06c2afc808e4567d1a2f153075bad73dab6dfcb3633b2c1"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/offer_text.txt",
-      "bytes": 454185,
-      "sha256": "d6130a19450d8e1f73e05f3a792dea896e33d6c9397ace1bdcc0c086e0c1124a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/0925.pdf",
-      "bytes": 894895,
-      "sha256": "7640b3a297e5d2fda46f4aa28361985671294a341b49940b24c3b592a7753a66"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/WB_China_offer_29_2026-10-01.pdf",
-      "bytes": 1882453,
-      "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/Zapreshennye_tovary_0826.pdf",
-      "bytes": 105154,
-      "sha256": "ea44e3081eeaea06be98fe49e88c6edc8ef58e28b5218fefb59d73c8b432d94a"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/cn.pdf",
-      "bytes": 362724,
-      "sha256": "458e15823ca8570c300fd9937bad246ab9243a15c98e35e5dfbedb5309c8f714"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/fines_list_0726.pdf",
-      "bytes": 333140,
-      "sha256": "9a70dda187c5284a50b00b2285962ecaaae74a41aa0184b154a82041a895ed2c"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/range.pdf",
-      "bytes": 493626,
-      "sha256": "522aa362bdf52f7129bf22abcae4ed6f7ec24f3f5c4207e6d46fa75bc520cd00"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/originals/warehouse_and_tarrifs_0826.pdf",
-      "bytes": 391937,
-      "sha256": "397d947fd2efc42b5f6b9452cddb26ef6a8d8af602344792493c90361345a42d"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/recursive_documents.json",
-      "bytes": 4276,
-      "sha256": "11a6e1e79a21159ad65d01d5d2c03103974ae10f9081fa5ba2978acda25803c7"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/00_WB_China_Навигатор.md",
-      "bytes": 13889,
-      "sha256": "81a5fa697b64788f54369e367fe1caf2901737123418339bfdda744dbf9b3141"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/01_WB_China_Оферта_29.pdf",
-      "bytes": 1882453,
-      "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/02_WB_China_Лицензия.pdf",
-      "bytes": 894895,
-      "sha256": "7640b3a297e5d2fda46f4aa28361985671294a341b49940b24c3b592a7753a66"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/03_WB_China_Связанные_документы.pdf",
-      "bytes": 19983435,
-      "sha256": "b8818ef3d3c2e15c3a0525280e55a9baefe456062b5836c2f529785fbd12b78b"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/04_WB_China_Инструкции_том_1.md",
-      "bytes": 291794,
-      "sha256": "70f854d26ccc04c5e39c4cc1dcf7d327639ddaf1d8e825372de62a04aabe1863"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/05_WB_China_Инструкции_том_2.md",
-      "bytes": 181920,
-      "sha256": "89c5089fe0b6f5f73eacd55581c07a857bed9741aa024ecc063ab773a11ef9cd"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/06_WB_China_Инструкции_том_3.md",
-      "bytes": 304473,
-      "sha256": "1d159682041e36effadb97e3fe7b1daa6e84f2a66ec5ecf13a09f90d744897c0"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/07_WB_China_Инструкции_том_4.md",
-      "bytes": 201003,
-      "sha256": "400121f986d706f6e7ea06645e827693ddca620335023ead07bdb15d623cf65e"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/08_WB_China_Правила_ответа.md",
-      "bytes": 2323,
-      "sha256": "b8eb386ad18f81c7afeea5211f1b0766a847a96ca70ae49358d78f241e1e7380"
-    },
-    {
-      "path": "wildberries/china/2026-11-02/upload/page_map.json",
-      "bytes": 6477,
-      "sha256": "1df74dc4a3640dd233adc8fc707a275412477e1a888104641d17b5dc21410657"
-    },
-    {
       "path": "wildberries/docs/ASSISTANT_RULES.md",
       "bytes": 3277,
       "sha256": "1b37672fd27a8ab4f46d6af60218b78a791e996f45519653d1b54a0685d061b5"
@@ -2238,8 +1148,1103 @@
     },
     {
       "path": "wildberries/docs/START_HERE.md",
-      "bytes": 2246,
-      "sha256": "9746033dacf4809808e41aa019fb25ee8b46c42c316e6f6c2300ad6428c7eea2"
+      "bytes": 2322,
+      "sha256": "ece40c3f09494b328b5cae86bca447ccb12815b2db2232877a6b46dd9234bf15"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/COVERAGE.md",
+      "bytes": 3129,
+      "sha256": "0cd96df1b6c4ee99492c32c8a7ddf230c7375ac3eaa50ca525327df9997723d3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/INDEX.md",
+      "bytes": 38298,
+      "sha256": "844b2a3a96af6c8bb2d5205f9ea6cb259609d047fe449c48b37a721a88f370d7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/README.md",
+      "bytes": 3491,
+      "sha256": "31b1118b156dd96f89a9198354e917a73533c1a0c9f106c0b167f689532556cd"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/REPORT.md",
+      "bytes": 13890,
+      "sha256": "cac7f7ffcd80b688259b2405538f8a2e08239e03e4979dd6da54b5c62ec00fba"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/072572a393_0726.pdf",
+      "bytes": 388668,
+      "sha256": "cde272e7419a6b8f5d1bcf7b47043641cead9d8a3bb7174c4c05c210d097fbb1"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/0a6e3bba62_Forbidden_items_based_on_the_regulation_of_Russian_customs.pdf",
+      "bytes": 625878,
+      "sha256": "d879258e3ff034034a886ba74cfa9d631ea85decfda21fe307fae817c26105f0"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/2b5628cfe8_Zapreshennye_tovary_200923.pdf",
+      "bytes": 369376,
+      "sha256": "d8544f354b30326c18e1e4e2964af745eb40385cb45f46f92c4a7cf3419c8e7b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/43ec785489_iml.pdf",
+      "bytes": 1447444,
+      "sha256": "f0cb8e20454f7eb74eea9de393a689e56779989c18f099844cc9c95cf4423f73"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/48ee2e6062_fines_list.pdf",
+      "bytes": 728598,
+      "sha256": "9f15bfc1c59d46fa1b68ba8a4f78c6a7f806d3566e8e839e6476183c7dfc9e89"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/5cf6e01ca5_Strictly_forbidden_items_based_on_the_international_delivery_requirements.pdf",
+      "bytes": 346688,
+      "sha256": "c305a102603ee4341f4fda4ca5dff03b724b70ddf4674677cf3d1bae5a18acc5"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/5dfcef788f_Restricted_products_CEL.pdf",
+      "bytes": 640636,
+      "sha256": "eacc97b41eef4e70821729cacc62104028f03c44f4e0c6800c8a6948295687f9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/60fb37df0a_LIST_OF_PROHIBITED_GOODS_PLATFORM_CN_0826.pdf",
+      "bytes": 499477,
+      "sha256": "b03bbc333a53ac2cb1f2ecabf2170e8fe873709e33d4d435dce7d68d5e78f4b7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/63839b9bd3_Restricted_Businesses_and_Activities_for_Sellers_from_China.pdf",
+      "bytes": 451638,
+      "sha256": "adc21da2ef2ca8c63aff33edf16d00856e2320b22fa105bef46d593f86bf54d9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/6b32eef230_1125-2.pdf",
+      "bytes": 372174,
+      "sha256": "283c6fbfa6d5fa47cd302e8120240ed5c9e8a00ae7cb79718b71f73e06267718"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/6d3edc0792_LIST_OF_PROHIBITED_GOODS_PLATFORM_CN.pdf",
+      "bytes": 484224,
+      "sha256": "fb891a4790199839f375f83ae3054a45d46638b8aedabe8367f6c3a2854861ce"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/8d5aaf60c8_List_of_item_categories_for_personal_use_prohibited_for_import.pdf",
+      "bytes": 526890,
+      "sha256": "4f865c1615d9f0c5979e90f6af57d0c8ffc73b82cf168ba6fdf539c7e513b12f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/99af1e9993_Seller_penalty.pdf",
+      "bytes": 301130,
+      "sha256": "da5379bc03a21196042cbe324525f3e36b38669b5a601f0beee2dc00da94ffd2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/9afb6a587b_1125.pdf",
+      "bytes": 381648,
+      "sha256": "a2a947f35f1eb36e421d87a35c11f776bc214b567b40f7ed5692027706eeb069"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/9fa9a9b51e_list_of_warehouses_and_tariffs.pdf",
+      "bytes": 340662,
+      "sha256": "fdb13a171e621fadbca9c2286b4c7ba444596022213129e43ecf1967cbfe96a7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/a90a945635_1225.pdf",
+      "bytes": 294083,
+      "sha256": "4c4a70f344ed5095b8c7cb2669185d05ccd32e92368ee858be5d428b39818f0a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/acf196d626_anweilogistics.pdf",
+      "bytes": 3023872,
+      "sha256": "3d076d6bc74d856b49c4f7a7b85760370e225e850d01e2536e997c1e96f3606b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/cc738fd972_Restricted_products_Unitrade.pdf",
+      "bytes": 429632,
+      "sha256": "c542c658eaec669e69f641d01dd3921317ef4ace5fabfdf5c6024185c7d61f90"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/cf33f29511_indigo.pdf",
+      "bytes": 5585837,
+      "sha256": "1bb9b828137e6c760958e4b2a0aa175318b224f4633d43fb5ed306bbed6dbdfb"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/d3777e402c_battaries.pdf",
+      "bytes": 461129,
+      "sha256": "5b63cb9dc1d8092103421640ae6a4f7818543772d1c4cdcc6f6b9d41a72096fd"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/eb61402d25_0226.pdf",
+      "bytes": 280589,
+      "sha256": "d8aa78e5196b718c536304e5e5ff5bb94e8d4d20cb397d0a8257f5d4c4ae8996"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/ed27dd0c30_1025.pdf",
+      "bytes": 536534,
+      "sha256": "099303aaa73a40bcc084641e3baaac86adc0f1bb769accc718943a9b592b4556"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/f1d134f95d_0825.pdf",
+      "bytes": 562845,
+      "sha256": "7a32935ae478cf36a71fca7fa0d0b68a274ca240d166b84c98c476ab737c5a18"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/attachments/f8c7b3c6a5_1225-2.pdf",
+      "bytes": 279036,
+      "sha256": "6989b2ab2b189223006547b7c3227abec4563520226d1a97a448f486f45aa6e9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/context/source_0.md",
+      "bytes": 4831,
+      "sha256": "5b21b2d183f47486598daba045b17102d84273699e63b5135a51cd3aafbd042d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/context/source_1.md",
+      "bytes": 53547,
+      "sha256": "603b3b1b103d14bc88f4a7c954f14c2d4946f9f01505b35bd0a475c3f5c55199"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/context/source_2.md",
+      "bytes": 52105,
+      "sha256": "5298c1028deb0af83575bde0849c4e9d629d2a7aff91b12adb3bd70a6ff52264"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/discovery.json",
+      "bytes": 41431,
+      "sha256": "318597aa36b4123bc73dc57e21b98ba8951dae4ae0b25814983b5383d2036fed"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/help_index.md",
+      "bytes": 7086,
+      "sha256": "7e9f4ff0577cd6e385efb5ba6cef79220e7028792e33ae67e6e1934931f4f94f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instruction_attachments.json",
+      "bytes": 3936,
+      "sha256": "94991522f223a2a98f8a10e24f9d46d60a84269e21ae1e4c1ee3278501079c88"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instruction_records.json",
+      "bytes": 128727,
+      "sha256": "a2c4502fef8ad3ff5272c6960609a8cca5dd685d83d25c5c9f6ee9a0bb6b27e5"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/a-b-testing-of-the-main-photo-china.md",
+      "bytes": 16994,
+      "sha256": "87f25323512c569e0dee6f19ecc351a30782c34d9d06ea640c738c6863f8dec2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/adult-items-cards-blank.md",
+      "bytes": 6465,
+      "sha256": "9fc082864dd38a084cece625ebd5a156d82105b19fa6f178ea5c63b52f0dde72"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/age-restriction-labeling-for-cosmetics.md",
+      "bytes": 10428,
+      "sha256": "19b4396fd6376f0869b5393e529e41473eba837a84e18052f6ab3adbc5678d3d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/analytics-summary-china.md",
+      "bytes": 9657,
+      "sha256": "b95997e67583fb1a251da6f7f9af7c816a9118acf0006ebf73588594334f0861"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/auto-promotion-ch.md",
+      "bytes": 6447,
+      "sha256": "2414c8f24bf2326d1b470f6a3f7f8bc491b6a8e9b2816ea9b7a4b3471c4cdce2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/balance-management.md",
+      "bytes": 11445,
+      "sha256": "ff30d875a11b75d893476a13d9e3592b57393cdb11333cb49ca8ea15306dc7da"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/bulky-items-shipment-in-fbs-china.md",
+      "bytes": 21603,
+      "sha256": "d378b5c855153920ee4b54efd0b1e81e19367e203a70c523b89ffde97cada886"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/cache-and-cookies-clearing-china.md",
+      "bytes": 9796,
+      "sha256": "568aaf28b24ca47c79ed564fb2a1efabdc04157bc83cb8ea2af5a537e2ded32d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/card-analytics-china.md",
+      "bytes": 8613,
+      "sha256": "72487aabf82327165f409527884122bc4c39523772dcfbd5389986c55a505b09"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/card-creation-rules-china.md",
+      "bytes": 15265,
+      "sha256": "5f4031aa97e6830abd081940806ef731bc18d7d2f54e2d64bf37acaea18c1397"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/card-quality-rating-china.md",
+      "bytes": 13596,
+      "sha256": "a5239155778078388058d4dcddfe3d2741ed4ada6f518e1972da25890af0ca5e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/cards-statuses-limits-and-settings-for-china.md",
+      "bytes": 10972,
+      "sha256": "afc59287c6e67fab2d4488fa0e20e7ae1ba4ebde49808cc5d9933fe57f3a6169"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/cel-warehouse-in-china.md",
+      "bytes": 19733,
+      "sha256": "e9728421e05cef5881a099c2fa0451c08476c885ded4ac191fc98621a58ecfea"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/certificated-items-for-china.md",
+      "bytes": 7059,
+      "sha256": "7228ad8bbe3f40c66e495233f93e65c72bfb11769bd5722d32edce2c4884f1a3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/chat-china.md",
+      "bytes": 8893,
+      "sha256": "7ba338b80ae08e40c401086c7a7d9d889d7d174232f3a85d169c3118517857e0"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/china-sellers-rating.md",
+      "bytes": 12516,
+      "sha256": "3521f0b56ab49460165e4c43476d4bddb1c14e9a2fdb6bb6210d41b5098ec4d2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/china-users-and-accesses.md",
+      "bytes": 11679,
+      "sha256": "5b67c1f6686f67000073b6d3660f77f209be3ec10aaeb0809bfff9a7d8a3c65e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/contact-support-desk-for-china-sellers.md",
+      "bytes": 13045,
+      "sha256": "daaacfa8db0c216b754f29955fab9b53f1c3b06d91573678a672688257ddeab9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/customer-questions-china.md",
+      "bytes": 15634,
+      "sha256": "dda36365a54e337cfc3e67c273fd52ab151d9930ffedec3a5078ffd39394e39a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/customer-reviews-china.md",
+      "bytes": 22230,
+      "sha256": "53ce1182b124d0402670212d5d0c25acdc92a1ee250e6e07b2ebda10ec7baa5c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/daily-dynamics-and-sales-analysis-report-china.md",
+      "bytes": 7415,
+      "sha256": "b7c97c4e9f26db22cb5fea6af883268916108a0cc76de0f405aa9061db2aafa3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/deliveries-by-region-report-ch.md",
+      "bytes": 12934,
+      "sha256": "5a1e96dace745ac905dbdf5a374f25984520c5f6fdcbae7b96e925f555a63eb7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/digital-arbitration-china.md",
+      "bytes": 24292,
+      "sha256": "fe3dc126531554c3ee560cb2c0da939147d0ea173ace3f32f08bc9a294d501bb"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/discount-depth-in-autopromotions-ch.md",
+      "bytes": 12635,
+      "sha256": "18744a85d1a34a649865f9b5dd28a3ba01bbc0d0c4089f5a294bd20567efae07"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/djem-subscription-options-ch.md",
+      "bytes": 12106,
+      "sha256": "a0fe98f4ecf30daf5ce9f2378ab350c0ae6aae899c464a3c55bb32578dd1a7f2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/edit-cards-in-bulk-china.md",
+      "bytes": 7759,
+      "sha256": "55f74bc80d6b3225b8163b2c33eae898c221f487dd4da27b7ef66f9fb53d9393"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/events-calendar-blank-china.md",
+      "bytes": 6445,
+      "sha256": "92196480d4500c59d9d2f935259a3a7100eae48a6e86b060e20e5f999be14f86"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/events-calendar-china.md",
+      "bytes": 17391,
+      "sha256": "a84c24dbb6c19f28c9462db499e7d44db90e6ac751c154d19c1d1111ec5cbc48"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/events-items-ranking-blank-china.md",
+      "bytes": 6486,
+      "sha256": "5f93692187b6df195f80ed3ddcd692b255ea3e748fa82a0a24a3f1b9d41559ab"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/faq-about-blocking-product-cards-ch.md",
+      "bytes": 12045,
+      "sha256": "65f48de61a8868052522903fb729b3a7db7ad69f7e033c5558b811a95240bf86"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/financial-reports-china.md",
+      "bytes": 23524,
+      "sha256": "21828544421b80e7656245ceef629a1045541eecf8287b6a08d8827532962f31"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/fines-retentions-and-other-penalties-for-china-sellers.md",
+      "bytes": 20561,
+      "sha256": "38a9fccf850ff58c3d0c10e9f6f2af15e6f2017c7cde19a6bc2ee2a356a5a7f0"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/first-mile-logistics-dpx.md",
+      "bytes": 13725,
+      "sha256": "dbbce570cfdf8221aa9124d9209e9e94c460e9379e6d2adb0b3636fda1704f85"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/frequently-asked-questions-about-product-search-and-promotion.md",
+      "bytes": 13679,
+      "sha256": "478f53114674a25710902583ff0d23b14c62b3bae872ea84294732608d99a064"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/frequently-asked-questions-for-china.md",
+      "bytes": 7479,
+      "sha256": "f03e2197eb18db4fff552d1eba967ca6c153945a1f20fa411f1509e6ff66ce1c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/history-of-payments-for-services-china.md",
+      "bytes": 8510,
+      "sha256": "6aec08dd7fd1f4a55b4e27584dfbc90707184ac0e3fd503d4863f9d6b5c8bcc5"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/history-of-remains-report-china.md",
+      "bytes": 16371,
+      "sha256": "626ab5efb7d32472308ad964b6be387c5d2d5c40d016d82cf3e4877e92700c94"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-card-gets-to-the-right-website-section-china.md",
+      "bytes": 6086,
+      "sha256": "b83b3b605b955451e850354883641a7d29b1d88a27e3286b29f0992d61e8b328"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-add-all-suitable-products-to-an-autopromotion-with-one-button-ch.md",
+      "bytes": 10495,
+      "sha256": "d382d2e2b81d12165e0312978f38a59fa1736b3fa536ddffb1bf2ab4afeba6b9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-add-item-cards-china.md",
+      "bytes": 32314,
+      "sha256": "81464ce9856dc911526b058de42d009f656673a0a9235763a428c6a461d49b27"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-add-item-cards-in-bulk-china.md",
+      "bytes": 8444,
+      "sha256": "d09d90a03dd625f3c5bcb5b59e6bcb9987af568bbe18666cf0c198d40f02780f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-change-email-china.md",
+      "bytes": 8378,
+      "sha256": "6384ff0fbaf35ce18b8c3eb811884845f7f03e6e8dbbf081e2fc4c1dd7d9d609"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-change-the-sellers-information-china.md",
+      "bytes": 10344,
+      "sha256": "66f0475ee643328c62db7d421eb8031167073eae86c20f267f8f5ab6b944be03"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-check-price-and-discount-updates-china.md",
+      "bytes": 7416,
+      "sha256": "f218dc4914bf1688ade880cd12fa7042ae2bedddf6597ebfa7b9299f604c4db5"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-choose-a-rate-for-promotion.md",
+      "bytes": 12492,
+      "sha256": "935131c79333b8355797ca2959ef7773fd034e45122c554a704ab32ce2ca8853"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-connect-to-api-via-oauth-2-china.md",
+      "bytes": 10638,
+      "sha256": "b84356e8455c542bd7068b5393fb32880b7dd3bffbdde92488757683a22ae6a4"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-connect-via-api-with-token-china.md",
+      "bytes": 13400,
+      "sha256": "9a222250733eca801af3b39bac1dcec79570742cbc813cd2dba7457b3fc7a62f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-create-a-sellers-warehouse.md",
+      "bytes": 8836,
+      "sha256": "892d599fdc15ea8cb3c5eaf1995c6123c6dc0c09b44042795aedf4a15a4029ff"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-create-brand-for-china.md",
+      "bytes": 8346,
+      "sha256": "c59e71a2ec4d5ac1a63c47f0cad88856522be016113252ebd45e88aca3369cfa"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-create-cards-for-bijouterie-china.md",
+      "bytes": 12636,
+      "sha256": "46210cb6ad58793473ffa6067b5223feff1ea02c1806be011c9e744d9c1e6f2c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-create-lingerie-cards-for-china.md",
+      "bytes": 6468,
+      "sha256": "b5ed2c70f6821c24acec05f475f6fe9b9bf222b09df6e86e962a2abc11f78ee6"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-create-update-or-delete-a-wb-api-token-ch.md",
+      "bytes": 19714,
+      "sha256": "8f8840ba02c06742a63f8c659defb7a64a125f804d2055b21adf41f72745ce85"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-increase-limits-of-the-jam-services-cn.md",
+      "bytes": 14678,
+      "sha256": "a30632d6b0232b4c3b4820292e231d6a3bbfc30db0948b83e77304966b5beb1b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-manage-in-fbs-china.md",
+      "bytes": 14258,
+      "sha256": "0ad553aad7110ff9c6eafbce23d4860f0c40b6b1a98c250a5c7a4f57764b8de3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-manage-item-prices-china.md",
+      "bytes": 11348,
+      "sha256": "facd3aee7e12376ca73433744bc4d05edb7ad958ca2bbf3f06dc9d432a2d1304"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-optimize-the-product-profile-ch.md",
+      "bytes": 6048,
+      "sha256": "9d7f7fc211cc4f9d7f95535260b58e5abf16ad86960073bbe23535c7ac0a6b08"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-automotive-items-for-china.md",
+      "bytes": 7922,
+      "sha256": "8d45e2ac6be5af50741756f7ab768b17c6283cf3178e5c2fda5f3ad93d730e1c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-books-stationery-and-handycraft-items-for-china.md",
+      "bytes": 8475,
+      "sha256": "804c73afa76fb4fbe76ad4f93628ee6a3e09124d60f5cb32ff46386b61cd91dd"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-chemicals-and-building-materials-for-china.md",
+      "bytes": 9348,
+      "sha256": "4fa19e576680e2e1d3146db8975d6ed81b29269b2e7b5d5a61eae7e87fe4f77a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-clothes-shoes-and-accessories-for-china.md",
+      "bytes": 8156,
+      "sha256": "1eac1b93647a8e6ca0a1cc8e131c24c0b66a6d8bdb17ee7ae1d19076173a2c86"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-cosmetics-for-china.md",
+      "bytes": 9157,
+      "sha256": "918f8a9291ef4d851f519e7fc19f1fb722a2298747cd7a4c368902eb8440cd8b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-electronics-and-household-appliances-in-fbs-for-china.md",
+      "bytes": 6085,
+      "sha256": "3a29420a1006f72a7370c92e25e5eb6dfbaaf720f9f3a0763f2a0504cb3173eb"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-fragile-and-adult-items-for-china.md",
+      "bytes": 8527,
+      "sha256": "90dd21fbf6efa7310ffa2b3f72c137e3cfa55209343fc496c3bc6885000c2119"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-furniture-household-items-plumbing-dishes-musical-instruments-for-china.md",
+      "bytes": 9688,
+      "sha256": "10e026fd54da3075ae25db3dd6648d1ffd752b7f8d7631cfe9b60396a544b0c5"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-garden-and-summer-cottage-items-for-china.md",
+      "bytes": 10234,
+      "sha256": "7adda5b768f3d01ad63a12b05f2a71fbd99185aaf87cac6ee0f2e52de90b710e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-sport-and-baby-food-pet-and-health-items-for-china.md",
+      "bytes": 11325,
+      "sha256": "4f1a043fdfc6212f88d68d3f44d4e81b34bddd570440cf245eaedca318fb0ee9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-pack-toys-and-items-for-babies-in-china.md",
+      "bytes": 10113,
+      "sha256": "926ad7ed190c3987c4b4b0acaf9f40ee3f4b54239516a381aa87f2f8166ea9ea"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-protect-yourself-from-scammers-ch.md",
+      "bytes": 10749,
+      "sha256": "15948e84c34aa76f1496b4b6c504a31f611f52ca6b280dcae94a88a3bd9e5b04"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-receive-payment-invoice-china.md",
+      "bytes": 10147,
+      "sha256": "fea724b6569782d02fc45ac787966dd544b5280423168b99a1842edaa99addbe"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-sell-coffee-and-tea-china.md",
+      "bytes": 10231,
+      "sha256": "0d1a699b112187b082c29fef43358399c4582c67492203b7b13763ff71cffc77"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-set-minimal-price-and-block-auto-promotions-ch.md",
+      "bytes": 12896,
+      "sha256": "9627c1d4040b9e018df0edb0051f081a8c34ac4bc44435e3e72137670c6e3130"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-start-promotion-on-wildberries.md",
+      "bytes": 12487,
+      "sha256": "f62be43f74fd799ee1aadf078a9f37c35f1dab7c3e5339541e65d44e8f0164be"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-subscribe-to-jam.md",
+      "bytes": 12426,
+      "sha256": "beffb9feeab22c1d8ed886ba26fbb7c535db6bc6ec9fad062a8177f11687faff"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-track-order-status-ch.md",
+      "bytes": 8374,
+      "sha256": "df51da91321317d96d4eb7a9092b6b2040ae667e17986475883d32ae1964c3ca"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-track-returned-item-china.md",
+      "bytes": 7760,
+      "sha256": "7258fc6e7c1c556ef3befc0ab64d3883b7956cb92c0eebd16c8da030e56932e8"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-to-use-offer-china.md",
+      "bytes": 8154,
+      "sha256": "592922a791cfd3021778951c9626e5bb4e5c5d890a6ab0903420efaeb1a17d14"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/how-wb-club-effects-on-sales-for-china.md",
+      "bytes": 13898,
+      "sha256": "ad3baff87712c5c62b7898e912228c8537e96f5022d24d4fde13226c1c06a98c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/infinia-hong-kong-blank.md",
+      "bytes": 6476,
+      "sha256": "0876e4be5c66f35fc5bf7ba766d309c2c8e75b0d6932463351e09585e486049a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/interactive-assembly-task-china.md",
+      "bytes": 14663,
+      "sha256": "13de46de6c5d300eb2e9da4ffa6f483072a50e6763d906d7b792223c357e5341"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/is-jam-profitable-for-the-seller-china.md",
+      "bytes": 8775,
+      "sha256": "9be25ba128575e7fe417e8db0e6d06c06800eb5a6d5328be73fef0284762b14b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/item-dimensions-measuring-china.md",
+      "bytes": 8773,
+      "sha256": "9e8866457be51547111cd8f1f80603d53c1336e3fc4fb805ec4e4450850210df"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/item-photo-rules-and-common-mistakes-china.md",
+      "bytes": 36299,
+      "sha256": "c5f55b226adb26f10ce40d062c72eee6e37a8524082e18b09adcc56ad464c316"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/item-ratings-report.md",
+      "bytes": 14093,
+      "sha256": "83f7ba3ad7ddc6fc1f935d6504f9168f1b6edef1b0242ebd2fe66e925993c4dd"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/item-returns-by-customer-china.md",
+      "bytes": 15666,
+      "sha256": "db2f2c135a7dd3e6bfcfd481572ca973d5a302b6f6c84199a99d6b1c1f7d2a77"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/item-returns-to-seller-from-china-warehouse.md",
+      "bytes": 12078,
+      "sha256": "79365f48ab159bf681ab0365ff7853b7dfccabf1d7234642f88569f8fd28d58a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/items-rating-china.md",
+      "bytes": 9751,
+      "sha256": "4439bc2559f3394459773d78f728f22359c3702cc0e0dd843edf29ce14e541ef"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/jam-tariffs-ch.md",
+      "bytes": 6748,
+      "sha256": "fb73da487d8a4b4924817035ffe7537fe6d502dbe046918ec745806b5370aec9"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/labeling-items-in-fbs-china.md",
+      "bytes": 10020,
+      "sha256": "551d04a8b8e30c36ff4c5d2fada362df2756a722dbaa9e5c1e6edbe90c444d99"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/logo-uploading-china.md",
+      "bytes": 7355,
+      "sha256": "77c0e76858ae099639f3f1e70452cc1c773d8806699dfab3dc1a0696630aa8df"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/marketplace-model-fbs-china.md",
+      "bytes": 6027,
+      "sha256": "7de267860809279b44442b1e31f721c447920035479ea054cfdee49b2253fc52"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/merge-item-cards-china.md",
+      "bytes": 11899,
+      "sha256": "f985d83fe6345a4de0a05611d75d98fbb8d1710215b8a902391802f6ffc96c73"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/order-cancellation-china.md",
+      "bytes": 10231,
+      "sha256": "12d1c3f6b05e27d684ea93f7ee48013c7f8fd75ad9d269e05c15e932acd3c049"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/order-feed-report-ch.md",
+      "bytes": 11467,
+      "sha256": "3a671bd22013a8f0304f109aa31b438fd2e53b9acb54e6d50ff5b05a2de91436"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/original-mark-china.md",
+      "bytes": 14706,
+      "sha256": "7e4d09f1d89124e1354bae5f4ba60885f32f57111eb97ad7455a9efe21084bab"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/oversized-items-return-china.md",
+      "bytes": 8939,
+      "sha256": "facc6c878249340ce3aa4fff258001fa16a64110ad206de486ecb4cc84e37dbc"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/pack-items-in-fbs-china.md",
+      "bytes": 13069,
+      "sha256": "a256e8d2291cda0bb74f69bce3ec7b0b172c06fb362952d52db89e29d7159d99"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/photo-editor-china.md",
+      "bytes": 11150,
+      "sha256": "4c6a8bf4ff8468845805cb7aecbe7c14efc4aa0695a76cf4917533705513af63"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/photostudio-product-photo-generation-using-ai-china.md",
+      "bytes": 16292,
+      "sha256": "f7287f7bd4152dbff87673e9b51a38cf38fc97ff4bdc2db2c7ec5523b42150d7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/pinned-reviews-china.md",
+      "bytes": 16975,
+      "sha256": "8a9b7e4193f4ceb20a2ac7afa7cd7c530a71857ebb8f242cd31bd6eb18f38352"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/portal-notifications-introduction-to-sellers-portal-ch.md",
+      "bytes": 8337,
+      "sha256": "13c0ddfeff5d974160e5870f684841de0c79968cfb86fc3eb1503e921a53d3f8"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/price-quarantine-china.md",
+      "bytes": 11216,
+      "sha256": "d2142a938ccd2dd9859a920be66af9762e2700ab7a4fc14432c6612ebb9bb3ed"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/pro-wildberries-for-china.md",
+      "bytes": 9413,
+      "sha256": "0eae6a89a1a71e86e244c9ba850727caf7a6297e0ce2011e9a5cbab7c66e4080"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/product-cetegories-china.md",
+      "bytes": 14769,
+      "sha256": "04020ba30993104b7699aec8fae9e8de95ef729829a869ecc8a5672dff9db075"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/product-tags-on-photos-in-the-product-card-china.md",
+      "bytes": 11303,
+      "sha256": "fcd416a0a299b08f7242df739a4013224188618cda6041e069503437c1c550c8"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/profit-calculator-china.md",
+      "bytes": 10077,
+      "sha256": "7c4b3785febbf51fdac72c42aed6e618d2349f4d9a6517d9a5f124982b71a51f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/prohibited-or-partially-restricted-goods-china.md",
+      "bytes": 10620,
+      "sha256": "371a960cf8095a9ce766dbc53f2ecec7efc9877b1b1530fee56c032443c4d987"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/prohibited-smoking-goods-china.md",
+      "bytes": 11844,
+      "sha256": "79d6790878559410b40b1a16116bf9a489a6551e63688cdfcf710462098aefbd"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/questions-about-customer-reviews-ch.md",
+      "bytes": 10173,
+      "sha256": "39a1c2651e6a653c0874002def2d2e71ae64125339d35d9b02558ca8c7d88c9f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/rating-and-search-blank.md",
+      "bytes": 6506,
+      "sha256": "e662a6834c5063d93b34296e7a02f64e7862bdbca45fcf0d5115fdf27e4e80c4"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/recommendations-for-model-shooting-ch.md",
+      "bytes": 9751,
+      "sha256": "3cbd11640ddcbcf5d7ce2309ccb1070a2d1a8ebe02841213a5f94ba32b6f9c00"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/recommendations-for-product-photography-ch.md",
+      "bytes": 6043,
+      "sha256": "dcea21094fa32ecc62a356632f2815dffa51d97435c3a5f61a2a270b6c983391"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/replacement-articles-cn.md",
+      "bytes": 17994,
+      "sha256": "10cba962229918bd817827c3128dc502532c1426d0fa23bbc401d34cbbeeffdb"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/report-buyer-portrait-china.md",
+      "bytes": 18999,
+      "sha256": "f817a1c920d39094c00e77f89b9f851148a1a83a23aa5efb99d40ecd8832b9a6"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/report-comparison-of-cards-china.md",
+      "bytes": 24977,
+      "sha256": "0abc2477758d3ab42a2cbac718506ead9144d329e4b3249f7f3f3a4c7db6da63"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/report-niche-analysis-ch.md",
+      "bytes": 22130,
+      "sha256": "16136a9746b544924b5855d01988f4862a4aa4effe69aa9e4eb499b464e73e8d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/report-search-queries-china.md",
+      "bytes": 27639,
+      "sha256": "eac6512d99f4e42d3276a225b875233c91e2c5e644ca75a7e7ebf86bc9b9cb22"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/rets-warehouse-for-china.md",
+      "bytes": 16843,
+      "sha256": "ad48f0a0e004fb19fa069083386c3cc301ef8f63bbf84e3d6b6f91b9bddc83c6"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/return-of-goods-with-manufacturing-defects-china.md",
+      "bytes": 6062,
+      "sha256": "f98a8cf11c214ebe8c9d03fee682ac18ab21efa7bd26f0abb965427010095803"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/return-oversized-items-china.md",
+      "bytes": 21893,
+      "sha256": "62b698927c6471b1b4a65b1feb8b61c6ffc0be2a681213eaefb49c6f1c63f5fe"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/return-to-pickup-point.md",
+      "bytes": 6030,
+      "sha256": "743e0d9c53db3ecb0e3894cc6109099c2afa81b088777020674ba1799426c1f3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/returns-and-movement-of-items-report-china.md",
+      "bytes": 6053,
+      "sha256": "6a7f2c391a89fc29c9b4a9bb4ce6ba75a23a39ad25b872143b2d33aa2d118e7f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/rich-content-china.md",
+      "bytes": 12044,
+      "sha256": "59dc763478ce9a09d78bcb6758840acd5e60ace48e51cb63f18f39f3a944a8ce"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/sales-funnel-part2-china.md",
+      "bytes": 12376,
+      "sha256": "db3cee608ed77f1d83e631b59a9e66bb8a84bda548055e3dfc80915f8bc64ea2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/sales-funnel-report-china.md",
+      "bytes": 15496,
+      "sha256": "ae2e9018e5ff111445cf9516616fed24399b9ca8513586e67acef77a9220c821"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/sales-funnel-report-part1-china.md",
+      "bytes": 12930,
+      "sha256": "959649b1cd0d2baa9ee50820f6e97a27d338b5d55d13a775f28f2b58bb3d2fcf"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/search-analytics-report-china.md",
+      "bytes": 15922,
+      "sha256": "10d71817fcffe6dee7bc034776e9c34af69cfa9abae8aee630fe31ae181385e3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/search-clusters-china.md",
+      "bytes": 11184,
+      "sha256": "27bc1043692ddb8d114134c31c2bc18a14626e9f4cfd9e001027a74875cd231f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/search-results-and-ranking-blank-china.md",
+      "bytes": 6042,
+      "sha256": "4ed09bee70c6503d4a93bdd47b3faf4f2f56a79525947e8e7045f51aeecc9133"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/seller-promocodes-ch.md",
+      "bytes": 15234,
+      "sha256": "bc963bb883c9e4a6e14e2ee30d7c195f8083fa1379bafbc76b7ecb4c9e53d24e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/seller-recommends-block-in-the-product-card-china.md",
+      "bytes": 13086,
+      "sha256": "218237d5ffdc3ed8c20d58d68eaea96adda24789853a628c5d6e723a425bad06"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/sellers-analytics-china.md",
+      "bytes": 8128,
+      "sha256": "117158139aba43c796e1dc80680003c9e15cd6502e5a71b04a96bffc1d562447"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/sellers-site-main-page-china.md",
+      "bytes": 13298,
+      "sha256": "ec745c3c7c69ae434bbfdfa3cceb513bc20b5cdc0edd78b21edb81f5164d52f3"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/size-chart-in-the-product-card-china.md",
+      "bytes": 14377,
+      "sha256": "7d6271cf3b6b827e3233d66de4cb66809fafe098244e5ae8a76c3203e15212d8"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/statistics-and-promotion-management-china.md",
+      "bytes": 16258,
+      "sha256": "eb4ce4f5cd0dfb12962aaf084744eeabdf605784f9768aa9f1f99198da4af2a7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/step-one-fbs-order-processing-china.md",
+      "bytes": 13861,
+      "sha256": "7f0700bf66efb993ea5f058aa2ef414dd2cbfdab1b95b7758848523ff6b81f8d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/store-balance-china.md",
+      "bytes": 13225,
+      "sha256": "2499761363ae4f3b15d99a5073df4846da8c0c5daf3512500235e4d9028d3551"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/store-registration-china.md",
+      "bytes": 14807,
+      "sha256": "b7bd6fcc537037dd8ab3d13fb1c1f8bd408bcc425d8e0ac2618e82af4802c43c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/tariffs-blank-china.md",
+      "bytes": 6534,
+      "sha256": "4fa3b3235d949136fa14ac44f55a21668dc770c883995d2a6dd7c5d46828759e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/two-factor-authentication-for-personal-account-china.md",
+      "bytes": 7809,
+      "sha256": "5c33abf0a37fbfbc783e4defb5811a0ed179232474e6c6555cc07082b535dc3f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/uni-warehouse.md",
+      "bytes": 19030,
+      "sha256": "4e9eaf940caf465f9862adba36e536c9475dcdf9f215559089730c0df16372a4"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/video-autoplay-in-product-card-and-catalog-china.md",
+      "bytes": 8505,
+      "sha256": "5630a0638e2d4d2357a2629b6e140ce07b33f17f1bd9a507a8aff4996c3037fc"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/wb-api-data-categories-china.md",
+      "bytes": 22297,
+      "sha256": "2a3541131050b81217d8d5219d058a971d32d5d5ed38b8a0691e373dc9a25751"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/wb-club-discount-china.md",
+      "bytes": 13122,
+      "sha256": "87e00b9046b456b758a6691467684924dafeb4aaa01463f06d5e17076b8eb7fb"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/wb-plus-model-in-china.md",
+      "bytes": 6000,
+      "sha256": "45fecb9b27bc2c58e461a1a8f4c2594a0c5aceb2ba8611234fc20a378c0bfad0"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/wb-promo-events-china.md",
+      "bytes": 12348,
+      "sha256": "ffbd21c709ccff068ae9edbb1878bb56bd44feb7603b72637614c7c962cdd604"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/wb-promotion-account-replenishment-from-sellers-balance-in-china.md",
+      "bytes": 9841,
+      "sha256": "470991d1543d6b46ef85d4d8eca9f84b979b6d34cce1c495579d4cd08e289b68"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/wb-promotion-unified-prom-activities.md",
+      "bytes": 13639,
+      "sha256": "3a0a165c98e70ba471177287f34e5ae3268e7e5ccb700ac65dd0cd6ed32c120c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/website-personal-chineese-account-section.md",
+      "bytes": 11347,
+      "sha256": "b93b75e65c8b19240679231a7a8563ffeb16a18c0e75493a511cb902b8506b14"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/what-is-wb-api-and-how-to-work-with-it-china.md",
+      "bytes": 8723,
+      "sha256": "de7f9715852d156e5738efb8d6865719339381b3a5a3c836c1456f9223adf6e2"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/window-for-price-management-china.md",
+      "bytes": 8720,
+      "sha256": "abab7ae1da848e00644c9ca3dd289266599477f0f099ed30552c919803e93ef5"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions/your-first-sale-on-wildberries-china.md",
+      "bytes": 14873,
+      "sha256": "452d12fa1db289652fe567f212b3d82d51ac564e448aabf8381218d1aad8d101"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/how-card-gets-to-the-right-website-section-china.md",
+      "bytes": 8086,
+      "sha256": "609cdd32851637478d916583db0d6ba7d91947086398558cd0d61690c49f9398"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/how-to-optimize-the-product-profile-ch.md",
+      "bytes": 10419,
+      "sha256": "9ffac777db9ee89c7d5f090fe535c3423198501f6002f76232da0b958adc91f1"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/how-to-pack-electronics-and-household-appliances-in-fbs-for-china.md",
+      "bytes": 9549,
+      "sha256": "e0df6491e992e7f3c0ce476f75e67e2a1c66ace7496dc5fd23f57ebbf8bea669"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/marketplace-model-fbs-china.md",
+      "bytes": 9037,
+      "sha256": "766e8412784fac7ce1b12a6567074a987cc08b7daf9595b242a854dd1dc6b022"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/recommendations-for-product-photography-ch.md",
+      "bytes": 9274,
+      "sha256": "1cc37f1b4fd609481a87520cce91b5b265c58a300aec24dd232c0ed816332f46"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/return-of-goods-with-manufacturing-defects-china.md",
+      "bytes": 11186,
+      "sha256": "8a96de51c5e85431a201eb8423370ba343d43852ea21dae945f71725936ead9b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/return-to-pickup-point.md",
+      "bytes": 11768,
+      "sha256": "2d7c6fc32e4325ad7c48505d38ead8476f2f8801aff8fd7285b8ac0bb12b6add"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/returns-and-movement-of-items-report-china.md",
+      "bytes": 9606,
+      "sha256": "8e197125fba95e3c18b51c374993d7d41046db8de3600fe49119aedc257822bf"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/search-results-and-ranking-blank-china.md",
+      "bytes": 7578,
+      "sha256": "874ea97dd4af75296794e70645cf4376c3b6f44b4b1f60e4cf332fb1c0d0df0e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/instructions_retried/wb-plus-model-in-china.md",
+      "bytes": 7575,
+      "sha256": "527f9442dde9ed91c23383a548f30275efe082321ee424344f6febba58d4378d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/license_text.txt",
+      "bytes": 60987,
+      "sha256": "a6bce8673578db0e377bdf5642d24ae71ec99d3d61e733bb2a42222dfbe40893"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/linked_documents.json",
+      "bytes": 1838,
+      "sha256": "5ac8a44055bc5c3625584e8a61139e1a1459de4d80d633857539b0c38217e72e"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/manifest.json",
+      "bytes": 61186,
+      "sha256": "71a7c071a11f96763d512c19befd32b8d6f7992e682d5c4861f3e5279d590f94"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/offer_links.json",
+      "bytes": 2375,
+      "sha256": "dc0472b23c1c2c03e06c2afc808e4567d1a2f153075bad73dab6dfcb3633b2c1"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/offer_text.txt",
+      "bytes": 454185,
+      "sha256": "d6130a19450d8e1f73e05f3a792dea896e33d6c9397ace1bdcc0c086e0c1124a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/0925.pdf",
+      "bytes": 894895,
+      "sha256": "7640b3a297e5d2fda46f4aa28361985671294a341b49940b24c3b592a7753a66"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/WB_Global_offer_29_2026-10-01.pdf",
+      "bytes": 1882453,
+      "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/Zapreshennye_tovary_0826.pdf",
+      "bytes": 105154,
+      "sha256": "ea44e3081eeaea06be98fe49e88c6edc8ef58e28b5218fefb59d73c8b432d94a"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/cn.pdf",
+      "bytes": 362724,
+      "sha256": "458e15823ca8570c300fd9937bad246ab9243a15c98e35e5dfbedb5309c8f714"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/fines_list_0726.pdf",
+      "bytes": 333140,
+      "sha256": "9a70dda187c5284a50b00b2285962ecaaae74a41aa0184b154a82041a895ed2c"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/range.pdf",
+      "bytes": 493626,
+      "sha256": "522aa362bdf52f7129bf22abcae4ed6f7ec24f3f5c4207e6d46fa75bc520cd00"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/originals/warehouse_and_tarrifs_0826.pdf",
+      "bytes": 391937,
+      "sha256": "397d947fd2efc42b5f6b9452cddb26ef6a8d8af602344792493c90361345a42d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/recursive_documents.json",
+      "bytes": 4276,
+      "sha256": "11a6e1e79a21159ad65d01d5d2c03103974ae10f9081fa5ba2978acda25803c7"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/00_WB_Global_Навигатор.md",
+      "bytes": 13890,
+      "sha256": "cac7f7ffcd80b688259b2405538f8a2e08239e03e4979dd6da54b5c62ec00fba"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/01_WB_Global_Оферта_29.pdf",
+      "bytes": 1882453,
+      "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/02_WB_Global_Лицензия.pdf",
+      "bytes": 894895,
+      "sha256": "7640b3a297e5d2fda46f4aa28361985671294a341b49940b24c3b592a7753a66"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/03_WB_Global_Связанные_документы.pdf",
+      "bytes": 19983435,
+      "sha256": "b8818ef3d3c2e15c3a0525280e55a9baefe456062b5836c2f529785fbd12b78b"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/04_WB_Global_Инструкции_том_1.md",
+      "bytes": 291795,
+      "sha256": "c630f372b2fd363ddaa79a306da4184e92e71c3c75846a2f00581a355f0eff34"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/05_WB_Global_Инструкции_том_2.md",
+      "bytes": 181921,
+      "sha256": "5052af271bf309277ef9c69162062b004f9e43efc2a3afefaaca4da6f3bd6c12"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/06_WB_Global_Инструкции_том_3.md",
+      "bytes": 304474,
+      "sha256": "a2bc8b9597b7fa3f59b2a0bc07024be873e6e22f2594bf3b888b32916797e4fa"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/07_WB_Global_Инструкции_том_4.md",
+      "bytes": 201004,
+      "sha256": "1a430dd74707652367d84b02f7933d2eccca3b46b837a50da73dd928c379995f"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/08_WB_Global_Правила_ответа.md",
+      "bytes": 2324,
+      "sha256": "a3260c6355700fc4ef4fc4bdc294b5b112ef01c5a8624cf987e3d6045bf26d8d"
+    },
+    {
+      "path": "wildberries/global/2026-11-02/upload/page_map.json",
+      "bytes": 6477,
+      "sha256": "1df74dc4a3640dd233adc8fc707a275412477e1a888104641d17b5dc21410657"
     },
     {
       "path": "wildberries/upload/2026-11-02/README.md",

@@ -3,7 +3,7 @@
   "as_of": "2026-11-02",
   "publication_date": "2026-11-02",
   "publication_mode": "official_documents_and_anonymized_overview",
-  "upstream_commit": "6d68c037d6fce7fa9e7226e3da219fb9e9fd3d7c",
+  "upstream_commit": "fc8013701b01321bfac78e9b91c4178196cda349",
   "coverage": "partial",
   "current_offer": 29,
   "effective_date_observed": "2026-10-01",
@@ -21,18 +21,18 @@
     },
     {
       "file": "INDEX.md",
-      "bytes": 38296,
-      "sha256": "207ce86329a1547aae2ea1b05eaf225b11f07f1afdcf5f12d18f6ca01d0c4b18"
+      "bytes": 38298,
+      "sha256": "844b2a3a96af6c8bb2d5205f9ea6cb259609d047fe449c48b37a721a88f370d7"
     },
     {
       "file": "README.md",
-      "bytes": 3624,
-      "sha256": "fd36fb3a2bd96605bca658127eb158cf38a09c72ac22b40f3eb6a9a446dc894e"
+      "bytes": 3491,
+      "sha256": "31b1118b156dd96f89a9198354e917a73533c1a0c9f106c0b167f689532556cd"
     },
     {
       "file": "REPORT.md",
-      "bytes": 13889,
-      "sha256": "81a5fa697b64788f54369e367fe1caf2901737123418339bfdda744dbf9b3141"
+      "bytes": 13890,
+      "sha256": "cac7f7ffcd80b688259b2405538f8a2e08239e03e4979dd6da54b5c62ec00fba"
     },
     {
       "file": "attachments/072572a393_0726.pdf",
@@ -1221,7 +1221,7 @@
       "pages": 19
     },
     {
-      "file": "originals/WB_China_offer_29_2026-10-01.pdf",
+      "file": "originals/WB_Global_offer_29_2026-10-01.pdf",
       "bytes": 1882453,
       "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220",
       "source": "https://seller.wildberries.cn/terms?locale=zh&country=zh",
@@ -1268,57 +1268,59 @@
       "sha256": "11a6e1e79a21159ad65d01d5d2c03103974ae10f9081fa5ba2978acda25803c7"
     },
     {
-      "file": "upload/00_WB_China_Навигатор.md",
-      "bytes": 13889,
-      "sha256": "81a5fa697b64788f54369e367fe1caf2901737123418339bfdda744dbf9b3141"
+      "file": "upload/00_WB_Global_Навигатор.md",
+      "bytes": 13890,
+      "sha256": "cac7f7ffcd80b688259b2405538f8a2e08239e03e4979dd6da54b5c62ec00fba"
     },
     {
-      "file": "upload/01_WB_China_Оферта_29.pdf",
+      "file": "upload/01_WB_Global_Оферта_29.pdf",
       "bytes": 1882453,
       "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220",
       "pages": 75
     },
     {
-      "file": "upload/02_WB_China_Лицензия.pdf",
+      "file": "upload/02_WB_Global_Лицензия.pdf",
       "bytes": 894895,
       "sha256": "7640b3a297e5d2fda46f4aa28361985671294a341b49940b24c3b592a7753a66",
       "pages": 19
     },
     {
-      "file": "upload/03_WB_China_Связанные_документы.pdf",
+      "file": "upload/03_WB_Global_Связанные_документы.pdf",
       "bytes": 19983435,
       "sha256": "b8818ef3d3c2e15c3a0525280e55a9baefe456062b5836c2f529785fbd12b78b",
       "pages": 193
     },
     {
-      "file": "upload/04_WB_China_Инструкции_том_1.md",
-      "bytes": 291794,
-      "sha256": "70f854d26ccc04c5e39c4cc1dcf7d327639ddaf1d8e825372de62a04aabe1863"
+      "file": "upload/04_WB_Global_Инструкции_том_1.md",
+      "bytes": 291795,
+      "sha256": "c630f372b2fd363ddaa79a306da4184e92e71c3c75846a2f00581a355f0eff34"
     },
     {
-      "file": "upload/05_WB_China_Инструкции_том_2.md",
-      "bytes": 181920,
-      "sha256": "89c5089fe0b6f5f73eacd55581c07a857bed9741aa024ecc063ab773a11ef9cd"
+      "file": "upload/05_WB_Global_Инструкции_том_2.md",
+      "bytes": 181921,
+      "sha256": "5052af271bf309277ef9c69162062b004f9e43efc2a3afefaaca4da6f3bd6c12"
     },
     {
-      "file": "upload/06_WB_China_Инструкции_том_3.md",
-      "bytes": 304473,
-      "sha256": "1d159682041e36effadb97e3fe7b1daa6e84f2a66ec5ecf13a09f90d744897c0"
+      "file": "upload/06_WB_Global_Инструкции_том_3.md",
+      "bytes": 304474,
+      "sha256": "a2bc8b9597b7fa3f59b2a0bc07024be873e6e22f2594bf3b888b32916797e4fa"
     },
     {
-      "file": "upload/07_WB_China_Инструкции_том_4.md",
-      "bytes": 201003,
-      "sha256": "400121f986d706f6e7ea06645e827693ddca620335023ead07bdb15d623cf65e"
+      "file": "upload/07_WB_Global_Инструкции_том_4.md",
+      "bytes": 201004,
+      "sha256": "1a430dd74707652367d84b02f7933d2eccca3b46b837a50da73dd928c379995f"
     },
     {
-      "file": "upload/08_WB_China_Правила_ответа.md",
-      "bytes": 2323,
-      "sha256": "b8eb386ad18f81c7afeea5211f1b0766a847a96ca70ae49358d78f241e1e7380"
+      "file": "upload/08_WB_Global_Правила_ответа.md",
+      "bytes": 2324,
+      "sha256": "a3260c6355700fc4ef4fc4bdc294b5b112ef01c5a8624cf987e3d6045bf26d8d"
     },
     {
       "file": "upload/page_map.json",
       "bytes": 6477,
       "sha256": "1df74dc4a3640dd233adc8fc707a275412477e1a888104641d17b5dc21410657"
     }
-  ]
+  ],
+  "display_name": "WB Global",
+  "country_scope": "China -> Russia; other countries not audited"
 }
