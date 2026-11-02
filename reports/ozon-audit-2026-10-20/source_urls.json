@@ -1,0 +1,138 @@
+{
+  "checked_on": "2026-10-20",
+  "timezone": "Europe/Moscow",
+  "status": "partial",
+  "sources": [
+    {
+      "file": "sources/ru_contract_published_2026-10-06.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/d304b77b-3352-4dd8-895c-8ac9e2b18934/dogovor-dlya-prodavtsov_-usloviya-sotrudnichestva--baza-znanii-ozon-seller-edu.pdf",
+      "acquisition": "recovered_from_local_Downloads_on_2026-10-20",
+      "original_download": "2026-10-13",
+      "note": "Не новая загрузка 20.10; дата печати PDF 06.10.2026 18:32."
+    },
+    {
+      "file": "sources/ru_contract_published_2026-10-16.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/e21809a1-a210-4694-b305-f9021e92c0e4/dogovor-ozon-01122026.pdf",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "Содержит будущие положения декабря; даты конкретных пунктов учитываются отдельно."
+    },
+    {
+      "file": "sources/ru_tariffs_published_2026-10-08.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/a8f025a9-6cfc-4f2c-9953-8510962cc621/komissii-i-tarify.pdf",
+      "acquisition": "recovered_from_local_Downloads_on_2026-10-20",
+      "original_download": "2026-10-13",
+      "note": "Не новая загрузка 20.10; дата печати PDF 08.10.2026 13:21."
+    },
+    {
+      "file": "sources/ru_tariffs_published_2026-10-12.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/8ef749aa-5f31-4405-9f5b-6d100915c580/polnyy-spisok-komissiy-i-tarifov.pdf",
+      "acquisition": "downloaded_2026-10-20"
+    },
+    {
+      "file": "sources/ru_tariffs_published_2026-10-13.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/fada6f38-3df8-4cc2-b8d4-924b155bae7a/full-actual-commissions-15012027-1.pdf",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "Содержит будущие условия декабря и января, а также прекращение страховой программы с 13.10."
+    },
+    {
+      "file": "sources/ru_general_published_2026-10-06.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/10a29411-8427-41ef-a8d6-0154d55f3594/obshchiye-usloviya-sotrudnichestva-s-ozon.pdf",
+      "acquisition": "downloaded_2026-10-20"
+    },
+    {
+      "file": "sources/ru_general_published_2026-10-16.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/2ea653a4-8128-415f-9bbd-f7008bd24c1d/obshchiye-usloviya-sotrudnichestva-s-ozon-01122026.pdf",
+      "acquisition": "downloaded_2026-10-20"
+    },
+    {
+      "file": "sources/global_crossborder_2026-10-01.pdf",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-global-ru-01-10-2026_1790160867.pdf",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "SHA-256 совпал со снимком 29.09; региональная доступность услуг определяется отдельно."
+    },
+    {
+      "file": "sources/cis_contract_2026-10-07.pdf",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-cis-07-10-2026_1791201915.pdf",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "Получен при просмотре прежнего договора Казахстана/СНГ; не доказывает проверку всех национальных тарифов."
+    },
+    {
+      "file": "sources/kz_omk_contract_2026-10-07.pdf",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-cis-omk-07-10-2026_1791202310.pdf",
+      "acquisition": "downloaded_2026-10-20"
+    },
+    {
+      "file": "sources/uz_contract_2026-10-02.pdf",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-cis-omkozb-02-10-2026_1790765852.pdf",
+      "acquisition": "downloaded_2026-10-20"
+    },
+    {
+      "file": "sources/uz_contract_2026-10-07.pdf",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-cis-omkozb-07-10-2026_1791202488.pdf",
+      "acquisition": "downloaded_2026-10-20"
+    },
+    {
+      "file": "sources/logistics_from_2026-10-30.xlsx",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Seller-edu/files/commissions-tariffs/commissions/logistika-fbo-fbs-30102026_1789376537.xlsx",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "Идентичен ранее объявленному будущему файлу, скачанному 20.09."
+    },
+    {
+      "file": "sources/crossdock_from_2026-10-30.xlsx",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Seller-edu/files/commissions-tariffs/commissions/Кросс-докинг_тарифы_по_маршрутам_30102026_1789389278.xlsx",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "Идентичен ранее объявленному будущему файлу, скачанному 20.09."
+    },
+    {
+      "file": "sources/delivery_from_2026-10-30.xlsx",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Seller-edu/files/commissions-tariffs/Ozon-logistica/tariffs-logistika-ozon-dostavka-30102026_1789382722.xlsx",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "Основная сетка; не подменяет автоматически действующие специальные условия."
+    },
+    {
+      "file": "sources/delivery_special_2026-06-16.xlsx",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Seller-edu/files/commissions-tariffs/Ozon-logistica/tariffs-logistika-ozon-dostavka-16-06-26_1781508677.xlsx",
+      "acquisition": "downloaded_2026-10-20",
+      "note": "По п. 2.7.3 PDF от 12.10 специальные тарифы действуют по 31.12.2026."
+    }
+  ],
+  "web_observations": [
+    {
+      "url": "https://seller-edu.ozon.ru/libra/contract-for-sellers/contract-goods/dogovor-izmeneniya",
+      "status": "read_in_browser_2026-10-20",
+      "raw_full_page_saved": false
+    },
+    {
+      "url": "https://seller-edu.ozon.ru/libra/commissions-tariffs/legal-information/archive-komisii",
+      "status": "read_in_browser_2026-10-20",
+      "raw_full_page_saved": false
+    },
+    {
+      "url": "https://seller-edu.ozon.ru/libra/commissions-tariffs/legal-information/full-actual-commissions",
+      "status": "read_in_browser_2026-10-20",
+      "raw_full_page_saved": false,
+      "note": "Документы, на которые ссылается страница, сохранены отдельно."
+    },
+    {
+      "url": "https://global-help.ozon.com/commissions/ozon-fees/commissions-for-other-services",
+      "status": "read_both_date_tabs_in_browser_2026-10-20",
+      "region": "China",
+      "raw_full_page_saved": false,
+      "note": "Вкладки до 25.10 и с 26.10; лимит P+B в формуле оплаты 10000 -> 5000 RUB, фиксированная часть 300 RUB. Не подменять формулировкой российского тарифа о баллах автору. Остальные регионы не подтверждены."
+    },
+    {
+      "url": "https://www.consultant.ru/law/ref/calendar/proizvodstvennye/2026/",
+      "status": "read_2026-10-20",
+      "raw_full_page_saved": false,
+      "note": "20.10 и 27.10 рабочие вторники. Повторная попытка открытия в конце проверки не завершилась."
+    }
+  ],
+  "failed_downloads": [
+    {
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Seller-edu/files/commissions-tariffs/commissions/Перемещение_товаров_30102026_1789383165.xlsx",
+      "status": "connection_closed",
+      "fallback": "../ozon-audit-2026-09-20/sources/transfers_from_2026-10-30.xlsx",
+      "note": "Старая копия сохранена, но актуальность байтов 20.10 не подтверждена; новые маршрутные цены в отчёт не подставлены."
+    }
+  ]
+}

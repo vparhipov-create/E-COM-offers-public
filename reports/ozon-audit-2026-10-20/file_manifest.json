@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-20",
+  "extracted_at_utc": "2026-10-20T07:13:48.820249+00:00",
+  "files": [
+    {
+      "file": "cis_contract_2026-10-07.pdf",
+      "bytes": 1525846,
+      "sha256": "b08f16dedbdfc05f65547f7dadef25877e65b996d6beb0467ec30caf9cf4bc6a",
+      "pages": 97,
+      "text_chars": 206730
+    },
+    {
+      "file": "crossdock_from_2026-10-30.xlsx",
+      "bytes": 52844,
+      "sha256": "2357c647190bb92a662ba9e7b15d90e5b8aeebea523f9b42f37a0effdb579faf",
+      "sheets": {
+        "Стоимость перевозки": {
+          "rows": 1378,
+          "cols": 4
+        }
+      }
+    },
+    {
+      "file": "delivery_from_2026-10-30.xlsx",
+      "bytes": 641132,
+      "sha256": "93471b775de160bc366101bb16c7f6d7ce19238629039559a6282ab6a21262bd",
+      "sheets": {
+        "Тарифы на Логистику": {
+          "rows": 26490,
+          "cols": 6
+        },
+        "Универсальные тарифы": {
+          "rows": 45,
+          "cols": 3
+        }
+      }
+    },
+    {
+      "file": "delivery_special_2026-06-16.xlsx",
+      "bytes": 855526,
+      "sha256": "c6dbd37b45916a21be6b7fcaaebace3d4879d4bd0d8988d2ac562492e66ba658",
+      "sheets": {
+        "Тарифы на Логистику": {
+          "rows": 35263,
+          "cols": 8
+        },
+        "Универсальные тарифы": {
+          "rows": 45,
+          "cols": 3
+        }
+      }
+    },
+    {
+      "file": "global_crossborder_2026-10-01.pdf",
+      "bytes": 10355811,
+      "sha256": "fdd117a11901b6c28b9b3fbb7332e4b473bb324cc28993f135e1768164c2fda4",
+      "pages": 72,
+      "text_chars": 186694
+    },
+    {
+      "file": "kz_omk_contract_2026-10-07.pdf",
+      "bytes": 1460038,
+      "sha256": "6a887f1cbd0fbadbb3b8da5bb22542a902217ecfeeb8b8880a43941852b14521",
+      "pages": 93,
+      "text_chars": 195808
+    },
+    {
+      "file": "logistics_from_2026-10-30.xlsx",
+      "bytes": 1394996,
+      "sha256": "abd11bd26f79164a3dff613f84367ceba96f2cc73f2f8680cc52f80d4e7fbf04",
+      "sheets": {
+        "Логистика РФ": {
+          "rows": 36467,
+          "cols": 8
+        },
+        "Тарифы по умолчанию": {
+          "rows": 46,
+          "cols": 4
+        }
+      }
+    },
+    {
+      "file": "ru_contract_published_2026-10-06.pdf",
+      "bytes": 1970053,
+      "sha256": "24c5c3e4fd5435cea1d283d53ecc037a14a977ecffc2a0f4c459045452072a29",
+      "pages": 167,
+      "text_chars": 248788
+    },
+    {
+      "file": "ru_contract_published_2026-10-16.pdf",
+      "bytes": 1947195,
+      "sha256": "6ca0cea0babba096581ba23885687bcd069f65153c626c13a98af90596c4d644",
+      "pages": 109,
+      "text_chars": 229860
+    },
+    {
+      "file": "ru_general_published_2026-10-06.pdf",
+      "bytes": 1038764,
+      "sha256": "773efe2b7dcc1c29f9c9aba209ca72c059ac7c40c75ba0caf0a42208ce188185",
+      "pages": 83,
+      "text_chars": 119170
+    },
+    {
+      "file": "ru_general_published_2026-10-16.pdf",
+      "bytes": 1047237,
+      "sha256": "eccbb3f36c04c1ac7872ce5059e7c83faa34a576739225dc8568357d874418f7",
+      "pages": 52,
+      "text_chars": 113630
+    },
+    {
+      "file": "ru_tariffs_published_2026-10-08.pdf",
+      "bytes": 1789947,
+      "sha256": "7d1e23278f3cfbb4ac83a4ff163f2ca28dd5cfe152397fbcd56aab5497bd629d",
+      "pages": 92,
+      "text_chars": 101218
+    },
+    {
+      "file": "ru_tariffs_published_2026-10-12.pdf",
+      "bytes": 6322920,
+      "sha256": "90fb419ab03a2938ca0ad8fe6294b54f5b47e360ce68067e67f23090b8c7f2cb",
+      "pages": 80,
+      "text_chars": 87043
+    },
+    {
+      "file": "ru_tariffs_published_2026-10-13.pdf",
+      "bytes": 8833229,
+      "sha256": "ee9f1d82991f6c8876ba4b57300b0b4d45e402353ca0b6498d68fc2bdfb1ab82",
+      "pages": 69,
+      "text_chars": 97299
+    },
+    {
+      "file": "uz_contract_2026-10-02.pdf",
+      "bytes": 1370112,
+      "sha256": "742788a6dbac9961ddd0067c95f77128da769fc84398e1124b01e8eb36d29092",
+      "pages": 90,
+      "text_chars": 185461
+    },
+    {
+      "file": "uz_contract_2026-10-07.pdf",
+      "bytes": 1388065,
+      "sha256": "c26250af8aa8fbae8e261319d7c178b539a530d309a67e75f1bd914303abcc54",
+      "pages": 88,
+      "text_chars": 186010
+    }
+  ]
+}

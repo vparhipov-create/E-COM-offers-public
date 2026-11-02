@@ -1,0 +1,552 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 35,
+    "sha256": "a9d0ce7a16096b2c4a25fdb9435c198f626b85299b5e497acb6cfe6b02777735"
+  },
+  {
+    "file": "README.md",
+    "bytes": 4003,
+    "sha256": "588e1afc9b33318c36e3f7c6299ab9cefdbfe767291badcfd2ecee2ce3a02b07"
+  },
+  {
+    "file": "categories.txt",
+    "bytes": 11519,
+    "sha256": "0f64e6011d69a1432bb4baef71c20ba01bf5056e07b5921b68881bea68d67207"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/REPORT_RU.md",
+    "bytes": 17196,
+    "sha256": "d3d499c553bb574291f88b8482d77d6c41360bfacc0cabe6ddf41db5a9c9f6af"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/commissions_downloaded_2026-09-20.xlsx",
+    "bytes": 616100,
+    "sha256": "d633431893c4bc6bbf1b1659f1193e4802d0886ccb3fed97798f3526ff023b85"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/compensation_from_2026-09-24.xlsx",
+    "bytes": 668370,
+    "sha256": "64184e4a2f11efe0ee4c91d6a07302f2b79db5ad2f83d7e23ec4fb80ed599684"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/contract_published_2026-09-07.pdf",
+    "bytes": 1527857,
+    "sha256": "66909d93c6be778a6cbb8c9f9c2315f66d3294dfa6ebd1a084c89245be7e28a9"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/contract_published_2026-09-16.pdf",
+    "bytes": 1698694,
+    "sha256": "7d9d9579f3e2d8a3afaf94c6a2780fc14885b935f939f901501a8c1c15ebf862"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/contract_published_2026-09-17.pdf",
+    "bytes": 1708615,
+    "sha256": "bb19d483dd49125375eb84b91fae213ec0ab63173e11c8575d7c3c701cce7ce4"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/crossdock_pickup_from_2026-09-16.xlsx",
+    "bytes": 15871,
+    "sha256": "b6c4319aa9c55bb0343f9cba19b60ac9c617684be112d6c11dc6560e8c60ed46"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/crossdock_pvz_ppz_from_2026-09-16.xlsx",
+    "bytes": 3554643,
+    "sha256": "1f30f89cae03616764ada283ae60d0738d516f95f19674b31623690de2a06317"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/crossdock_routes_from_2026-10-30.xlsx",
+    "bytes": 3685096,
+    "sha256": "6c5a1ad9bf3b3b979aec5b17dac8aaade92cc5fa7e0c02f31d9be53543a652eb"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/crossdock_sc_from_2026-09-16.xlsx",
+    "bytes": 290427,
+    "sha256": "8dbc3827e75859dae7cd3029afe11cfbf7791f99633749230bc4fa44c3428111"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/crossdock_tariffs_from_2026-10-30.xlsx",
+    "bytes": 52844,
+    "sha256": "2357c647190bb92a662ba9e7b15d90e5b8aeebea523f9b42f37a0effdb579faf"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/fashion_types.xlsx",
+    "bytes": 18097,
+    "sha256": "f5c77839cf94d0423f141e3559c5ab80898aeb9a95c4aad4c8b54cf167ab8a6d"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/general_published_2026-09-04.pdf",
+    "bytes": 877556,
+    "sha256": "de4ba142c75171b077ae6d4190fe31f3ac2e9f516949b7c715d115d459a2877a"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/general_published_2026-09-16.pdf",
+    "bytes": 978951,
+    "sha256": "7ea4ca90bf5f47e213a78cf73faf6e4ad4ad46bf93dd1612b3a29b0a948a9de0"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/general_published_2026-09-17.pdf",
+    "bytes": 970410,
+    "sha256": "73c66b3fb8c52ca33d52877f1bf30b9753df3f8bbf909570e6da9bd4c3b9828b"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/logistics_from_2026-08-28.xlsx",
+    "bytes": 1381296,
+    "sha256": "9475b39b78410062820fb02e3d468e44a811c149894eb5d17d642ba2171a91a7"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/logistics_from_2026-10-30.xlsx",
+    "bytes": 1394996,
+    "sha256": "abd11bd26f79164a3dff613f84367ceba96f2cc73f2f8680cc52f80d4e7fbf04"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/storage_from_2026-09-12.xlsx",
+    "bytes": 447344,
+    "sha256": "653a2e9186dec21a04435531cbd37704662d02757f09fad923defee4b961083b"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/tariffs_published_2026-09-11.pdf",
+    "bytes": 7994539,
+    "sha256": "ae5a66c60c94931960c49333bdaf538e288d3a793221724ddf48e38b85b3ae6a"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/tariffs_published_2026-09-14.pdf",
+    "bytes": 1562828,
+    "sha256": "2714ef7a2df3a3d25bfd71d910f5f0f7b87d0870cf26aa9c219274b7da80e89e"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/tariffs_published_2026-09-16.pdf",
+    "bytes": 1649393,
+    "sha256": "cb71ecee5cb8751bc141057f5d2385c6fefaf0f2ad88bfab20bb46d838c93824"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/tariffs_published_2026-09-17.pdf",
+    "bytes": 1566665,
+    "sha256": "9bf39f36a0382dfd32797c4808033184b7fc5e66a58384237da0728f674557a8"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-20/sources/transfers_from_2026-10-30.xlsx",
+    "bytes": 1126913,
+    "sha256": "6242d6cdc4566edf4a6d0db82e19d6c6a9a01992e6955d530278fa2bc216f9ee"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-21-example/REPORT.md",
+    "bytes": 13701,
+    "sha256": "e213c5dd76f9940cc6f0a64e994fe05a0219e7ee6ccac44087c6b84ae2444b57"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-21-example/sources/compensation_from_2026-09-24.xlsx",
+    "bytes": 668370,
+    "sha256": "64184e4a2f11efe0ee4c91d6a07302f2b79db5ad2f83d7e23ec4fb80ed599684"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-21-example/sources/global_contract_2026-08-24.pdf",
+    "bytes": 1293550,
+    "sha256": "d932ea91dafc1846b4f1c3662d7e0b7b8742c530941bdd0c333afa714acb4b3c"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-21-example/sources/global_contract_2026-09-25.pdf",
+    "bytes": 1309178,
+    "sha256": "cc48f7aa0261a9908189e59f4c59d0a4cd69a4c7d718c1cdb7bc752385d45734"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/COVERAGE.md",
+    "bytes": 13979,
+    "sha256": "b76c5de399de891ebad9ee8c8396fb6a89887cc0eefba922432e314f16e2e161"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/EVIDENCE.md",
+    "bytes": 13800,
+    "sha256": "6db4d29040bde88ca01c6a46f01aeb9dc3c251afaf4b1655d6ff7aefd2a9890a"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/REPORT.md",
+    "bytes": 26100,
+    "sha256": "bff7b5ca26b970ae83b3c1e090618838bd992424da1dbeaad285f7d84c146cdd"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/source_urls.json",
+    "bytes": 4526,
+    "sha256": "03fe3e28d7e0d1f1cd087a6549b97d0d37440bbce2f0f6e1903fe17f4ebd7836"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/cis_contract_2026-09-18.pdf",
+    "bytes": 13809343,
+    "sha256": "f316226230a09db43a0df1e1533ca3c939b0000f99f64ecc1dbc8b30c0670245"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/cis_contract_2026-09-28.pdf",
+    "bytes": 1506586,
+    "sha256": "ef84317dfe9773f6b9dda2003684224540c9bd5a9ccde0ae1f52f53a8ad501c6"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/cis_contract_2026-10-01.pdf",
+    "bytes": 12062969,
+    "sha256": "78a7b59e365bf94fadaeb7b8045692ee39b8c9407decf227547c6190c8f80317"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/commissions_current.xlsx",
+    "bytes": 616100,
+    "sha256": "d633431893c4bc6bbf1b1659f1193e4802d0886ccb3fed97798f3526ff023b85"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/compensation_from_2026-09-24.xlsx",
+    "bytes": 668370,
+    "sha256": "64184e4a2f11efe0ee4c91d6a07302f2b79db5ad2f83d7e23ec4fb80ed599684"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/fashion_support_categories.xlsx",
+    "bytes": 18097,
+    "sha256": "f5c77839cf94d0423f141e3559c5ab80898aeb9a95c4aad4c8b54cf167ab8a6d"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/global_contract_2026-09-25.pdf",
+    "bytes": 1309178,
+    "sha256": "cc48f7aa0261a9908189e59f4c59d0a4cd69a4c7d718c1cdb7bc752385d45734"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/global_contract_2026-10-01.pdf",
+    "bytes": 10355811,
+    "sha256": "fdd117a11901b6c28b9b3fbb7332e4b473bb324cc28993f135e1768164c2fda4"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/insurance_2026-07-28.pdf",
+    "bytes": 8551470,
+    "sha256": "8c01e106b0692d22c6f52a223609168602df3b649f38c2c12d2748adfad64884"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/insurance_2026-09-24.pdf",
+    "bytes": 7480332,
+    "sha256": "24fdc8c9564ec4138ba207aabe1245dc433d5385795a9493829acbf3d80476b0"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/insurance_2026-10-05.pdf",
+    "bytes": 7608883,
+    "sha256": "a66911c3d583ecb5684d105e423847c694c302771227680cb791d7c57017f2c2"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/kz_omk_contract_2026-09-10.pdf",
+    "bytes": 1433815,
+    "sha256": "8ccb843b1e3785d9e2c17752bca041b640116542e471b0ea335e4766b3833601"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/kz_omk_contract_2026-09-28.pdf",
+    "bytes": 1439032,
+    "sha256": "ea98e69ff4f2816fcd8f09462f069cac62d313737180f603cd312118ec1293d7"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/kz_omk_contract_2026-10-01.pdf",
+    "bytes": 11493588,
+    "sha256": "7f700c49e9ec8664b4f14ba41755dceb41fc3c3fb6dc93138bdefc28ba1fc288"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_contract_2026-10-02_original.pdf",
+    "bytes": 1494042,
+    "sha256": "ee959ef936d1a9da52b16c44da4e9578061815671fe65225d78bc035f1ae32bf"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_contract_published_2026-09-17.pdf",
+    "bytes": 1708615,
+    "sha256": "bb19d483dd49125375eb84b91fae213ec0ab63173e11c8575d7c3c701cce7ce4"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_contract_published_2026-09-21.pdf",
+    "bytes": 14183032,
+    "sha256": "ed0489924189f263f1c30c8ff2be43d2d9dea7c98872ee3dc1a3c789f149256d"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_contract_published_2026-09-28.pdf",
+    "bytes": 1772683,
+    "sha256": "181378e20923c08ae6fe70b9d421c3d47f7a24f323026373f341d432aa0b3d84"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_general_published_2026-09-21.pdf",
+    "bytes": 7115154,
+    "sha256": "fe980788819bef1fd37d536d607ef9e73796fb23d68c1084308c46cc008c3f83"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_tariffs_published_2026-09-18.pdf",
+    "bytes": 9185115,
+    "sha256": "e38aac8fc264a1ba6f085eae3913d08f729b6dbc3f29920f71527d09083ebb22"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_tariffs_published_2026-09-21.pdf",
+    "bytes": 1854115,
+    "sha256": "686679f71a15bc579cbbc58a3d33f0c3d9991045b22a7f382bcaa9840c054695"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_tariffs_published_2026-09-23.pdf",
+    "bytes": 8157688,
+    "sha256": "99bb5ecbfc558e0f62cf1f20abe2d40f1333b18b00f1514e9ba529cf51d4e0b5"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/ru_tariffs_published_2026-09-28.pdf",
+    "bytes": 1727211,
+    "sha256": "72597d8f6593bc622b47319b37b0597b2b1649321383d2014c65343c850b1e1c"
+  },
+  {
+    "file": "reports/ozon-audit-2026-09-29/sources/storage_from_2026-09-22.xlsx",
+    "bytes": 418804,
+    "sha256": "6a53853a1dbf435962b02b613e4637fb7274eaa2eeb2071eb6a5af038713837b"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/COVERAGE.md",
+    "bytes": 13662,
+    "sha256": "06da39a0bdee7fa0e98e69d3d207a68fac84265433c42e33392bc2a14d1ed756"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/EVIDENCE.md",
+    "bytes": 11483,
+    "sha256": "a08596a24857c0aecefd660ee5830d601478e4443673174804a90a7061f3259e"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/REPORT.md",
+    "bytes": 14547,
+    "sha256": "2a9b4db059c823d846480cc467f6a1b1974235dffcc0e001282fcd834c8b9ca8"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/file_manifest.json",
+    "bytes": 4210,
+    "sha256": "92dfece85152667ca3e2e0e7e7653803339a4894308284a094d96216ef79fd81"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/source_urls.json",
+    "bytes": 8441,
+    "sha256": "f8f6c9a9c9e1bf9eb2f3be410c322e1c1983a71c08cfcaf1e81723c969775e61"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/cis_contract_2026-10-07.pdf",
+    "bytes": 1525846,
+    "sha256": "b08f16dedbdfc05f65547f7dadef25877e65b996d6beb0467ec30caf9cf4bc6a"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/crossdock_from_2026-10-30.xlsx",
+    "bytes": 52844,
+    "sha256": "2357c647190bb92a662ba9e7b15d90e5b8aeebea523f9b42f37a0effdb579faf"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/delivery_from_2026-10-30.xlsx",
+    "bytes": 641132,
+    "sha256": "93471b775de160bc366101bb16c7f6d7ce19238629039559a6282ab6a21262bd"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/delivery_special_2026-06-16.xlsx",
+    "bytes": 855526,
+    "sha256": "c6dbd37b45916a21be6b7fcaaebace3d4879d4bd0d8988d2ac562492e66ba658"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/global_crossborder_2026-10-01.pdf",
+    "bytes": 10355811,
+    "sha256": "fdd117a11901b6c28b9b3fbb7332e4b473bb324cc28993f135e1768164c2fda4"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/kz_omk_contract_2026-10-07.pdf",
+    "bytes": 1460038,
+    "sha256": "6a887f1cbd0fbadbb3b8da5bb22542a902217ecfeeb8b8880a43941852b14521"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/logistics_from_2026-10-30.xlsx",
+    "bytes": 1394996,
+    "sha256": "abd11bd26f79164a3dff613f84367ceba96f2cc73f2f8680cc52f80d4e7fbf04"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_contract_published_2026-10-06.pdf",
+    "bytes": 1970053,
+    "sha256": "24c5c3e4fd5435cea1d283d53ecc037a14a977ecffc2a0f4c459045452072a29"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_contract_published_2026-10-16.pdf",
+    "bytes": 1947195,
+    "sha256": "6ca0cea0babba096581ba23885687bcd069f65153c626c13a98af90596c4d644"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_general_published_2026-10-06.pdf",
+    "bytes": 1038764,
+    "sha256": "773efe2b7dcc1c29f9c9aba209ca72c059ac7c40c75ba0caf0a42208ce188185"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_general_published_2026-10-16.pdf",
+    "bytes": 1047237,
+    "sha256": "eccbb3f36c04c1ac7872ce5059e7c83faa34a576739225dc8568357d874418f7"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_tariffs_published_2026-10-08.pdf",
+    "bytes": 1789947,
+    "sha256": "7d1e23278f3cfbb4ac83a4ff163f2ca28dd5cfe152397fbcd56aab5497bd629d"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_tariffs_published_2026-10-12.pdf",
+    "bytes": 6322920,
+    "sha256": "90fb419ab03a2938ca0ad8fe6294b54f5b47e360ce68067e67f23090b8c7f2cb"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/ru_tariffs_published_2026-10-13.pdf",
+    "bytes": 8833229,
+    "sha256": "ee9f1d82991f6c8876ba4b57300b0b4d45e402353ca0b6498d68fc2bdfb1ab82"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/uz_contract_2026-10-02.pdf",
+    "bytes": 1370112,
+    "sha256": "742788a6dbac9961ddd0067c95f77128da769fc84398e1124b01e8eb36d29092"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-20/sources/uz_contract_2026-10-07.pdf",
+    "bytes": 1388065,
+    "sha256": "c26250af8aa8fbae8e261319d7c178b539a530d309a67e75f1bd914303abcc54"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/BASELINE_EVIDENCE_2026-10-20.md",
+    "bytes": 11483,
+    "sha256": "a08596a24857c0aecefd660ee5830d601478e4443673174804a90a7061f3259e"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/COVERAGE.md",
+    "bytes": 3759,
+    "sha256": "839af42fdc484b0c0509b1081fd495e45c88d67446cf4c5d3101bd4410d75fa2"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/EVIDENCE.md",
+    "bytes": 4311,
+    "sha256": "a5c88e0fe40e3295be028d14e9a1c7d825075338f2018d3a2ef14f78d8c2568b"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/REPORT.md",
+    "bytes": 8531,
+    "sha256": "f2cd4b991b41bc2912a584b1794163ef0d208e2c11f28122a13a1df4b53c51e2"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/cis_contract_2026-10-07.pdf",
+    "bytes": 1525846,
+    "sha256": "b08f16dedbdfc05f65547f7dadef25877e65b996d6beb0467ec30caf9cf4bc6a"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/crossdock_from_2026-10-30.xlsx",
+    "bytes": 52844,
+    "sha256": "2357c647190bb92a662ba9e7b15d90e5b8aeebea523f9b42f37a0effdb579faf"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/delivery_from_2026-10-30.xlsx",
+    "bytes": 641132,
+    "sha256": "93471b775de160bc366101bb16c7f6d7ce19238629039559a6282ab6a21262bd"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/delivery_special_2026-06-16.xlsx",
+    "bytes": 855526,
+    "sha256": "c6dbd37b45916a21be6b7fcaaebace3d4879d4bd0d8988d2ac562492e66ba658"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/download_comparison.json",
+    "bytes": 5605,
+    "sha256": "e5ea4a9708db5c35186d1a42c57af5de25c08ba86fd8f493ea5f740a9d3943d8"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/extra_downloads.json",
+    "bytes": 588,
+    "sha256": "2c5a073a658a221ec8424ccd757f147179028ef758596d78a6fdfbc78d39486c"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/fashion_types.xlsx",
+    "bytes": 18097,
+    "sha256": "f5c77839cf94d0423f141e3559c5ab80898aeb9a95c4aad4c8b54cf167ab8a6d"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/global_crossborder_2026-10-01.pdf",
+    "bytes": 10355811,
+    "sha256": "fdd117a11901b6c28b9b3fbb7332e4b473bb324cc28993f135e1768164c2fda4"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/kz_omk_contract_2026-10-07.pdf",
+    "bytes": 1460038,
+    "sha256": "6a887f1cbd0fbadbb3b8da5bb22542a902217ecfeeb8b8880a43941852b14521"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/logistics_from_2026-10-30.xlsx",
+    "bytes": 1394996,
+    "sha256": "abd11bd26f79164a3dff613f84367ceba96f2cc73f2f8680cc52f80d4e7fbf04"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_contract_published_2026-10-06.pdf",
+    "bytes": 1970053,
+    "sha256": "24c5c3e4fd5435cea1d283d53ecc037a14a977ecffc2a0f4c459045452072a29"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_contract_published_2026-10-16.pdf",
+    "bytes": 1947195,
+    "sha256": "6ca0cea0babba096581ba23885687bcd069f65153c626c13a98af90596c4d644"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_general_published_2026-10-06.pdf",
+    "bytes": 1038764,
+    "sha256": "773efe2b7dcc1c29f9c9aba209ca72c059ac7c40c75ba0caf0a42208ce188185"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_general_published_2026-10-16.pdf",
+    "bytes": 1047237,
+    "sha256": "eccbb3f36c04c1ac7872ce5059e7c83faa34a576739225dc8568357d874418f7"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_tariffs_2026-10-22.pdf",
+    "bytes": 1778567,
+    "sha256": "4d00b80aa6089a9c18eb39d93fc4c6c68fa9ad6cc6f7e86c8ee5b5b12e17b610"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_tariffs_published_2026-10-08.pdf",
+    "bytes": 1789947,
+    "sha256": "7d1e23278f3cfbb4ac83a4ff163f2ca28dd5cfe152397fbcd56aab5497bd629d"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_tariffs_published_2026-10-12.pdf",
+    "bytes": 6322920,
+    "sha256": "90fb419ab03a2938ca0ad8fe6294b54f5b47e360ce68067e67f23090b8c7f2cb"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/ru_tariffs_published_2026-10-13.pdf",
+    "bytes": 8833229,
+    "sha256": "ee9f1d82991f6c8876ba4b57300b0b4d45e402353ca0b6498d68fc2bdfb1ab82"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/source_urls.json",
+    "bytes": 6766,
+    "sha256": "1398be18e963a18340ef2eecf2f5d840f7e14655d5ae3216d8fdefb127e3f0c4"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/transfers_from_2026-10-30.xlsx",
+    "bytes": 1126913,
+    "sha256": "6242d6cdc4566edf4a6d0db82e19d6c6a9a01992e6955d530278fa2bc216f9ee"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/uz_contract_2026-10-02.pdf",
+    "bytes": 1370112,
+    "sha256": "742788a6dbac9961ddd0067c95f77128da769fc84398e1124b01e8eb36d29092"
+  },
+  {
+    "file": "reports/ozon-audit-2026-10-28/uz_contract_2026-10-07.pdf",
+    "bytes": 1388065,
+    "sha256": "c26250af8aa8fbae8e261319d7c178b539a530d309a67e75f1bd914303abcc54"
+  },
+  {
+    "file": "reports/ozon-report-2026-09-21-10days/REPORT.md",
+    "bytes": 21597,
+    "sha256": "a258ec71513b6e15d2e08993b6cb12332f981e3bd5a4a0f7aac42ac68f5a75b7"
+  },
+  {
+    "file": "reports/ozon-report-2026-09-21-10days/sources/compensation_before_2026-09-24.xlsx",
+    "bytes": 377833,
+    "sha256": "43d489d945894bd4d3360d471ece40df1bd1bb6e17e447f3fc290c1a133d38fc"
+  },
+  {
+    "file": "reports/ozon-report-2026-09-21-10days/sources/storage_announced_2026-08-04.xlsx",
+    "bytes": 447555,
+    "sha256": "97aa1c019e869f1908a3e35a70365061fe30c021e4e0386a1f50063a65254fba"
+  },
+  {
+    "file": "reports/ozon-report-2026-09-21-10days/sources/tariffs_published_2026-08-04.pdf",
+    "bytes": 1700793,
+    "sha256": "858518682e647b88ee191d6e45ee720f40974e845c72534daca1a82a12ddd7f1"
+  },
+  {
+    "file": "reports/ozon-report-2026-09-21-10days/sources/tariffs_published_2026-09-09.pdf",
+    "bytes": 8003392,
+    "sha256": "c4cf05b70cc7edbdd674625eb97301e9e108b47cd7c2437a8b14ebb5af3752a8"
+  }
+]
