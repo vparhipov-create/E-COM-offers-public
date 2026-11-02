@@ -38,18 +38,18 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1547,
-      "sha256": "ff262019c54dcf576d42f489c75d2e13f3c592444c7b5d5b2530b808cb726b43"
+      "bytes": 1662,
+      "sha256": "ec7de8ff31eb3b03b8b52c8199afe10be358bbcbde436c0be38d1b8a071fc62f"
     },
     {
       "path": "PUBLICATION_POLICY.md",
-      "bytes": 5591,
-      "sha256": "db9997a2aac0d88668bab6d3dab82403267e5500baf8aa48275a26c47ff7b7cc"
+      "bytes": 6083,
+      "sha256": "a3ecade0efd6094d08afd8b5d52365eb15fa3ed391f777d7092732ec4fba2d64"
     },
     {
       "path": "README.md",
-      "bytes": 4502,
-      "sha256": "6ab435a988f7ee1b8c3de527810d7405d66df1a4a6496f99c3c2b9aee79ebc38"
+      "bytes": 4713,
+      "sha256": "be02f59c16575decec5e3bc33a04a25ec54dfb82e49158f5c27efc2f621d490f"
     },
     {
       "path": "categories.txt",
@@ -58,8 +58,8 @@
     },
     {
       "path": "ozon/README.md",
-      "bytes": 4225,
-      "sha256": "bc05aa5e254ea270b33b41bd9fa4d71946d509b766a1aa8da69dfdcd9c1d8dfd"
+      "bytes": 4229,
+      "sha256": "bffdf961472899391c808a5128f28a183e7a35d23e69b78f99df826a0034b100"
     },
     {
       "path": "platform-law/README.md",
