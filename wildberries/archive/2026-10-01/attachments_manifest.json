@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/documents/Serial_No_category_20260923.pdf",
+    "file": "attachments/Serial_No_category_20260923.pdf",
+    "bytes": 160327,
+    "pages": 1,
+    "sha256": "dd33fd0140bb31ba77048d8441e87e25cccf32b7d1b37cc897e2e910da2a390a",
+    "title": "Категории товаров с обязательными серийными номерами"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/restricted/Restricted_goods_RU_20260923.pdf",
+    "file": "attachments/Restricted_goods_RU_20260923.pdf",
+    "bytes": 289686,
+    "pages": 10,
+    "sha256": "9307ae396de8d5687d4139bd02fe961f5653b59c2ab5052c74646013aab76867",
+    "title": "Перечень запрещённых товаров"
+  },
+  {
+    "url": "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Kak_kartochka_tovara_popadaet_v_neobkhodimyi_razdel_saita.pdf",
+    "file": "attachments/Kak_kartochka_tovara_popadaet_v_neobkhodimyi_razdel_saita.pdf",
+    "bytes": 167060,
+    "pages": 1,
+    "sha256": "80f37cca820f759df6931c52d6f6b275a040c66fc58bb5dd97c6ac4c875404f1",
+    "title": "Попадание карточки в нужный раздел сайта"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/b2b/wholesale_of_goods_20250325.pdf",
+    "file": "attachments/wholesale_of_goods_20250325.pdf",
+    "bytes": 1030439,
+    "pages": 4,
+    "sha256": "a86d5f23cf57058ff82c0422abb3a58e9f212fe6fdecd1a6236b846fbdcce147",
+    "title": "Инструкция по оптовым товарам"
+  },
+  {
+    "url": "https://static-basket-02.wb.ru/vol20/portal/education/instruction/Rekomendatsii_i_oshibki_pri_zapolnenii_kartochek_tovarov.pdf",
+    "file": "attachments/Rekomendatsii_i_oshibki_pri_zapolnenii_kartochek_tovarov.pdf",
+    "bytes": 1174476,
+    "pages": 17,
+    "sha256": "cadce9910c4986e8646c5044d90195edb9f23d4c308e02c66ffc51f8551f6911",
+    "title": "Рекомендации и ошибки при заполнении карточек"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/fines/Fines_list_20260924.pdf",
+    "file": "attachments/Fines_list_20260924.pdf",
+    "bytes": 274261,
+    "pages": 8,
+    "sha256": "857af467f38e775132e7d623f0a8d8ea9fd0c24b9179fa883c693da77d846708",
+    "title": "Перечень штрафов — действует с 01.10.2026"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/package/Markirovka_tovara_20260922.pdf",
+    "file": "attachments/Markirovka_tovara_20260922.pdf",
+    "bytes": 1239364,
+    "pages": 16,
+    "sha256": "715f4598bcb9727cd79aad5c3efc4639b54dba19ffaefcab9024374d0208dd76",
+    "title": "Маркировка товара — ссылка в тексте п. 10.2"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/portal/education/instruction/Markirovka_tovara.pdf",
+    "file": "attachments/Markirovka_tovara.pdf",
+    "bytes": 909122,
+    "pages": 14,
+    "sha256": "66369faf61d8da0f6968b0598cbd3acce14eac4a4918d84c9154546c4119c395",
+    "title": "Маркировка товара — дополнительная PDF-ссылка из документа"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/package/Pravila_otgruzki_postavki_20251215.pdf",
+    "file": "attachments/Pravila_otgruzki_postavki_20251215.pdf",
+    "bytes": 5981597,
+    "pages": 27,
+    "sha256": "7713524834265b045fc01af72e1151a94c46093104c919805ced2eb2b5ef530e",
+    "title": "Правила отгрузки поставки"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/package/Gabaritnyi_tovar_SKGT_SGT_KBT_Sozdanie_rabota_i_upakovka_20251215.pdf",
+    "file": "attachments/Gabaritnyi_tovar_SKGT_SGT_KBT_Sozdanie_rabota_i_upakovka_20251215.pdf",
+    "bytes": 5034957,
+    "pages": 36,
+    "sha256": "24cd83515386106884c4316646d4f6aa27c3cab9d5d475c6c2aaca937b701684",
+    "title": "Габаритные товары: создание, работа и упаковка"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/package/Goods_Package_20260824.pdf",
+    "file": "attachments/Goods_Package_20260824.pdf",
+    "bytes": 4246682,
+    "pages": 45,
+    "sha256": "8b1ddf466cd8c78c8b88152c3edc2a88fd149bbd63df74fa15ddf36a59fae910",
+    "title": "Общие правила упаковки товара"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/package/Goods_Package_FBS_20260824.pdf",
+    "file": "attachments/Goods_Package_FBS_20260824.pdf",
+    "bytes": 2799133,
+    "pages": 21,
+    "sha256": "247e2c39d0ad8d93fad69d64ad3096c96c7bdaea1f303ff1e2ba76881a5535ec",
+    "title": "Правила упаковки по модели FBS"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/comission/Razmer_nacenki_20260203.pdf",
+    "file": "attachments/Razmer_nacenki_20260203.pdf",
+    "bytes": 93705,
+    "pages": 6,
+    "sha256": "00b76e1834c448379a053a643a2d39edca67f68de8365fb065dc50efd9f9809e",
+    "title": "Размер наценки для расчёта компенсации"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/comission/Comission_RU_20260824.pdf",
+    "file": "attachments/Comission_RU_20260824.pdf",
+    "bytes": 6155402,
+    "pages": 304,
+    "sha256": "c40a51fde0dd91b226e6e7214279bd6eae9d7e8664f22712b0035967bc32f656",
+    "title": "Таблица комиссий"
+  },
+  {
+    "url": "https://static-basket-02.wbbasket.ru/vol20/folder/documents/Fulfillment_package_20260924.pdf",
+    "file": "attachments/Fulfillment_package_20260924.pdf",
+    "bytes": 158764,
+    "pages": 2,
+    "sha256": "2d5d500d90126cee7d33652187299acd4eb8c3a9dd1476c02bf2959a673e185b",
+    "title": "Требования для фулфилмента в СЦ"
+  }
+]

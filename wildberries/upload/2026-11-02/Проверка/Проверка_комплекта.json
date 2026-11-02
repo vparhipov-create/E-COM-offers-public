@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-02",
+  "files": [
+    {
+      "file": "00_WB_Навигатор_2025-2026.pdf",
+      "pages": 5,
+      "bytes": 95405,
+      "sha256": "693435c09783b335892875d243737e2b991c501c39d75631fddb8486dc99f09c"
+    },
+    {
+      "file": "01_WB_Оферта_102_с_2026-10-01.pdf",
+      "pages": 105,
+      "bytes": 1133947,
+      "sha256": "bf7f032a2e8e6a576b4ef1fd7540af903755de3dcae15fbf78fac2bff63f45dd",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "02A_WB_Оферты_2026_95-101.pdf",
+      "pages": 687,
+      "bytes": 7059013,
+      "sha256": "910baf6f82de85877d04def3eae95c61eb043d10db160a54a4a490ff01cc4ecd",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "02B_WB_Оферты_2026_88-94.pdf",
+      "pages": 635,
+      "bytes": 6677801,
+      "sha256": "4b77002ddbcdf35f6ac7dd46468c136ce930ab5a64227f17eedf31b4964b2d49",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "03A_WB_Оферты_2025_79-87.pdf",
+      "pages": 794,
+      "bytes": 8210934,
+      "sha256": "70f4415d03c4c7d88f39b716fc2b8894bdc892ece8eac48863ec46d10eca99d6",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "03B_WB_Оферты_2025_69-78.pdf",
+      "pages": 721,
+      "bytes": 7571499,
+      "sha256": "4cc644be6b09c5f06b2a5b310c65162060425f3dc336f2c2fe04a444cf081d74",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "04_WB_Комиссии_и_расчеты.pdf",
+      "pages": 313,
+      "bytes": 1940890,
+      "sha256": "2f2fc3318e3cebe7cbd2bccf3ae9f10e1ea0aab7e7ec1ffb25e9b8dde73355af",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "05_WB_Товары_карточки_штрафы.pdf",
+      "pages": 48,
+      "bytes": 3489695,
+      "sha256": "c9d982077d6d6d334f42c57a1d17f0b1c2967a17f1de26f5d26d302ad9d8bfb5",
+      "unchanged_from_2026_10_01_package": true
+    },
+    {
+      "file": "06_WB_Упаковка_маркировка_логистика.pdf",
+      "pages": 169,
+      "bytes": 20425908,
+      "sha256": "1cd518c920ce0af0c20d940c0a231f2afd93af0b712511bd10fae05ca82e80a5",
+      "unchanged_from_2026_10_01_package": true
+    }
+  ],
+  "pdf_count": 9,
+  "unchanged_supporting_pdfs": 8,
+  "official_current_offer_rechecked": true,
+  "linked_original_pdfs_rechecked": 15,
+  "new_offer_versions_found": 0,
+  "layout_qa": {
+    "status": "passed",
+    "pages_rendered_and_visually_reviewed": 5,
+    "clipping_or_overlap_found": false,
+    "missing_glyphs_found": false
+  },
+  "result": "passed"
+}
