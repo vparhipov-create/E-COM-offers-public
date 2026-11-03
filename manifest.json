@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "public_repository": "https://github.com/vparhipov-create/E-COM-offers-public",
-  "publication_date": "2026-11-02",
+  "publication_date": "2026-11-03",
   "source_snapshots": [
     {
       "repository": "vparhipov-create/DS-WB",
@@ -20,7 +20,7 @@
     },
     {
       "repository": "vparhipov-create/ozon-offers-monitor",
-      "commit": "70828a3775c2f56cc97ec909982dff49f201805c",
+      "commit": "8042584f1123db4d7362c1f2468ad18fe5750c5e",
       "publication_mode": "reviewed_documents"
     }
   ],
@@ -43,8 +43,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 3271,
-      "sha256": "6dba92d398e2014af91173e953eb29a0bb945ac495fd7aa83878d72bd3555eb0"
+      "bytes": 3896,
+      "sha256": "7d8fba4685adf01fc624e499c77a1890879bc90b55613e1229d73956dcc03b07"
     },
     {
       "path": "PUBLICATION_POLICY.md",
@@ -53,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4764,
-      "sha256": "0e9cdb9022eb9fd172937ebb2499527d59ae8249cb284d5c11736c05669329d2"
+      "bytes": 4836,
+      "sha256": "77666f1a1bfae84fc12be5ffac6da70bfd96d36c1c3e6d823901f97fb34defc6"
     },
     {
       "path": "categories.txt",
@@ -63,8 +63,8 @@
     },
     {
       "path": "ozon/README.md",
-      "bytes": 4537,
-      "sha256": "6474c43fb538327779e38d5ae31d0b7b8e2dc8374a808a27eb5677ffba647597"
+      "bytes": 4630,
+      "sha256": "5a754e7e4e7fd9c0337e2e8d662e582ec0ea001b199b9c420f4b7dc6802c2006"
     },
     {
       "path": "platform-law/README.md",
@@ -795,6 +795,51 @@
       "path": "reports/ozon-audit-2026-10-28/uz_contract_2026-10-07.pdf",
       "bytes": 1388065,
       "sha256": "c26250af8aa8fbae8e261319d7c178b539a530d309a67e75f1bd914303abcc54"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/CHANGES.md",
+      "bytes": 9128,
+      "sha256": "0df41217b30092117d04ec0686bd20ae9d37d30901359699bca9cac934ef7233"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/COVERAGE.md",
+      "bytes": 2409,
+      "sha256": "8e11ea9bafa3c479567a2fbd2c281ae0eb928b7bf0ac2149c7cd52b40778598f"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/EVIDENCE.md",
+      "bytes": 3191,
+      "sha256": "b0e13af6b04e2776ab44d86d1d6eb70d0cd615b09a96c66b8c492da30fc43403"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/REPORT.md",
+      "bytes": 18583,
+      "sha256": "9035532a5c539c77d8234b14e1db4e5e1d0e624edd71a44f93d299b450bb8b8c"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/global_crossborder_2026-11-09.pdf",
+      "bytes": 1295132,
+      "sha256": "149fc5201c5ee0c03dc24f39ded3e756719bcc88cb3a02090d8cedd482bac8f5"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/ru_contract_2026-10-30.pdf",
+      "bytes": 1882675,
+      "sha256": "eac5118c181316336293b841aeb40e43c1a96e4017bcac6bc564615719a8b629"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/ru_contract_2026-11-02.pdf",
+      "bytes": 1789017,
+      "sha256": "2726e3618fd39963720098b7ca196959817879991d5cd26bd450799d53c8f209"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/ru_tariffs_2026-10-30.pdf",
+      "bytes": 1888918,
+      "sha256": "1bd9ccc3ffecadfc7026cc989ae1a14a3e5f6c6c18ac5cbc1e1a1e6791b3c1ec"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-03/source_urls.json",
+      "bytes": 1401,
+      "sha256": "74a57d9c92d1c1def9b6befd7c5ac5fa6e860e9e171720a2fdf0b9167d6d9577"
     },
     {
       "path": "reports/ozon-report-2026-09-21-10days/REPORT.md",

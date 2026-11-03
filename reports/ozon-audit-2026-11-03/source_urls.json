@@ -1,0 +1,30 @@
+{
+  "checked_on": "2026-11-03",
+  "status": "partial",
+  "sources": [
+    {
+      "file": "ru_tariffs_2026-10-30.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/192ffcb3-6c9e-4f9a-9ffd-8078aef51a0d/polnyi-spisok-komissii-i-tarifov.pdf",
+      "bytes": 1888918,
+      "sha256": "1bd9ccc3ffecadfc7026cc989ae1a14a3e5f6c6c18ac5cbc1e1a1e6791b3c1ec"
+    },
+    {
+      "file": "ru_contract_2026-11-02.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/b73c652c-8b19-4b4f-b57e-16877a8bc4e9/dogovor-dlya-prodavtsov-tovarov-naplatforme-ozon.pdf",
+      "bytes": 1789017,
+      "sha256": "2726e3618fd39963720098b7ca196959817879991d5cd26bd450799d53c8f209"
+    },
+    {
+      "file": "ru_contract_2026-10-30.pdf",
+      "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/61195447-c4f9-4776-ba93-d026420f7edb/dogovor-dlya-prodavtsov-tovarov-naplatforme-ozon.pdf",
+      "bytes": 1882675,
+      "sha256": "eac5118c181316336293b841aeb40e43c1a96e4017bcac6bc564615719a8b629"
+    },
+    {
+      "file": "global_crossborder_2026-11-09.pdf",
+      "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-global-ru-09-11-2026_1793355906.pdf",
+      "bytes": 1295132,
+      "sha256": "149fc5201c5ee0c03dc24f39ded3e756719bcc88cb3a02090d8cedd482bac8f5"
+    }
+  ]
+}
