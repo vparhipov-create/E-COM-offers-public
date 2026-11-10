@@ -1,0 +1,74 @@
+[
+  {
+    "file": "sources/fbo-2026-12-01.pdf",
+    "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/1610e537-14bd-461b-a3d7-efaccc0b857e/reglament-postavok-na-fulfilment-01122026.pdf",
+    "sha256": "8c27cb70ef368a0ee3c563035fb35a0652480822979a70c2902e7470e47be8f8",
+    "bytes": 1211836
+  },
+  {
+    "file": "sources/fbo-2026-10-07.pdf",
+    "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/acd68a46-0462-49ad-b22e-923809f5c8e3/reglament-partnra-po-postavkam-tovarov-na-fulfilment-tsentry-ozon-1.pdf",
+    "sha256": "aa550c4c6784f16a2e3649401f928403cc6a2d16ea5ae923e4cbdc98e54b28f5",
+    "bytes": 1194944
+  },
+  {
+    "file": "sources/global-2026-11-12.pdf",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-global-ru-12-11-2026_1793709023.pdf",
+    "sha256": "7896358401dfe732eed46679fc6af3e016adc17f93936440362a939ed063bee1",
+    "bytes": 10595317
+  },
+  {
+    "file": "sources/fbs-2026-12-22.pdf",
+    "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/5c6757d9-5059-48ae-b20f-513153de6fed/reglament-prodavtsa-kotoryy-prodayt-so-svoyego-sklada-dostavkoy-ozon.pdf",
+    "sha256": "57afce480585248a196a4d606efd777ee7de7460a8905de90630092572c46801",
+    "bytes": 779422
+  },
+  {
+    "file": "sources/fbs-2026-09-08.pdf",
+    "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/0efba4e6-5d27-404c-b79e-ad6c4a3efbef/reglament-prodaji-so-svoego-sklada-08092026.pdf",
+    "sha256": "858afe70d3cef65c0257a15734d411455bb979ed14aef1a005e59fcc4934c10e",
+    "bytes": 3979852
+  },
+  {
+    "file": "sources/cis-kz-omk-2026-11-16.pdf",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-cis-omk-16-11-2026_1793879935.pdf",
+    "sha256": "c09c247056d01c923b3f2ad274edc72c0e25139e1cb2b20c6ff6734fe7963e37",
+    "bytes": 1432544
+  },
+  {
+    "file": "sources/global-carrier-1.xlsx",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Partner_Delivery/China_Post_13_11_2026_1793865525.xlsx",
+    "sha256": "3668566797e81a1b0db8d6c88345d4c279700957a3ef641b3bbe00f23264021b",
+    "bytes": 75863
+  },
+  {
+    "file": "sources/global-carrier-4.xlsx",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Partner_Delivery/%D0%A2%D0%B0%D1%80%D0%B8%D1%84%D1%8B_%D0%B8_%D1%81%D1%80%D0%BE%D0%BA%D0%B8_%D0%BE%D1%82_20.08.2026_1787209606.xlsx",
+    "sha256": "03813cddf66467d5927dfef8407ee8ee3582734894ab0695f4a08464edf617c5",
+    "bytes": 208325
+  },
+  {
+    "file": "sources/cp-2026-10-20.xlsx",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Partner_Delivery/China_post_20_10_26_1792505290.xlsx",
+    "sha256": "690eb8562d011f1e68195e03c3a0081ef00d0145513e6e6bbd66ebd958a528d4",
+    "bytes": 76068
+  },
+  {
+    "file": "sources/cp-2026-10-29.xlsx",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/Partner_Delivery/China_post_29_10_26_1793258342.xlsx",
+    "sha256": "b6ec8ed012a753c1445008d500a4d2d2a514c339cb7fa365a12d2760613d6dde",
+    "bytes": 76096
+  },
+  {
+    "file": "sources/general-2026-12-16.pdf",
+    "url": "https://cdn1.ozonusercontent.com/s3/kms-files-prod/seller-edu/84bb7575-a9ad-430d-9d81-420b8a28d725/obshchiye-usloviya-sotrudnichestva-s-ozon.pdf",
+    "sha256": "a91421b442c2ba4628bef43295e907fd72dc0078a1e02ffae43c63b55e17097a",
+    "bytes": 949607
+  },
+  {
+    "file": "sources/cis_contract_2026-11-16.pdf",
+    "url": "https://cdn.ozone.ru/s3/ozon-disk-api/techdoc/global/attachments/contracts-for-sellers/spisok-izmenenii-v-dogovore/contract-cis-16-11-2026_1793879931.pdf",
+    "sha256": "dee7455a7edc4c740bea71349b6037feff8da05f8a524c0f5882a29064b155f5",
+    "bytes": 1509015
+  }
+]

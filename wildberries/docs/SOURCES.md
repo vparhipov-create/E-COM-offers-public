@@ -1,5 +1,7 @@
 # Реестр документов WB
 
+Последующая проверка — [09.11.2026](../audits/2026-11-09/REPORT.md). Сохранён [новый официальный PDF минимальных ставок брендовых полок](../audits/2026-11-09/originals/brand-shelf-minimum-bids.pdf), 258 страниц, 05.11.2026. Остальные 15 приложений и №102 совпали с прежними.
+
 Срез проверен **02.11.2026**. Первичный сбор — **01.10.2026**. Даты в таблице — общие даты вступления; отдельные пункты могут иметь собственные сроки.
 
 Официальные страницы: [действующая оферта](https://seller.wildberries.ru/confirm-offer-condition/view), [архив](https://seller.wildberries.ru/confirm-offer-condition/history), [публичный реестр](https://seller.wildberries.ru/terms?locale=ru&country=ru).

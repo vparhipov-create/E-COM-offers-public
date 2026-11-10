@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "public_repository": "https://github.com/vparhipov-create/E-COM-offers-public",
-  "publication_date": "2026-11-03",
+  "publication_date": "2026-11-10",
   "source_snapshots": [
     {
       "repository": "vparhipov-create/DS-WB",
@@ -10,17 +10,17 @@
     },
     {
       "repository": "vparhipov-create/289-fz",
-      "commit": "f25df639ed84ebcdad100c2c0acf8055fed8173b",
+      "commit": "3d2d4ff0ef5dde15fcd9926b982d331cdcf0a4d6",
       "publication_mode": "reviewed_documents"
     },
     {
       "repository": "vparhipov-create/wb-offers-monitors",
-      "commit": "fc8013701b01321bfac78e9b91c4178196cda349",
+      "commit": "ddc41721cd5940bdda4cceae66d0a5abed7e535e",
       "publication_mode": "reviewed_documents"
     },
     {
       "repository": "vparhipov-create/ozon-offers-monitor",
-      "commit": "8042584f1123db4d7362c1f2468ad18fe5750c5e",
+      "commit": "e7566290faeabba81cf529c7818f2d0da61f7d45",
       "publication_mode": "reviewed_documents"
     }
   ],
@@ -43,18 +43,18 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 3896,
-      "sha256": "7d8fba4685adf01fc624e499c77a1890879bc90b55613e1229d73956dcc03b07"
+      "bytes": 4636,
+      "sha256": "d2829a2234ebd488470dc6870af7b2957b21156845e37e9b50365fb76310d2f2"
     },
     {
       "path": "PUBLICATION_POLICY.md",
       "bytes": 6083,
-      "sha256": "a3ecade0efd6094d08afd8b5d52365eb15fa3ed391f777d7092732ec4fba2d64"
+      "sha256": "d1b94ef209a9675decd1b98e6b8ab662a6ac7b2c4e1e9200cef79685bd6af403"
     },
     {
       "path": "README.md",
-      "bytes": 4836,
-      "sha256": "77666f1a1bfae84fc12be5ffac6da70bfd96d36c1c3e6d823901f97fb34defc6"
+      "bytes": 5340,
+      "sha256": "d581b17764290c52c1a117b44d808c712ae19d5f98d7f4fc57b57de5a3601ba4"
     },
     {
       "path": "categories.txt",
@@ -63,13 +63,43 @@
     },
     {
       "path": "ozon/README.md",
-      "bytes": 4630,
-      "sha256": "5a754e7e4e7fd9c0337e2e8d662e582ec0ea001b199b9c420f4b7dc6802c2006"
+      "bytes": 5199,
+      "sha256": "f4742ae70d1d4f2a56fafe3e39595bfc748cb44b0e6e4b34bf32f1eab5adf1b3"
     },
     {
       "path": "platform-law/README.md",
-      "bytes": 4023,
-      "sha256": "b7c9ba70b6446c09adcc45c83b8ead6bc0eeb9e7cb2268086822d8c1dd4d784a"
+      "bytes": 4582,
+      "sha256": "b022e7238cf1934649f5519fd3b2ad38ef29298aa54fae33b885569bc40e9c69"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-09/COVERAGE.md",
+      "bytes": 20310,
+      "sha256": "7de81829f7e0a95c647d420b03cb042954209dbeb288c00813873c6f6c79c97f"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-09/REPORT.md",
+      "bytes": 15119,
+      "sha256": "e3202463509c1e7cefa6671d6a0177661b5fe4d7af50eb45b772afdccc06a01d"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-09/SOURCE_INDEX.md",
+      "bytes": 451,
+      "sha256": "123fd91ac1eefed82946d3b1288e1f9d75de9a4e7a723657912242f92c76dfc5"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-09/sources/N03_0_original.pdf",
+      "bytes": 911540,
+      "sha256": "4a649d1c3d981e5b3ef4e3468d999e6d5dee1f36ca131a5cb19ba4bc70ce4ff5"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-09/sources/N31_KS62_original.pdf",
+      "bytes": 1555951,
+      "sha256": "d07dbb329543838d1529baf1647acaac056f8fe6917fe3074cbfafe58497c299"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-09/sources/NEW_0001202610090042.pdf",
+      "bytes": 2775701,
+      "sha256": "a17ff6e54040715bd3a577264c4b952809bfcec05d3f3907dcabfcd9c13d2696"
     },
     {
       "path": "platform-law/output/Платформенная экономика России справочник 2026-10-01.docx",
@@ -285,6 +315,16 @@
       "path": "platform-law/research/update_2026-11-02/registrynews.txt",
       "bytes": 18173,
       "sha256": "b254065849160935bae13290ba37d67125f22e327fcc760d23798f9aa8315d0e"
+    },
+    {
+      "path": "reports/ecom-weekly-2026-11-10/CHANGES.md",
+      "bytes": 22809,
+      "sha256": "df5c5b4114853630a82a6a9d5c604871e77094383ea1b57bbaec4c7cedaaced5"
+    },
+    {
+      "path": "reports/ecom-weekly-2026-11-10/changes.json",
+      "bytes": 24792,
+      "sha256": "19382763db56cf9dded7ab2c55a1f9408fb29ed5117342683ef0e933258e76ee"
     },
     {
       "path": "reports/ozon-audit-2026-09-20/REPORT_RU.md",
@@ -842,6 +882,531 @@
       "sha256": "74a57d9c92d1c1def9b6befd7c5ac5fa6e860e9e171720a2fdf0b9167d6d9577"
     },
     {
+      "path": "reports/ozon-audit-2026-11-07-tech/COVERAGE.md",
+      "bytes": 6964,
+      "sha256": "217cb8193de2704ff0319d4a41f1d7384f39ed8065e50962d14fa352125d35c7"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/REPORT.md",
+      "bytes": 1216,
+      "sha256": "e13e7a8f2b7ab2aaa47a08bb6bb722b1f275da2dcce45ededa57a84fa760ce43"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/SOURCE_INDEX.md",
+      "bytes": 21613,
+      "sha256": "358ad16e52af774707457f4233eae3bbfb6c7c7014773d3b5bf4987a277c6f7c"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ad_marking.md",
+      "bytes": 10195,
+      "sha256": "d4efcc325b1a4da6f29abf796352a16f5c8732123bad6829d72594746c36bf94"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ad_policy_am.md",
+      "bytes": 24786,
+      "sha256": "90f9b546f60a0d6b069f389d299c57cc81ccb4170956b361bcaa704f5dde3b17"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ad_policy_by.md",
+      "bytes": 102912,
+      "sha256": "6c8ad4130aa077572651fdd0e0fc5e020812c83476e282229887a132cd40061a"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ad_policy_kz.md",
+      "bytes": 61296,
+      "sha256": "f1b23c99e5e5453034ad88b4a0e7a40c7d0f0174f2c6d74e6f758727457e0969"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ad_policy_ru.md",
+      "bytes": 84375,
+      "sha256": "383c12351df2984bbe68a9be12a4fd296d2bd71e4f12b1771542bce97de5043b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/advertising_requirements.md",
+      "bytes": 1760,
+      "sha256": "b1a5ab119a9aea58d13951005d2a8645c3e8c0ab2ec4ab584ffb6e7bb3149912"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/anticorruption.md",
+      "bytes": 15262,
+      "sha256": "5e5c16fb6685abceaa48fe9525393d8b9c16e6f48298fcb1feeabb1b59a34362"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_analytics_plus.md",
+      "bytes": 3265,
+      "sha256": "844c0f5f775ae4fd3e2acec8461db1890949b1befee4bd3da005371ef92bef22"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_analytics_premium.md",
+      "bytes": 3079,
+      "sha256": "8b9a187261040e7ab611bee2de1db938cb1ccac14c9f1287fe4aebc0cee74b43"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_conversion.md",
+      "bytes": 2476,
+      "sha256": "2aada8fc7251cba4cfc55afdbb3859e8b73452139065cfcf961809f5841035d8"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_premium.md",
+      "bytes": 18818,
+      "sha256": "5b15e39642db3d966f19a6dd93c33fd7b3e15ede10f538f8cb24f45189c1daa8"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_premium_lite.md",
+      "bytes": 11487,
+      "sha256": "351ea75d188128cdcfcdd2a9da8d59542383131d096f738e0e42ce5d365fb51c"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_premium_plus.md",
+      "bytes": 20396,
+      "sha256": "50cb373570852a5b84fa0a6cbe15f9f6e263e41fdb54a8d1f92df17cc788ea44"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_premium_pro.md",
+      "bytes": 22390,
+      "sha256": "0b7ad1ec0b87245fcc371745cdd86879e8671eab24cab22ec47d28488502de0d"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_seller_contract.md",
+      "bytes": 398942,
+      "sha256": "44636451e49324750e1044fe819d140946e71b3ce571c23463fdd57e84f2786a"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_tech_tariff_archive.md",
+      "bytes": 1939,
+      "sha256": "9db487f48d2dd4a41eab5af7da4f720396d9aadd91b4c033258069c23ab85519"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/cis_tech_tariffs.md",
+      "bytes": 8390,
+      "sha256": "03962751467b15eb374842348958548bccca33db74dca678f8381eb79cb0d317"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_analytics_plus.md",
+      "bytes": 2641,
+      "sha256": "782fba686615719f99c035c7fd48281a372e2e584c7f4c4bb4d97d6aea25d803"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_analytics_premium.md",
+      "bytes": 2503,
+      "sha256": "e391f3546a45c8bb85ba67996d68585f4d5f96cccb3cbe7087978b0439ca36ec"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_conversion.md",
+      "bytes": 2679,
+      "sha256": "cf85e4d586af9353a226b5dd8d13bcbe75966a2b4d12271a7f28956e7f34f0b0"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_premium.md",
+      "bytes": 14853,
+      "sha256": "6b6c5a873834deaf8475d90c13e483317e3e3ab0300f13775d149cdc2d717534"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_premium_lite.md",
+      "bytes": 9681,
+      "sha256": "3e6b327d8316a2a3ec9dbe2c0ca6eb1f877519e3dae9f0468c93f23fea5a410b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_premium_plus.md",
+      "bytes": 16137,
+      "sha256": "6b7d9e3833d31504e5bcab9c28c1aa74e2469408b325ccbc97703f3a15c17eae"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_premium_pro.md",
+      "bytes": 14757,
+      "sha256": "388d67f4f5d718c9e8888aba02cc419adc1a3b131a5e917dd11c28c0db8e8cea"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_seller_contract.md",
+      "bytes": 362442,
+      "sha256": "4bbb7e74865d459be3124361a87cc9f4c145cb73c0dc0d11f226b3ee6649a030"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_tech_tariff_details.md",
+      "bytes": 8468,
+      "sha256": "d3e692ff01021b8c8f39a3ee5c032a901a207258387dd90dd33df5afd870254f"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/global_tech_tariffs.md",
+      "bytes": 1531,
+      "sha256": "01143edafcba30388cd6e2aa96ec649c509f7cf1ef0457ad91d54876ef53ee8d"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_analytics_lite.md",
+      "bytes": 18672,
+      "sha256": "665051136e5c70d9e3a18a98a22eb81849470b4f3daf7cabe0f6278bb9bbeb46"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_analytics_plus.md",
+      "bytes": 8106,
+      "sha256": "8e1aecfa297ee4fc1a38c57d25055b53827d700eb9817c523b3f99f256ccb8fc"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_analytics_premium.md",
+      "bytes": 8580,
+      "sha256": "0fc223ed0625bb5a529ea4b9af754e11cd8e2000918cf38a47da7875e0fd8917"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_brand_archive.md",
+      "bytes": 59706,
+      "sha256": "e492e8ff136d1a401e62d00a1828d8e6493ecb4d41e65bb03dff9c30f128c729"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_general.md",
+      "bytes": 196773,
+      "sha256": "e8f14470771074fb5cc44debc855acb120d706e61c5437f10c259ea6a666b258"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_premium.md",
+      "bytes": 25025,
+      "sha256": "8af4ba6dc3e55d3802cdf8b54ca6252dde972259a605830d6e2f5a11f1c6b8b5"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_premium_brand.md",
+      "bytes": 12979,
+      "sha256": "14fb05b032af348382dbf305687431826be19a27ac080933a48c58e1b825d3d2"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_premium_plus.md",
+      "bytes": 26055,
+      "sha256": "b3d4b7798c054466c56277c1589c38a4cea90fe9a22230bdd43a2e642613f50e"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_premium_pro.md",
+      "bytes": 35169,
+      "sha256": "98a98e003182f103312ea3aef211471974fff19aa9b137bafa131a41f2b98dbb"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_tech_contract_archive.md",
+      "bytes": 8989,
+      "sha256": "979d2237a044b4e2f8a34371074b737b3e2bfc3e2c75e07b741e72f398a6ca10"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_tech_tariffs.md",
+      "bytes": 14977,
+      "sha256": "dbae939a0c8b01dfe570ec560b7de57f8527cbf831c8de9d5fcda5140bbc1dfe"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/ru_tech_tariffs_archive.md",
+      "bytes": 3837,
+      "sha256": "a1e5c1257ee17d6cfece666fbd4e90f1bf928ff5c386249fae4802eceb89a5a8"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/social_ads_regulations.md",
+      "bytes": 10553,
+      "sha256": "d86ee8a4807b4f385b6e471e357c807e5a8401c34894f9dfd5300ccd9f3e7243"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/linked/standard_clauses.md",
+      "bytes": 63699,
+      "sha256": "994402901c9106ef8841c7e2b4f2a57f7e2e35599a509716a5e33279f1496f30"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/anticorruption_policy_v2_2.pdf",
+      "bytes": 1097152,
+      "sha256": "99d6dd0252e7b8a39cb345001ee977d2feb374fbb6b8660dd0c7a965181febd7"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2021-08-26_ru.pdf",
+      "bytes": 32605,
+      "sha256": "b94a179a7ca415e733ec96c189b5d8c958512e5e474426ddcfbde2f5af34308f"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2022-02-16_ru.pdf",
+      "bytes": 53174,
+      "sha256": "f345e19521f2547dc9566158a0395fdcfd85f83ae8161fe000cc578b5d71fd1c"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2022-05-26_ru.pdf",
+      "bytes": 53590,
+      "sha256": "c5aa5685a02f1a099d2e32081f06f31968f7bf04bb38e891b4f3d1baab2e2dc5"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2022-08-30_ru.pdf",
+      "bytes": 168864,
+      "sha256": "e0fd518f3edaadd5da99c8c74cdf6381ab2036a706ea27f9f2df53ab796ab41d"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2022-10-08_ru.pdf",
+      "bytes": 171331,
+      "sha256": "101c2ca3edcaabdc1377ad8ccdb4ee1f9287bc840f0c4c1223df89531fcfc5fa"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2022-12-31_ru.pdf",
+      "bytes": 175650,
+      "sha256": "e69baa2d2e1f4b46ecf301ab51ba0ea5b07821d8ada92748200f79eae83b8bdf"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2023-02-02_ru.pdf",
+      "bytes": 184706,
+      "sha256": "d4cebda2313ae6b25bb36c19655c7949bbea6ee5c97ca5bcb05c6b81ada6de3a"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2023-02-15_ru.pdf",
+      "bytes": 186731,
+      "sha256": "d790972e704eb234c3df69776f104b84f177f3b687f5352e5f865777f38b1040"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2023-04-06_ru.pdf",
+      "bytes": 187588,
+      "sha256": "51f7c5b1e69409ac81bb287f7a4349a65d60ed472bb1753b73d5caf6abcb6ff7"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2023-07-06_ru.pdf",
+      "bytes": 178165,
+      "sha256": "fb48aa12d19d1ce00484315d05c9e305dfd7c9b85536c1d28e529bc158e8140f"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2023-08-03_ru.pdf",
+      "bytes": 184444,
+      "sha256": "269441952135c2032a0475ee56c80c1dc6c35df3c0eef8bb60e55eea5ba805c3"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2023-10-10_ru.pdf",
+      "bytes": 207450,
+      "sha256": "716e514125e9008431a47a46a88e2b0ff52d64360d8f0baec0db719944aa30d1"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-01-05_ru.pdf",
+      "bytes": 179189,
+      "sha256": "7b9c3038bd47f22d59d6d6ed9956e1e437ba683c811bb4b5aadb39dfb60b7a53"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-03-21_ru.pdf",
+      "bytes": 186353,
+      "sha256": "9e2d739ef7083fb2ce554530c6ce9ffcc2a33321c8c67437fcede66f8029150d"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-07-01_ru.pdf",
+      "bytes": 180002,
+      "sha256": "458cda6779588a45b41e58e93c2aa7fccc6cca0fe0b2e61a991444047452f528"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-08-01_ru.pdf",
+      "bytes": 207707,
+      "sha256": "0981906d6af0a52fce382129d81bea52f74011d17a2b2a4715fc58d94b61df27"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-08-30_ru.pdf",
+      "bytes": 222743,
+      "sha256": "8882f842f336a971bd44d95db7788978fb690f802d3a4e515319a14b9f998729"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-10-02_ru.pdf",
+      "bytes": 230900,
+      "sha256": "f08e86a6ead5c97e331c43b81c443b086ac4c3c9fde9b2521cf9fdd1733ff11b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2024-12-25_ru.pdf",
+      "bytes": 232771,
+      "sha256": "f1f5634b54938dba3b1b6345877236d88d5cac66b75df50f6270d02e69e4713d"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2025-04-08_ru.pdf",
+      "bytes": 233197,
+      "sha256": "b7d94eb9ba0c0a614f619d6dc8eea591b9b77f4928bbc14eaa19dc8384d97aaa"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2025-10-07_ru.pdf",
+      "bytes": 399522,
+      "sha256": "ae360846da8979f2418e8cf5fd6e403b1f9e8fbc8f1b8df0019bed3961536bec"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2025-10-31_ru.pdf",
+      "bytes": 385870,
+      "sha256": "43236f66e7d89bfb79cb2d5aece2aedcb49a6a154dd5017cfd5182008cf2b73b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2026-02-19_en.pdf",
+      "bytes": 360104,
+      "sha256": "05719106815fc59178d66c04cf90b8e881679587f155716fe285a11061fca32e"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2026-02-19_ru.pdf",
+      "bytes": 430374,
+      "sha256": "79aa09b2f667a7817a469228ad822fdf48a5e9228552923a477ac848a8057485"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/brand_contract_2026-10-01_ru.pdf",
+      "bytes": 420956,
+      "sha256": "5f5845c73bc07104101c8ed5c8f6d101f3043d1354b0def11e34631460eea28b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/cis_tech_tariffs_2026-10-01.pdf",
+      "bytes": 104936,
+      "sha256": "538dde871298594225dd90b674fb94880deb588e41f68ca2eb95f41a79426991"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/ethics_code_v1_1.pdf",
+      "bytes": 524864,
+      "sha256": "88c07e05fb61a807f82a32b28c1735ea0194770c085e0da1b30217d2b0b44da5"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/ord_agencies_instruction.pdf",
+      "bytes": 49142542,
+      "sha256": "8ef07a70a389d3af01f55bb39193fd2012b1e1a22b79e02988c6c243c93af255"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/reporting_documents_template.docx",
+      "bytes": 23187,
+      "sha256": "b6594ced454b4ecd56802460bf7bdf9207bc1c37dc159fe0e15e04fb29581ea3"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/tech_contract_2026-10-01-bilingual.pdf",
+      "bytes": 858031,
+      "sha256": "33f432d31b3822e04d76a5bb767f42c13b2513cc0d5ff3d8eeb7bad7b5c3ef93"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/tech_contract_2026-10-01-original.pdf",
+      "bytes": 554953,
+      "sha256": "9da531dd4c9b9454196dbddb41e2ae86a68acee60eccfb3144bc4291e2206470"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/tech_contract_2026-10-03.pdf",
+      "bytes": 858964,
+      "sha256": "efe152b7d9f6c7cab5d4ae462bb7577d4706fe24138d0d39f6dd59fbeb8b659e"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/tech_contract_2026-12-01.pdf",
+      "bytes": 1094725,
+      "sha256": "d370a05bb300cf6ae060654a085afe58fdf9d3c938c87362bb7a88a8d506796a"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-07-tech/sources/tech_tariffs_2026-10-01.pdf",
+      "bytes": 130586,
+      "sha256": "56b79e61e5c9433b32e97aa2c1613e9ac2386ffd02e0821e55d97b70f732c9da"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/COMPARISON_7_0_7_1.md",
+      "bytes": 7193,
+      "sha256": "a7d88f8f152d2824ce54b8c7fdc4d03c415ba810ee031af7601805196c2f5681"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/COMPARISON_EVIDENCE.md",
+      "bytes": 7694,
+      "sha256": "6e838cb991b582407fb93b3364b01e1d15185ac9b0085554b99c1a38cc13b142"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/COVERAGE.md",
+      "bytes": 3037,
+      "sha256": "d8f0f90022f68f13b219ea9aec3e36f64af6f6136320f3f583873a53f792a02e"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/REPORT.md",
+      "bytes": 2298,
+      "sha256": "721d86317adadd43b1041abcf06eee53a865b58cce31161466a3792e2b570ff0"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/SOURCE_INDEX.md",
+      "bytes": 1991,
+      "sha256": "b4900dcae589b1b5bd6a97d998beaef40197808093e1b5ff65507079b3706775"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/sources/commercial_supply_v7_0_2026-06-17.md",
+      "bytes": 126579,
+      "sha256": "102983875a1ccf95c0c3e5980c7d551668265d2c272c59391531b18183e2ef7b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/sources/commercial_supply_v7_0_2026-06-17.pdf",
+      "bytes": 578437,
+      "sha256": "d40c51b14a2fdfbcc7433c1194c73b0acdfae21e0d34aa7cf758867fe6dd26c7"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/sources/commercial_supply_v7_1_2026-07-31.md",
+      "bytes": 129932,
+      "sha256": "b7a0bbfe1ed1a964aeca738b3132b0bc8ab6d13856f7cda22c88b4ee9237b044"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-08-commercial-supply/sources/commercial_supply_v7_1_2026-07-31.pdf",
+      "bytes": 613987,
+      "sha256": "e496559e043b37d64ac7a3ec31e7ef33d1ca994fe54d3efad00440f4edc929ed"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/COVERAGE.md",
+      "bytes": 10359,
+      "sha256": "b604d120fb8393579920906da107c7090641f49c3a3f1f8eae0ab16c8cad2c16"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/EVIDENCE.md",
+      "bytes": 6693,
+      "sha256": "765d4fab4718294fe93c4e8ffc6f00f1853fd75e0b78f6c600f17d18c6e7a730"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/REPORT.md",
+      "bytes": 27541,
+      "sha256": "a3cb40ce5c41bcc1eb89efaca6367203b270506cc03d3dbbd663ff71892b81fc"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/SOURCE_INDEX.md",
+      "bytes": 3187,
+      "sha256": "9fcf21c98993c54ad82e3c583249aaa10e391145f110babeefe8fdd0942951ba"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/source_urls.json",
+      "bytes": 3737,
+      "sha256": "9ec699d21e03d2b6e6e3b5b0a262c280f86faea66cfd45edd23e5407a195bc37"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/cis-kz-omk-2026-11-16.pdf",
+      "bytes": 1432544,
+      "sha256": "c09c247056d01c923b3f2ad274edc72c0e25139e1cb2b20c6ff6734fe7963e37"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/cis_contract_2026-11-16.pdf",
+      "bytes": 1509015,
+      "sha256": "dee7455a7edc4c740bea71349b6037feff8da05f8a524c0f5882a29064b155f5"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/cp-2026-10-20.xlsx",
+      "bytes": 76068,
+      "sha256": "690eb8562d011f1e68195e03c3a0081ef00d0145513e6e6bbd66ebd958a528d4"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/cp-2026-10-29.xlsx",
+      "bytes": 76096,
+      "sha256": "b6ec8ed012a753c1445008d500a4d2d2a514c339cb7fa365a12d2760613d6dde"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/fbo-2026-10-07.pdf",
+      "bytes": 1194944,
+      "sha256": "aa550c4c6784f16a2e3649401f928403cc6a2d16ea5ae923e4cbdc98e54b28f5"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/fbo-2026-12-01.pdf",
+      "bytes": 1211836,
+      "sha256": "8c27cb70ef368a0ee3c563035fb35a0652480822979a70c2902e7470e47be8f8"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/fbs-2026-09-08.pdf",
+      "bytes": 3979852,
+      "sha256": "858afe70d3cef65c0257a15734d411455bb979ed14aef1a005e59fcc4934c10e"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/fbs-2026-12-22.pdf",
+      "bytes": 779422,
+      "sha256": "57afce480585248a196a4d606efd777ee7de7460a8905de90630092572c46801"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/general-2026-12-16.pdf",
+      "bytes": 949607,
+      "sha256": "a91421b442c2ba4628bef43295e907fd72dc0078a1e02ffae43c63b55e17097a"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/global-2026-11-12.pdf",
+      "bytes": 10595317,
+      "sha256": "7896358401dfe732eed46679fc6af3e016adc17f93936440362a939ed063bee1"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/global-carrier-1.xlsx",
+      "bytes": 75863,
+      "sha256": "3668566797e81a1b0db8d6c88345d4c279700957a3ef641b3bbe00f23264021b"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-09/sources/global-carrier-4.xlsx",
+      "bytes": 208325,
+      "sha256": "03813cddf66467d5927dfef8407ee8ee3582734894ab0695f4a08464edf617c5"
+    },
+    {
       "path": "reports/ozon-report-2026-09-21-10days/REPORT.md",
       "bytes": 21597,
       "sha256": "a258ec71513b6e15d2e08993b6cb12332f981e3bd5a4a0f7aac42ac68f5a75b7"
@@ -873,13 +1438,13 @@
     },
     {
       "path": "wildberries/CHANGELOG.md",
-      "bytes": 3162,
-      "sha256": "5fc26ff097f6db4d9570e9836b88dd9bda15402f0e2fed63762c1088c1071c7c"
+      "bytes": 3399,
+      "sha256": "a69a1990be66f4f3f52ec7fa41211c473a86739fbd6ad21d15b6337bde323e26"
     },
     {
       "path": "wildberries/README.md",
-      "bytes": 3860,
-      "sha256": "d485bf65d9f3bb9289334c966834c0f06ec97452935337f55dc59b313cf6ab13"
+      "bytes": 4313,
+      "sha256": "62855028894d4f43c46bfad19fba6fb51d8e95a55b89ae96d925c0dbea1057ca"
     },
     {
       "path": "wildberries/archive/2026-10-01/WB_offer_102_searchable_text.txt",
@@ -1172,9 +1737,24 @@
       "sha256": "c1a7a52af3c40fb108f47dde8901ba01a7c92a8fdede3a0db4dbab36c88a5ac8"
     },
     {
+      "path": "wildberries/audits/2026-11-09/COVERAGE.md",
+      "bytes": 3378,
+      "sha256": "9902177b5445871dd824a1771d60186445dc07ca5d9471a6386ce43be3867ab3"
+    },
+    {
+      "path": "wildberries/audits/2026-11-09/REPORT.md",
+      "bytes": 5486,
+      "sha256": "691d7727851d31bb6b1b72cb25df1cd308e8c82f50574232267ce65e32dcab5c"
+    },
+    {
+      "path": "wildberries/audits/2026-11-09/originals/brand-shelf-minimum-bids.pdf",
+      "bytes": 658690,
+      "sha256": "2be3e50f6804a3c6945c4f8df5b7b3b572137a6695dc5fbba2a244b9e90c813a"
+    },
+    {
       "path": "wildberries/catalog.json",
-      "bytes": 32868,
-      "sha256": "e1fa9f55f56f5b81871952941272c3fe93a2477279869c63e4b0bbb80024324f"
+      "bytes": 34067,
+      "sha256": "1bf4cf5aef8732e151c41b608589ea26aa6700c16de64d3566a311d7ec1c093c"
     },
     {
       "path": "wildberries/docs/ASSISTANT_RULES.md",
@@ -1183,13 +1763,13 @@
     },
     {
       "path": "wildberries/docs/COVERAGE.md",
-      "bytes": 4639,
-      "sha256": "3e045b62df2c62db61bfb588bd671f80bc8b9f0505c0c2c921c59ea332dbd5c6"
+      "bytes": 4824,
+      "sha256": "1b53a6b935090cebcc6990bc729260c8b04e8afdf9f9f23a8a0aa2260df7b2e1"
     },
     {
       "path": "wildberries/docs/SOURCES.md",
-      "bytes": 10196,
-      "sha256": "97e4412a566bddff370bece2df950547683497157253a7b3d3a90c76b1c46591"
+      "bytes": 10593,
+      "sha256": "073170b28f0aa1a74fe1c40ad7449eb4b85c1e341fed3b134202f5b6dfa471fa"
     },
     {
       "path": "wildberries/docs/START_HERE.md",
@@ -2290,6 +2870,41 @@
       "path": "wildberries/global/2026-11-02/upload/page_map.json",
       "bytes": 6477,
       "sha256": "1df74dc4a3640dd233adc8fc707a275412477e1a888104641d17b5dc21410657"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/COVERAGE.md",
+      "bytes": 3832,
+      "sha256": "9a7d0d303e0626aa6f93a814f228cda6ae6e96440eabcf8e34f02507aa5e3790"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/README.md",
+      "bytes": 458,
+      "sha256": "5db1bf7761e960fce61945227adf4def5e76513c88519cf0fe6ad25f82abdbe5"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/REPORT.md",
+      "bytes": 7381,
+      "sha256": "09e89fb2ca85e557cdc815091fe5488bcbd66321dacd937aa450ee0be705ff3f"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/instructions/order-cancellation-china.md",
+      "bytes": 4909,
+      "sha256": "5a153e4209047c3bb09077f49358c233585dc3bc8d6fa2d19d2c83c378ff88e9"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/instructions/order-feed-report-ch.md",
+      "bytes": 5727,
+      "sha256": "c7ff01431783477e98f0569da214febbec747608b82b182b4ede02824b0980f1"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/instructions/report-comparison-of-cards-china.md",
+      "bytes": 20521,
+      "sha256": "9b914541d843e7b2f618b71554caa75cbc8a79dcfd0c7e46aec37d93f369102c"
+    },
+    {
+      "path": "wildberries/global/2026-11-09/manifest.json",
+      "bytes": 1072,
+      "sha256": "52f8bed24eb8c52aebaea5889cf5793838ec67cb96f2b580425352c8e4296e56"
     },
     {
       "path": "wildberries/upload/2026-11-02/README.md",

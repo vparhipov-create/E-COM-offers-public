@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-09",
+  "status": "partial",
+  "scope": "Китай → Россия",
+  "files": [
+    {
+      "path": "COVERAGE.md",
+      "sha256": "9a7d0d303e0626aa6f93a814f228cda6ae6e96440eabcf8e34f02507aa5e3790",
+      "bytes": 3832
+    },
+    {
+      "path": "README.md",
+      "sha256": "5db1bf7761e960fce61945227adf4def5e76513c88519cf0fe6ad25f82abdbe5",
+      "bytes": 458
+    },
+    {
+      "path": "REPORT.md",
+      "sha256": "09e89fb2ca85e557cdc815091fe5488bcbd66321dacd937aa450ee0be705ff3f",
+      "bytes": 7381
+    },
+    {
+      "path": "instructions/order-cancellation-china.md",
+      "sha256": "5a153e4209047c3bb09077f49358c233585dc3bc8d6fa2d19d2c83c378ff88e9",
+      "bytes": 4909
+    },
+    {
+      "path": "instructions/order-feed-report-ch.md",
+      "sha256": "c7ff01431783477e98f0569da214febbec747608b82b182b4ede02824b0980f1",
+      "bytes": 5727
+    },
+    {
+      "path": "instructions/report-comparison-of-cards-china.md",
+      "sha256": "9b914541d843e7b2f618b71554caa75cbc8a79dcfd0c7e46aec37d93f369102c",
+      "bytes": 20521
+    }
+  ]
+}
