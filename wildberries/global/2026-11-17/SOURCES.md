@@ -1,0 +1,8 @@
+# Источники и воспроизводимость
+
+- [Китайская оферта country=zh](https://seller.wildberries.cn/terms?locale=zh&country=zh), [официальный публичный реестр](https://seller-services.wildberries.ru/api/offer/api/v1/offers/landing-page?type=product_cn); сохранён ответ access/public-offer-registry.json. API и схема статического адреса скачивания обнаружены в публичных HTML/JS самой страницы, запросы выполнены без аккаунта. Исходный адрес и параметры не заменены российским product.
+- [Оригинал №30](originals/WB_Global_offer_30_2026-11-25.pdf), метаданные в offer_download.json, страницы и пункты для сравнения в offer_29_30_diff.json. Прежний источник [№29](../2026-11-02/upload/01_WB_Global_Оферта_29.pdf), это исторический оригинал базы, не новая загрузка архива.
+- [Дерево](https://seller.wildberries.ru/instructions/ch/ch/categories), локальные discovery-root.json, tree/, tree-comparison.json; реестр 157 проверенных адресов, включая 156 актуально связанных. Сравнение, переименование регионального отчёта.
+- PDF-реестр и статусы загрузки, напечатанные и активные ссылки, ссылки №30, замыкание. Лицензия 0925, запрещённые/ограниченные товары, штрафы, логистика и вложенные перечни сохранены оригиналами.
+- [Таблица 1026](https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/1026.pdf), [предыдущая 0826](https://static-basket-02.wbbasket.ru/vol20/China/warehouse_and_tarrifs/0826.pdf), сравнение тарифных строк в tariff_comparison.json. Не использовать исторические 1025/1125 как текущую базу вместо прямой ссылки №29 0826.
+- manifest.json содержит SHA-256 и размер каждого файла среза, источник и страницы каждого оригинального PDF. Ограничения доступа: access.json, access/, COVERAGE.md.
