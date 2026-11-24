@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-23",
+  "status": "partial",
+  "scope": "WBGlobal,Китай→РФ;публичнаявыборка",
+  "files": [
+    {
+      "path": "REPORT.md",
+      "bytes": 27394,
+      "sha256": "21ef9fcf63ceabf4395fa114c5e605b5830a2c2cdfc2d460e30eb0d231f9b9c4"
+    },
+    {
+      "path": "COVERAGE.md",
+      "bytes": 9321,
+      "sha256": "9c77caa3a5a850202a8e5fefb3dd6273a7475e430111f9de81a96fb033632b7e"
+    },
+    {
+      "path": "INSTRUCTION_CHANGES.md",
+      "bytes": 5648,
+      "sha256": "dcd3b982e30f6d947c1bbe0cabbd95b116eddb8acb03c64d1ce5a4518722d1f8"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 3620,
+      "sha256": "b59c49e73825716652da31fd6117a93519b21e19a38da7362988cc91dd993722"
+    },
+    {
+      "path": "archive/WB_Global_offer_28_effective_2026-09-23.pdf",
+      "bytes": 1802731,
+      "sha256": "3a083eb2f4ac05313b4078e627f59adcb49a6810a3dace683225c3dca4a12a5d"
+    },
+    {
+      "path": "archive/WB_Global_offer_27_effective_2026-09-01.pdf",
+      "bytes": 1811690,
+      "sha256": "84b6f63d307f0224170e6b6b02d92ac29a2a5888e19e13674d7995988e9e0c11"
+    },
+    {
+      "path": "archive/WB_Global_offer_26_effective_2026-07-22.pdf",
+      "bytes": 1636538,
+      "sha256": "59bf31011cfd1b0810008758a9d50c5255769c5d9f5da4c51472932e84fd2f5d"
+    },
+    {
+      "path": "archive/WB_Global_offer_25_effective_2026-06-18.pdf",
+      "bytes": 1820241,
+      "sha256": "cca74434e020dc56f4e1ea0a224e52dc544b4dd883c2de2849b0f665d40cb964"
+    },
+    {
+      "path": "archive/WB_Global_offer_24_effective_2026-05-04.pdf",
+      "bytes": 1812868,
+      "sha256": "62ced682f05b1ccc7fa845b2ee364f5858fda4154553ce366673a0c7a8fabcd4"
+    },
+    {
+      "path": "archive/WB_Global_offer_23_effective_2026-04-01.pdf",
+      "bytes": 3277336,
+      "sha256": "3afd99bf5d17783fb7780bb1f8f195d16648ebafa58a70b42acd1473f9120caf"
+    },
+    {
+      "path": "archive/WB_Global_offer_22_effective_2026-03-20.pdf",
+      "bytes": 3363554,
+      "sha256": "45345da926cc5d71845b185e67ed00d5a3fad5ac67292f92419be7b00b2a978e"
+    },
+    {
+      "path": "archive/WB_Global_offer_21_effective_2026-02-09.pdf",
+      "bytes": 3335922,
+      "sha256": "378a41b1255ee659d37402b70c80adf030ccc6143fb16465321b92a2a189adfd"
+    },
+    {
+      "path": "archive/WB_Global_offer_20_effective_2025-12-29.pdf",
+      "bytes": 3341935,
+      "sha256": "579e84fc40856d4faa0804f229135f70de5117a48afe67ba1e212755eed58c2f"
+    },
+    {
+      "path": "archive/WB_Global_offer_19_effective_2025-12-10.pdf",
+      "bytes": 3356132,
+      "sha256": "f5c3352493829f6ef7234f80d8b7a43c4a96db67ac9ebf93fa6376efbb8c6cf2"
+    },
+    {
+      "path": "archive/WB_Global_offer_18_effective_2025-12-01.pdf",
+      "bytes": 3357626,
+      "sha256": "893fce41557a9c04a3363c6e821b0423602135741ea71d42b8ac4c7173634275"
+    },
+    {
+      "path": "archive/WB_Global_offer_17_effective_2025-11-17.pdf",
+      "bytes": 3178128,
+      "sha256": "5e89ddeb1397d31683f49c0f6e2718d0e7f1c9355c5a59a46434ac733735a714"
+    },
+    {
+      "path": "archive/WB_Global_offer_16_effective_2025-11-12.pdf",
+      "bytes": 3177414,
+      "sha256": "78e0ad5896a46a6820a968a268ffc61da6302cd55382afae3592d7338d03ff96"
+    },
+    {
+      "path": "archive/WB_Global_offer_15_effective_2025-10-13.pdf",
+      "bytes": 2918183,
+      "sha256": "40a172f1b478c449af240c95bac68c5f097dc198c741d6d10a6a7f65f98f01e9"
+    },
+    {
+      "path": "archive/WB_Global_offer_14_effective_2025-10-02.pdf",
+      "bytes": 2998048,
+      "sha256": "34ca6810ea24c7932d78456b6191e9651b1558ceac7e11227df6de6e2424a7c5"
+    },
+    {
+      "path": "archive/WB_Global_offer_13_effective_2025-08-14.pdf",
+      "bytes": 2890954,
+      "sha256": "1fb92e3e4d13261b3d1ce5baf0d1c18cf93732f140368e85e61614e37fde0f9c"
+    },
+    {
+      "path": "archive/WB_Global_offer_12_effective_2025-06-16.pdf",
+      "bytes": 2907320,
+      "sha256": "bfe85b2fe140356a2e476309e0a92a59030eaf241b21b9e378c0458f9b03aba0"
+    },
+    {
+      "path": "archive_records.json",
+      "bytes": 7452,
+      "sha256": "d9f710c8e4d6d0306a97e4938f33d266fd231e802485196b31c7e0d7bc377f33"
+    },
+    {
+      "path": "originals/commission_FBS_export_2026-11-23.xlsx",
+      "bytes": 217788,
+      "sha256": "633f34a43765061d529425247d2b48ae88a530e5635e0310f45ac4e18b184290"
+    },
+    {
+      "path": "commission_matrix.json",
+      "bytes": 827011,
+      "sha256": "be9432e507a81aa7324f7290a01811e498f2e5c269c665a80194acf1b9e7d13e"
+    },
+    {
+      "path": "instructions/fines-retentions-and-other-penalties-for-china-sellers.md",
+      "bytes": 14849,
+      "sha256": "46c19f9560915f5fee8a66045d2f4485789f21d1ed6400e1b04757f549ca6de2"
+    },
+    {
+      "path": "instructions/djem-subscription-options-ch.md",
+      "bytes": 8690,
+      "sha256": "2e4204eae667550d9e145f3712569bc6388a7e4026e0c2aa3d7d4639052422e1"
+    },
+    {
+      "path": "instructions/income-and-expenses-report-china.md",
+      "bytes": 11624,
+      "sha256": "8fa93af8af54f242a2db5c714a6bb6e3320fb061dc24da0dae12bb37ec275d12"
+    },
+    {
+      "path": "instructions/item-photo-rules-and-common-mistakes-china.md",
+      "bytes": 30747,
+      "sha256": "a9204ec850be057ea4cc56170eadfa5d2751c6d36b86ea082fe0d2b8e323694a"
+    },
+    {
+      "path": "instructions/how-to-use-offer-china.md",
+      "bytes": 2275,
+      "sha256": "0079e40cb63c7fce1df91d0dee677a5f54f0c6c60204fae48122d4c30f776a0f"
+    },
+    {
+      "path": "instructions/history-of-remains-report-china.md",
+      "bytes": 11227,
+      "sha256": "425ed4320f4be40b3b7bd1a2718c059a2ad436d6d2f2f92738903fe3d394fc57"
+    },
+    {
+      "path": "instructions/customer-reviews-china.md",
+      "bytes": 17109,
+      "sha256": "220dfb91c942d8f9ef78fa2ed538d3b142cb1e5e059e8bb9445e0f4d35feae69"
+    },
+    {
+      "path": "instructions/tariff-constructor-options-ch.md",
+      "bytes": 11190,
+      "sha256": "49dd2fd9ad3471a6644cb1ec8189ba14e08e94d8408084ad221c62167bd08a88"
+    },
+    {
+      "path": "instructions/cel-warehouse-in-china-chengdu.md",
+      "bytes": 23192,
+      "sha256": "dd74b53ea9ef20bc05397fdbb5cf584d35c9f030eed62ceba811f7aca940980e"
+    },
+    {
+      "path": "instructions/digital-arbitration-china.md",
+      "bytes": 18556,
+      "sha256": "670ccab3693092761e900443f68fa62d56bb39a02c9ad63a4c380972fc29a6c9"
+    },
+    {
+      "path": "instructions/wb-plus-model-in-china.md",
+      "bytes": 1402,
+      "sha256": "333d383b996db85936a2938890c9d0590b48864bd161033f168c9c83a11ff7f2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 630,
+      "sha256": "fa6a4e1ed09abe44319fb3500a25b40b51d8a9a36f14f52c8d3d92932c66e113"
+    }
+  ]
+}

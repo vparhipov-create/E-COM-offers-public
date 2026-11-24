@@ -779,13 +779,13 @@
   "audit": "audits/2026-11-02/recheck.json",
   "coverage": "docs/COVERAGE.md",
   "latest_russia_audit": {
-    "checked_on": "2026-11-09",
+    "date": "2026-11-23",
     "status": "partial",
-    "report": "audits/2026-11-09/REPORT.md",
-    "coverage": "audits/2026-11-09/COVERAGE.md",
-    "new_official_document_files": [
-      "audits/2026-11-09/originals/brand-shelf-minimum-bids.pdf"
-    ]
+    "report_file": "audits/2026-11-23/REPORT.md",
+    "coverage_file": "audits/2026-11-23/COVERAGE.md",
+    "current_offer": 102,
+    "future_offer": 103,
+    "future_effective_date": "2026-12-01"
   },
   "additional_documents": [
     {
@@ -799,12 +799,20 @@
     }
   ],
   "latest_global_audit": {
-    "checked_on": "2026-11-09",
+    "date": "2026-11-23",
     "status": "partial",
-    "report": "global/2026-11-09/REPORT.md",
-    "coverage": "global/2026-11-09/COVERAGE.md",
-    "snapshot": "global/2026-11-09/manifest.json",
-    "current_offer_verified": false,
-    "last_observed_offer": 29
+    "report_file": "global/2026-11-23/REPORT.md",
+    "coverage_file": "global/2026-11-23/COVERAGE.md",
+    "current_offer": 29,
+    "future_offer": 30,
+    "future_effective_date": "2026-11-25",
+    "scope": "Китай → РФ"
+  },
+  "checked_as_of": "2026-11-23",
+  "future_russian_offer": {
+    "version": 103,
+    "publication_date": "2026-11-16",
+    "effective_date": "2026-12-01",
+    "file": "audits/2026-11-16/originals/WB_offer_103_effective_2026-12-01.pdf"
   }
 }

@@ -1,0 +1,196 @@
+{
+  "checked_on": "2026-11-23",
+  "scope": "Китай → РФ, видимые редакции №12–30; №1–11 не получены, 2024 исключён",
+  "records": [
+    {
+      "version": 30,
+      "published_on": "2026-11-10",
+      "effective_on": "2026-11-25",
+      "bytes": 1894430,
+      "pages": 77,
+      "sha256": "7ba48aba17b1b652e009949048a5bf0e14b651c779a69b50dda0831efd11dc27",
+      "file": "../2026-11-17/originals/WB_Global_offer_30_2026-11-25.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 29,
+      "published_on": "2026-09-24",
+      "effective_on": "2026-10-01",
+      "bytes": 1882453,
+      "pages": 75,
+      "sha256": "23ea458075d2781157ba98863d29dae1b30934b9aba4cf7f9a88da55074f3220",
+      "file": "../2026-11-02/upload/01_WB_Global_Оферта_29.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 28,
+      "published_on": "2026-09-16",
+      "effective_on": "2026-09-23",
+      "bytes": 1802731,
+      "pages": 71,
+      "sha256": "3a083eb2f4ac05313b4078e627f59adcb49a6810a3dace683225c3dca4a12a5d",
+      "file": "archive/WB_Global_offer_28_effective_2026-09-23.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 27,
+      "published_on": "2026-08-25",
+      "effective_on": "2026-09-01",
+      "bytes": 1811690,
+      "pages": 72,
+      "sha256": "84b6f63d307f0224170e6b6b02d92ac29a2a5888e19e13674d7995988e9e0c11",
+      "file": "archive/WB_Global_offer_27_effective_2026-09-01.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 26,
+      "published_on": "2026-07-15",
+      "effective_on": "2026-07-22",
+      "bytes": 1636538,
+      "pages": 73,
+      "sha256": "59bf31011cfd1b0810008758a9d50c5255769c5d9f5da4c51472932e84fd2f5d",
+      "file": "archive/WB_Global_offer_26_effective_2026-07-22.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 25,
+      "published_on": "2026-06-11",
+      "effective_on": "2026-06-18",
+      "bytes": 1820241,
+      "pages": 72,
+      "sha256": "cca74434e020dc56f4e1ea0a224e52dc544b4dd883c2de2849b0f665d40cb964",
+      "file": "archive/WB_Global_offer_25_effective_2026-06-18.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 24,
+      "published_on": "2026-04-27",
+      "effective_on": "2026-05-04",
+      "bytes": 1812868,
+      "pages": 71,
+      "sha256": "62ced682f05b1ccc7fa845b2ee364f5858fda4154553ce366673a0c7a8fabcd4",
+      "file": "archive/WB_Global_offer_24_effective_2026-05-04.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 23,
+      "published_on": "2026-03-25",
+      "effective_on": "2026-04-01",
+      "bytes": 3277336,
+      "pages": 68,
+      "sha256": "3afd99bf5d17783fb7780bb1f8f195d16648ebafa58a70b42acd1473f9120caf",
+      "file": "archive/WB_Global_offer_23_effective_2026-04-01.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 22,
+      "published_on": "2026-03-13",
+      "effective_on": "2026-03-20",
+      "bytes": 3363554,
+      "pages": 66,
+      "sha256": "45345da926cc5d71845b185e67ed00d5a3fad5ac67292f92419be7b00b2a978e",
+      "file": "archive/WB_Global_offer_22_effective_2026-03-20.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 21,
+      "published_on": "2026-02-02",
+      "effective_on": "2026-02-09",
+      "bytes": 3335922,
+      "pages": 66,
+      "sha256": "378a41b1255ee659d37402b70c80adf030ccc6143fb16465321b92a2a189adfd",
+      "file": "archive/WB_Global_offer_21_effective_2026-02-09.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 20,
+      "published_on": "2025-12-24",
+      "effective_on": "2025-12-29",
+      "bytes": 3341935,
+      "pages": 66,
+      "sha256": "579e84fc40856d4faa0804f229135f70de5117a48afe67ba1e212755eed58c2f",
+      "file": "archive/WB_Global_offer_20_effective_2025-12-29.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 19,
+      "published_on": "2025-12-03",
+      "effective_on": "2025-12-10",
+      "bytes": 3356132,
+      "pages": 67,
+      "sha256": "f5c3352493829f6ef7234f80d8b7a43c4a96db67ac9ebf93fa6376efbb8c6cf2",
+      "file": "archive/WB_Global_offer_19_effective_2025-12-10.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 18,
+      "published_on": "2025-11-24",
+      "effective_on": "2025-12-01",
+      "bytes": 3357626,
+      "pages": 67,
+      "sha256": "893fce41557a9c04a3363c6e821b0423602135741ea71d42b8ac4c7173634275",
+      "file": "archive/WB_Global_offer_18_effective_2025-12-01.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 17,
+      "published_on": "2025-11-10",
+      "effective_on": "2025-11-17",
+      "bytes": 3178128,
+      "pages": 64,
+      "sha256": "5e89ddeb1397d31683f49c0f6e2718d0e7f1c9355c5a59a46434ac733735a714",
+      "file": "archive/WB_Global_offer_17_effective_2025-11-17.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 16,
+      "published_on": "2025-11-05",
+      "effective_on": "2025-11-12",
+      "bytes": 3177414,
+      "pages": 64,
+      "sha256": "78e0ad5896a46a6820a968a268ffc61da6302cd55382afae3592d7338d03ff96",
+      "file": "archive/WB_Global_offer_16_effective_2025-11-12.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 15,
+      "published_on": "2025-10-09",
+      "effective_on": "2025-10-13",
+      "bytes": 2918183,
+      "pages": 65,
+      "sha256": "40a172f1b478c449af240c95bac68c5f097dc198c741d6d10a6a7f65f98f01e9",
+      "file": "archive/WB_Global_offer_15_effective_2025-10-13.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 14,
+      "published_on": "2025-09-25",
+      "effective_on": "2025-10-02",
+      "bytes": 2998048,
+      "pages": 65,
+      "sha256": "34ca6810ea24c7932d78456b6191e9651b1558ceac7e11227df6de6e2424a7c5",
+      "file": "archive/WB_Global_offer_14_effective_2025-10-02.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 13,
+      "published_on": "2025-08-13",
+      "effective_on": "2025-08-14",
+      "bytes": 2890954,
+      "pages": 64,
+      "sha256": "1fb92e3e4d13261b3d1ce5baf0d1c18cf93732f140368e85e61614e37fde0f9c",
+      "file": "archive/WB_Global_offer_13_effective_2025-08-14.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    },
+    {
+      "version": 12,
+      "published_on": "2025-06-09",
+      "effective_on": "2025-06-16",
+      "bytes": 2907320,
+      "pages": 64,
+      "sha256": "bfe85b2fe140356a2e476309e0a92a59030eaf241b21b9e378c0458f9b03aba0",
+      "file": "archive/WB_Global_offer_12_effective_2025-06-16.pdf",
+      "source": "https://seller.wildberries.ru/confirm-offer-condition/history"
+    }
+  ]
+}

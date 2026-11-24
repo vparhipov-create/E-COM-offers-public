@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "public_repository": "https://github.com/vparhipov-create/E-COM-offers-public",
-  "publication_date": "2026-11-17",
+  "publication_date": "2026-11-24",
   "source_snapshots": [
     {
       "repository": "vparhipov-create/DS-WB",
@@ -10,17 +10,17 @@
     },
     {
       "repository": "vparhipov-create/289-fz",
-      "commit": "6b0631fc40e47ea6b0f6f09c3d62f68d04a972ad",
+      "commit": "9b15b734a25b5568f25ba23408a46b2800f2add5",
       "publication_mode": "reviewed_documents"
     },
     {
       "repository": "vparhipov-create/wb-offers-monitors",
-      "commit": "008c4cc9bbea59c304a58f5a2af17e2ae807b603",
+      "commit": "8be96884eca77ff8feaba24cffa0bb629d36b94a",
       "publication_mode": "reviewed_documents"
     },
     {
       "repository": "vparhipov-create/ozon-offers-monitor",
-      "commit": "5722226dc92dfb7b07f64b3cc9d9e78163a77f13",
+      "commit": "9a408fb7660b86d5eff0ec5342e43f2660e9af40",
       "publication_mode": "reviewed_documents"
     }
   ],
@@ -43,8 +43,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 5038,
-      "sha256": "fa918183d9f1e41aa95ee5cf2418bc395722fe734a16ac559eb50abc740f8a27"
+      "bytes": 5427,
+      "sha256": "999fad5d9e2e8afb60473e9f55d50e6df00ba91d6a15ded1544d3afa6fc4531b"
     },
     {
       "path": "PUBLICATION_POLICY.md",
@@ -53,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5340,
-      "sha256": "f4d5ecca8121863c5a74bd0e2cef3a9a8b7267f23247f8f9d8eba3bdf0190a91"
+      "bytes": 5332,
+      "sha256": "c40565eb199fb36ea8d9c51b29145926f6c77412a0fa53c2c5c5583a442f84ec"
     },
     {
       "path": "categories.txt",
@@ -63,13 +63,13 @@
     },
     {
       "path": "ozon/README.md",
-      "bytes": 5611,
-      "sha256": "73421fbad3ed5720deae4ea400c28b9aeec30dc1483a21ba3dbaf5b83b29645d"
+      "bytes": 5885,
+      "sha256": "0b4c3c738ddbf7610a82849491c86b9a8035227a288f3edb0c928a7414794d4f"
     },
     {
       "path": "platform-law/README.md",
-      "bytes": 4972,
-      "sha256": "baed4c63926db292da92f70beeaeb1d7c038843ec1ebff16fbe36ab6a7540a03"
+      "bytes": 5255,
+      "sha256": "e732f91cf9c604c55aba24e13e95b4af02bc52c55b0630d88d533c411bbcbe03"
     },
     {
       "path": "platform-law/monitoring/2026-11-09/COVERAGE.md",
@@ -130,6 +130,81 @@
       "path": "platform-law/monitoring/2026-11-17/sources/candidate_0001202611160035.pdf",
       "bytes": 10201766,
       "sha256": "89ed109c64329721bd000bc954ba7bf37c45c5df33a58c314d70ba4f3adcc6a4"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/COVERAGE.md",
+      "bytes": 9203,
+      "sha256": "a3dd28f88c2309269889a0f94206d64ac2576f8deda9a514c920c01a7a3654ea"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/EVIDENCE.md",
+      "bytes": 6932,
+      "sha256": "8d045c5c26845ca2780d37d7d41e35331290907cc0d22a95a2efb78b3dcf40f0"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/REPORT.md",
+      "bytes": 17404,
+      "sha256": "00a9157735a0b0531d0f6fcdb72d613f1edbd5c36f4c733b6df98fee4d11a8ac"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/SOURCE_INDEX.md",
+      "bytes": 1942,
+      "sha256": "2782e791d2adc50729cd2b80086f295a528785fe1aec70e462479cc6cadfeb03"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/EEC173_pdf.pdf",
+      "bytes": 1007657,
+      "sha256": "aaf6602a36d53c7f0942275c559eae52cd6aed5a10b5f55c35294e99bdf7434a"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/FZ351_pdf.pdf",
+      "bytes": 42223,
+      "sha256": "7500f6c5fbbc8bd63710cb1035324519b900c2912da9a7272c97c2678010ee66"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/MF159n_pdf.pdf",
+      "bytes": 606112,
+      "sha256": "841f06b3779b37acce15a98d9e9ebe9a779f58356ae6faedb4d92be283b4760e"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/MF55_before_pdf.pdf",
+      "bytes": 2336438,
+      "sha256": "30d4a71db1a4d8af08d9441c795fa908f615bcaac77d201c297330ff7e837fd8"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/MT374_before_pdf.pdf",
+      "bytes": 2090321,
+      "sha256": "f06405f4e802cdafc63bd26707a5826bf3fd47d93e1124268b49050eec653c61"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/MT436_pdf.pdf",
+      "bytes": 235843,
+      "sha256": "5b0deb4db1bac31c2e64fc5c0501352dad77ffb70dd03d5b14d9850afb54115c"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/PP1531_pdf.pdf",
+      "bytes": 4768357,
+      "sha256": "71214e234a1997091f9b5ed0dab54b4572b42f531db3e3bb2a4a5df8000d2a1d"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/PP1537_pdf.pdf",
+      "bytes": 149762,
+      "sha256": "1add462cbbfd6bc2b5a6a59b6f025a52b0de0bf78ac56df9de2fa8befa26b0f0"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/PP2109_pdf.pdf",
+      "bytes": 186578,
+      "sha256": "84316b062f5b9cf39d28de087bfeba15a3cbcec9728d0dc33a69554c40b8840a"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/PP834_pdf.pdf",
+      "bytes": 111940,
+      "sha256": "4a75e517d93f49ba148db3ffdb201e9c78d96e48677282d686892427c4640c02"
+    },
+    {
+      "path": "platform-law/monitoring/2026-11-23/sources/PP936_before_pdf.pdf",
+      "bytes": 1924489,
+      "sha256": "73104bea119a4f62aa67509f62d0b955757cdafa4abbe2c7c824ceedd94ebc3a"
     },
     {
       "path": "platform-law/output/Платформенная экономика России справочник 2026-10-01.docx",
@@ -365,6 +440,16 @@
       "path": "reports/ecom-weekly-2026-11-17/changes.json",
       "bytes": 41248,
       "sha256": "129650eca9aeb7aec2d35963322a0ddc7329cae20ffb86b540693ebd28cce50e"
+    },
+    {
+      "path": "reports/ecom-weekly-2026-11-24/CHANGES.md",
+      "bytes": 45214,
+      "sha256": "e5620e7a67a9834841a160de5535e4657d06b30d099f1e7daa8889370ddbbff7"
+    },
+    {
+      "path": "reports/ecom-weekly-2026-11-24/changes.json",
+      "bytes": 51143,
+      "sha256": "7ec1f4b9c3aad1ce18fa69d99086ec9e2b37b807d5bc6d2622472f8cce04f622"
     },
     {
       "path": "reports/ozon-audit-2026-09-20/REPORT_RU.md",
@@ -1492,6 +1577,56 @@
       "sha256": "08490a476923861fb7ec5bcfd98495533969bab292e3131660627c036b200335"
     },
     {
+      "path": "reports/ozon-audit-2026-11-23/COVERAGE.md",
+      "bytes": 7894,
+      "sha256": "b74ccb87d5c145d71b7995206bdb1aa227532b9a0774104458d2fe94f4862190"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/EVIDENCE.md",
+      "bytes": 6783,
+      "sha256": "ffb5e2f2f64ecc7f48761fa01f200d5beeb36bb7d81ac706458ccf18c6f1f3e6"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/REPORT.md",
+      "bytes": 35136,
+      "sha256": "8111593ca5928e757863caedf43bc59b8946080e669aaa8f17e371055066eba4"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/SOURCE_INDEX.md",
+      "bytes": 1998,
+      "sha256": "626aefa11c91eb399e9fee94e1a9c6887aa50b50bde150b38fac2fc8a50cfbc1"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/source_urls.json",
+      "bytes": 1597,
+      "sha256": "b6655002fe59df286d9d516a5b062d9cc67f09c3b496db842f5a20b93a300f22"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/sources/ru_tariffs_2026_11_17.pdf",
+      "bytes": 1818083,
+      "sha256": "4669d1c6ef1073db3dc5e218ebc64f0cafb4cff6c061df67f9a02f78d3817fae"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/sources/ru_tariffs_2026_11_19.pdf",
+      "bytes": 1848653,
+      "sha256": "28e0f5eef80f64c201b0704be760579bd1c04872e3fc70c4767cb3148d78b139"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/sources/ru_tariffs_fbs_2026_11_19.pdf",
+      "bytes": 1747758,
+      "sha256": "930b38a07ea803f6350fdbf1a6f9c962d6de2a1f33b7aa0a87bfd9a03881a8be"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/sources/tech_2026_12_04.pdf",
+      "bytes": 1103596,
+      "sha256": "c3bcbdbb65ab907e16a850663412f7cd7cffcb7f1bc410a0da70feae6a7c8f46"
+    },
+    {
+      "path": "reports/ozon-audit-2026-11-23/sources/tech_archive_2026_10_03.pdf",
+      "bytes": 565210,
+      "sha256": "d006233c0196619240c8a6945b77283003c152388d042144150f7c75362dcfca"
+    },
+    {
       "path": "reports/ozon-report-2026-09-21-10days/REPORT.md",
       "bytes": 21597,
       "sha256": "a258ec71513b6e15d2e08993b6cb12332f981e3bd5a4a0f7aac42ac68f5a75b7"
@@ -1528,8 +1663,8 @@
     },
     {
       "path": "wildberries/README.md",
-      "bytes": 4663,
-      "sha256": "69755970d25ee6e132370176634cef911da9d96b783cc9a99539cace3b04b1f3"
+      "bytes": 4952,
+      "sha256": "15975ef55ddfbb949a910f37fc8d57f0d43d7f32a27321be80f354b3f83a6678"
     },
     {
       "path": "wildberries/archive/2026-10-01/WB_offer_102_searchable_text.txt",
@@ -1892,9 +2027,234 @@
       "sha256": "c466995bcf913de99f3d18a40bb7da5b84aa4f1cdab7e2f7e73a6b1563e94945"
     },
     {
+      "path": "wildberries/audits/2026-11-23/COVERAGE.md",
+      "bytes": 9435,
+      "sha256": "b40f48d4d04c4c7bb90f573462bd7178ed2a03f6853a12b85d6a36a3ce31ca3f"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/INSTRUCTION_CHANGES.md",
+      "bytes": 22717,
+      "sha256": "4da2214380e115dc77c4ad629438680bc11cdee6dfad2043a5eefd3c8a8b1309"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/REPORT.md",
+      "bytes": 23422,
+      "sha256": "95e1c6c4ac3f3bf660072528d02761e308b958ccb1623ca4ddb4af8536725072"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/SOURCES.md",
+      "bytes": 2639,
+      "sha256": "88db084e1078e282811b94e5cfa952e8d6ff1854cb38fa76041aa76650b366d2"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/3d-model-in-card.md",
+      "bytes": 5004,
+      "sha256": "d33c92974c531abd4ad0228671a22ed9b63da4a71c6b7810a66e3d492628834f"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/about-click-and-collect-sales-model.md",
+      "bytes": 13153,
+      "sha256": "623b69b2fc1b385af12e912735a03c2b8aef77ff343dae1a33f954e12f62f065"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/books-special-sections.md",
+      "bytes": 13022,
+      "sha256": "7cc1c8f9e0a6e664a840716cbba800a0a83d4990f1256d79dd630be6b13bb94d"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/cache-and-cookies-clearing.md",
+      "bytes": 8080,
+      "sha256": "5837ed472e8085aed89fed6074f4e94b38b2f3e9b0cd5d7d7732bc1072229b30"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/cards-comparing-analytics.md",
+      "bytes": 43537,
+      "sha256": "0a770c866b8ad2ab389d966a42c1476d14a76dda3562e2dcd65227431916c9eb"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/electronic-document-management-with-wb.md",
+      "bytes": 30606,
+      "sha256": "55cbb869204ad9c58e23119c5fc0bce5b5e1b1797dc1761b99345e18214b6e76"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/events-calendar.md",
+      "bytes": 19432,
+      "sha256": "fb227ab0f786ea4de1816c221803990bdb6e1ddcbe17ca213b94dcf4f18fdb50"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/fbs-sales-model.md",
+      "bytes": 7354,
+      "sha256": "8487b17336890a1a02388fa7517679023a7c4306e7328cece5ed59898984604f"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-create-card.md",
+      "bytes": 50987,
+      "sha256": "cd392e3cfee61473ec49f7da4db65f4a129a853dd6239702812c77c6420b6854"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-create-warehouse-in-dbs.md",
+      "bytes": 33857,
+      "sha256": "927e6164beab8b4954ec2c54d30f40b7138439abfed386b442619aa680278083"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-end-your-partnership-with-wb.md",
+      "bytes": 24983,
+      "sha256": "6211ff75f2b37a405e10955106f4f752e67ad3286fe60fa3b5001184bbd29003"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-improve-photos-and-videos-in-a-card.md",
+      "bytes": 12545,
+      "sha256": "a771aae52a0501432ee63f0d1c33068eeafb285c0c87ce3d2dc9bfcaf5e1d270"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-manage-balance.md",
+      "bytes": 9832,
+      "sha256": "2ef255a22a4e04994d3f65e6dfafc564d79afcd1479e5b093ae6af7b4d8291e0"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-manage-orders-in-dbs.md",
+      "bytes": 27568,
+      "sha256": "c013672fb99829c427811b9cd4417f9e09cc1c35dbd07be36d9a1fa086057411"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-pack-different-items-properly.md",
+      "bytes": 74140,
+      "sha256": "5d7c53563ba0430b9e16aaa77105fc9f4454180ded02a4fb2a118bef6e23f260"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-pay-the-debt.md",
+      "bytes": 11368,
+      "sha256": "c72d417bce3b347ec80693482efb51e6539a315a8009f542c9569483171b0224"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-set-price-and-discount.md",
+      "bytes": 20088,
+      "sha256": "e482b562de533a93995a885d63d0410eb75b5be374cf7f2dcd52261ee6900449"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-transfer-cards-to-another-store.md",
+      "bytes": 32998,
+      "sha256": "71551e6e3407a0a431d311e3c20fc22139af999f59636617ade2f3394931f48e"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/how-to-transfer-kiz-cards-with-stock-to-another-store.md",
+      "bytes": 42382,
+      "sha256": "de85ee6a9d48f2cff5b314f8acb2da90b1f566c0c7c31a95ff20d114a5298b14"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/income-and-expenses-report.md",
+      "bytes": 26107,
+      "sha256": "3bde216ecf0b3ac9dbc6f7bf358a90e83bab811ec7e5a058f71a32f11fe70a0c"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/item-auto-return-to-seller.md",
+      "bytes": 16665,
+      "sha256": "7032f222a922338630a68833df4eda0c3dc08c01a3fcd2017c39c245e20cf98d"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/item-ratings.md",
+      "bytes": 23026,
+      "sha256": "59f843e88e4598f4475db85c4d3b5b86be89e1d4465632ae1037d30aeed88990"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/item-returns-to-seller-from-wb-warehouse.md",
+      "bytes": 42471,
+      "sha256": "42177112519dcb4059188f8bdcae4f0ff7d4ffa860789e161fcc2d5d2048b3d9"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/labeled-items-utd-dop-forming.md",
+      "bytes": 13992,
+      "sha256": "4165fb57836cf2e40a54b0416935a13317844ad142cfd7ecd2ca9610535aeee0"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/loyalty-program-berries-for-business.md",
+      "bytes": 23119,
+      "sha256": "66d271d88e9feb926dfa778e89da5115630ee04b917b2ddfae48cb03ef3aa880"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/model-photo-recommendations.md",
+      "bytes": 7077,
+      "sha256": "4396e6544e4d4ba774158cd5b4a0ade68cdbd8764baece5ee39e7c29cbc40f3e"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/order-feed-report.md",
+      "bytes": 12641,
+      "sha256": "5994dcf678e1aa29790b3f5458d0fc01030068b8359a5485b0ad4e3be8f93dca"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/packaging-oversized-items-in-fbw-and-fbs.md",
+      "bytes": 28193,
+      "sha256": "32dd3379fe22b6963bccc7395c6c0745ac092c402e5961942733e760ba12e6cf"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/paid-packaging-of-goods-fbw.md",
+      "bytes": 16463,
+      "sha256": "089db3a57fcffc91821ec1547df11b65c7adc0cae605e651bb59a6411817f742"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/replacement-articles.md",
+      "bytes": 37556,
+      "sha256": "a06cc247fd14ce697c991ac2b7f2ff126b221e28a268f6ab7fc0f1a60b22117b"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/score-for-reviews.md",
+      "bytes": 55975,
+      "sha256": "be42b932e0c6cc026e70ed05eb249d5011b6a2c66b512b57fab6bc4b95b605a8"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/search-queries-report.md",
+      "bytes": 45695,
+      "sha256": "428103b59c4934820d410ff88d60d34ef09b948ea51f0d258f287a3858b076b1"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/sellers-site-main-page.md",
+      "bytes": 15263,
+      "sha256": "1600ff5fc8a1b91acf345223268de9767c5589bb0a53b5665f6b5238ee3b6ef7"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/sizing-chart-in-item-card.md",
+      "bytes": 11970,
+      "sha256": "7284a49e7dcd341c206206957dddc4f5f897f641d71184a8a96a7f318effbea8"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/step-four-delivery-fbw-shipment-to-warehouse.md",
+      "bytes": 13275,
+      "sha256": "376ab6291b3cb545c7c93d23b07f4c5c16f24c7883ddf64639a42e99fe3a6323"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/step-three-fbs-shipment-delivery-to-warehose-or-sorting-centre.md",
+      "bytes": 37464,
+      "sha256": "e2ee9612447164a59596abadaec994825751d36e0a950e775b48e45a0ebcd914"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/tariff-constructor-options.md",
+      "bytes": 41292,
+      "sha256": "95af49279a63c821c51135d4106db83737ca7f18615fa5d92ea18a14901a3c39"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/utd-for-belarus-sellers.md",
+      "bytes": 4855,
+      "sha256": "b9bb518dc54789dcb0eb767a3fe2b9d96477b616a75d2091b6893bc492adf778"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/wb-influence.md",
+      "bytes": 17936,
+      "sha256": "ddc7e2c6bdc6584e2f4ec1753869b9db1b9a04970bb8f51fa5e1f6f6ecebacff"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/wbot-analytics-in-the-app.md",
+      "bytes": 24294,
+      "sha256": "e4affacdca7d5cf3a80b9e6e5623987d27e2c9358c13241a580015a478095018"
+    },
+    {
+      "path": "wildberries/audits/2026-11-23/instructions/website-personal-account-section.md",
+      "bytes": 18763,
+      "sha256": "697246769805252762a8c828bc6c9d427f7c0d688f52c00fac562a47f359020d"
+    },
+    {
       "path": "wildberries/catalog.json",
-      "bytes": 34067,
-      "sha256": "1bf4cf5aef8732e151c41b608589ea26aa6700c16de64d3566a311d7ec1c093c"
+      "bytes": 34309,
+      "sha256": "0f475e0e5a7bce044ac4246bff1d0ab239770d592dc80d4205acca00488812f2"
     },
     {
       "path": "wildberries/docs/ASSISTANT_RULES.md",
@@ -1903,18 +2263,18 @@
     },
     {
       "path": "wildberries/docs/COVERAGE.md",
-      "bytes": 4824,
-      "sha256": "1b53a6b935090cebcc6990bc729260c8b04e8afdf9f9f23a8a0aa2260df7b2e1"
+      "bytes": 5115,
+      "sha256": "48c827210ce29a8488a621317b48ef23d357d2fe4a6b4f603abd232e32964869"
     },
     {
       "path": "wildberries/docs/SOURCES.md",
-      "bytes": 10593,
-      "sha256": "073170b28f0aa1a74fe1c40ad7449eb4b85c1e341fed3b134202f5b6dfa471fa"
+      "bytes": 10884,
+      "sha256": "cd6d447ee62b923c4e26512b7a79e345e3ca49db9b71a1d95fcb1d7b919e8317"
     },
     {
       "path": "wildberries/docs/START_HERE.md",
-      "bytes": 2322,
-      "sha256": "ece40c3f09494b328b5cae86bca447ccb12815b2db2232877a6b46dd9234bf15"
+      "bytes": 2613,
+      "sha256": "e704d2d1849857ecb32b2f5b53c2513665142fe93bc0d62c0d654e7ea1e3a4ed"
     },
     {
       "path": "wildberries/global/2026-11-02/COVERAGE.md",
@@ -3235,6 +3595,191 @@
       "path": "wildberries/global/2026-11-17/originals/WB_Global_offer_30_2026-11-25.pdf",
       "bytes": 1894430,
       "sha256": "7ba48aba17b1b652e009949048a5bf0e14b651c779a69b50dda0831efd11dc27"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/COVERAGE.md",
+      "bytes": 9321,
+      "sha256": "9c77caa3a5a850202a8e5fefb3dd6273a7475e430111f9de81a96fb033632b7e"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/INSTRUCTION_CHANGES.md",
+      "bytes": 5648,
+      "sha256": "dcd3b982e30f6d947c1bbe0cabbd95b116eddb8acb03c64d1ce5a4518722d1f8"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/README.md",
+      "bytes": 630,
+      "sha256": "fa6a4e1ed09abe44319fb3500a25b40b51d8a9a36f14f52c8d3d92932c66e113"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/REPORT.md",
+      "bytes": 27394,
+      "sha256": "21ef9fcf63ceabf4395fa114c5e605b5830a2c2cdfc2d460e30eb0d231f9b9c4"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/SOURCES.md",
+      "bytes": 3620,
+      "sha256": "b59c49e73825716652da31fd6117a93519b21e19a38da7362988cc91dd993722"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_12_effective_2025-06-16.pdf",
+      "bytes": 2907320,
+      "sha256": "bfe85b2fe140356a2e476309e0a92a59030eaf241b21b9e378c0458f9b03aba0"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_13_effective_2025-08-14.pdf",
+      "bytes": 2890954,
+      "sha256": "1fb92e3e4d13261b3d1ce5baf0d1c18cf93732f140368e85e61614e37fde0f9c"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_14_effective_2025-10-02.pdf",
+      "bytes": 2998048,
+      "sha256": "34ca6810ea24c7932d78456b6191e9651b1558ceac7e11227df6de6e2424a7c5"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_15_effective_2025-10-13.pdf",
+      "bytes": 2918183,
+      "sha256": "40a172f1b478c449af240c95bac68c5f097dc198c741d6d10a6a7f65f98f01e9"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_16_effective_2025-11-12.pdf",
+      "bytes": 3177414,
+      "sha256": "78e0ad5896a46a6820a968a268ffc61da6302cd55382afae3592d7338d03ff96"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_17_effective_2025-11-17.pdf",
+      "bytes": 3178128,
+      "sha256": "5e89ddeb1397d31683f49c0f6e2718d0e7f1c9355c5a59a46434ac733735a714"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_18_effective_2025-12-01.pdf",
+      "bytes": 3357626,
+      "sha256": "893fce41557a9c04a3363c6e821b0423602135741ea71d42b8ac4c7173634275"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_19_effective_2025-12-10.pdf",
+      "bytes": 3356132,
+      "sha256": "f5c3352493829f6ef7234f80d8b7a43c4a96db67ac9ebf93fa6376efbb8c6cf2"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_20_effective_2025-12-29.pdf",
+      "bytes": 3341935,
+      "sha256": "579e84fc40856d4faa0804f229135f70de5117a48afe67ba1e212755eed58c2f"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_21_effective_2026-02-09.pdf",
+      "bytes": 3335922,
+      "sha256": "378a41b1255ee659d37402b70c80adf030ccc6143fb16465321b92a2a189adfd"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_22_effective_2026-03-20.pdf",
+      "bytes": 3363554,
+      "sha256": "45345da926cc5d71845b185e67ed00d5a3fad5ac67292f92419be7b00b2a978e"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_23_effective_2026-04-01.pdf",
+      "bytes": 3277336,
+      "sha256": "3afd99bf5d17783fb7780bb1f8f195d16648ebafa58a70b42acd1473f9120caf"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_24_effective_2026-05-04.pdf",
+      "bytes": 1812868,
+      "sha256": "62ced682f05b1ccc7fa845b2ee364f5858fda4154553ce366673a0c7a8fabcd4"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_25_effective_2026-06-18.pdf",
+      "bytes": 1820241,
+      "sha256": "cca74434e020dc56f4e1ea0a224e52dc544b4dd883c2de2849b0f665d40cb964"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_26_effective_2026-07-22.pdf",
+      "bytes": 1636538,
+      "sha256": "59bf31011cfd1b0810008758a9d50c5255769c5d9f5da4c51472932e84fd2f5d"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_27_effective_2026-09-01.pdf",
+      "bytes": 1811690,
+      "sha256": "84b6f63d307f0224170e6b6b02d92ac29a2a5888e19e13674d7995988e9e0c11"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive/WB_Global_offer_28_effective_2026-09-23.pdf",
+      "bytes": 1802731,
+      "sha256": "3a083eb2f4ac05313b4078e627f59adcb49a6810a3dace683225c3dca4a12a5d"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/archive_records.json",
+      "bytes": 7452,
+      "sha256": "d9f710c8e4d6d0306a97e4938f33d266fd231e802485196b31c7e0d7bc377f33"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/commission_matrix.json",
+      "bytes": 827011,
+      "sha256": "be9432e507a81aa7324f7290a01811e498f2e5c269c665a80194acf1b9e7d13e"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/cel-warehouse-in-china-chengdu.md",
+      "bytes": 23192,
+      "sha256": "dd74b53ea9ef20bc05397fdbb5cf584d35c9f030eed62ceba811f7aca940980e"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/customer-reviews-china.md",
+      "bytes": 17109,
+      "sha256": "220dfb91c942d8f9ef78fa2ed538d3b142cb1e5e059e8bb9445e0f4d35feae69"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/digital-arbitration-china.md",
+      "bytes": 18556,
+      "sha256": "670ccab3693092761e900443f68fa62d56bb39a02c9ad63a4c380972fc29a6c9"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/djem-subscription-options-ch.md",
+      "bytes": 8690,
+      "sha256": "2e4204eae667550d9e145f3712569bc6388a7e4026e0c2aa3d7d4639052422e1"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/fines-retentions-and-other-penalties-for-china-sellers.md",
+      "bytes": 14849,
+      "sha256": "46c19f9560915f5fee8a66045d2f4485789f21d1ed6400e1b04757f549ca6de2"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/history-of-remains-report-china.md",
+      "bytes": 11227,
+      "sha256": "425ed4320f4be40b3b7bd1a2718c059a2ad436d6d2f2f92738903fe3d394fc57"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/how-to-use-offer-china.md",
+      "bytes": 2275,
+      "sha256": "0079e40cb63c7fce1df91d0dee677a5f54f0c6c60204fae48122d4c30f776a0f"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/income-and-expenses-report-china.md",
+      "bytes": 11624,
+      "sha256": "8fa93af8af54f242a2db5c714a6bb6e3320fb061dc24da0dae12bb37ec275d12"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/item-photo-rules-and-common-mistakes-china.md",
+      "bytes": 30747,
+      "sha256": "a9204ec850be057ea4cc56170eadfa5d2751c6d36b86ea082fe0d2b8e323694a"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/tariff-constructor-options-ch.md",
+      "bytes": 11190,
+      "sha256": "49dd2fd9ad3471a6644cb1ec8189ba14e08e94d8408084ad221c62167bd08a88"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/instructions/wb-plus-model-in-china.md",
+      "bytes": 1402,
+      "sha256": "333d383b996db85936a2938890c9d0590b48864bd161033f168c9c83a11ff7f2"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/manifest.json",
+      "bytes": 6594,
+      "sha256": "26fd74fcbb4646a8f5108a298774029b4688051e6fed8c1e0b0071fd0e7e29c3"
+    },
+    {
+      "path": "wildberries/global/2026-11-23/originals/commission_FBS_export_2026-11-23.xlsx",
+      "bytes": 217788,
+      "sha256": "633f34a43765061d529425247d2b48ae88a530e5635e0310f45ac4e18b184290"
     },
     {
       "path": "wildberries/upload/2026-11-02/README.md",

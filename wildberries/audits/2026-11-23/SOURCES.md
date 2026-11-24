@@ -1,0 +1,8 @@
+# Источники WB Россия — 23.11.2026
+
+- [Официальная страница РФ](https://seller.wildberries.ru/terms?locale=ru&country=ru), [публичный API страницы, type=product](https://seller-services.wildberries.ru/api/offer/api/v1/offers/landing-page?type=product). В access/public-offer-registry.json сохранены только 35 записей 2025–2026, URL и время по Москве. Запрос без аккаунта, country/type российского договора; китайский product_cn не использован.
+- [Страница оферты кабинета](https://seller.wildberries.ru/confirm-offer-condition/view), [история](https://seller.wildberries.ru/confirm-offer-condition/history): публичное извлечение даёт вход, текущий Chrome имеет иной страновой контекст. История принятия аккаунтом не сохранялась. Обезличенное наблюдение — access/chrome-observation.json.
+- [Дерево](https://seller.wildberries.ru/instructions/ru/ru/categories), снимки 18 категорий/69 подразделов — tree/, корень — access/instructions-root.json. Реестр адресов и тел, сравнение, классификация, [перечень выводов](INSTRUCTION_CHANGES.md).
+- Повторная загрузка 4 оферт: точные статические URL product/version/uuid взяты из публичных записей, SHA/страницы/размер/время. Существующие оригиналы не переписывались. 15 приложений, напечатанные и активные ссылки №103.
+- Все связанные PDF/Excel, вложенные ссылки PDF. Для совпавших файлов указан существующий оригинал и новая фактическая проверка; для ошибок — причина. Другой перечень автовозврата получен по ссылке обновлённой статьи; сравнение с прежним, дата начала действия не указана.
+- Доступ к новостям, [охват](COVERAGE.md), визуальные проверки, метаданные целостности каждого файла — file_manifest.json. Источники вне доступного кабинета не объявлены прочитанными по одному HTTP 200.
